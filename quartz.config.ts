@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "GTS Wiki Österfeld",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "de-DE",
+    baseUrl: "oesterfeld-gts-wiki.netlify.app",
+    ignorePatterns: ["private", "templates", ".obsidian", ".gemini"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

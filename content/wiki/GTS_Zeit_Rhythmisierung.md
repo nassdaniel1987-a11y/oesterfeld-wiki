@@ -1,0 +1,37 @@
+# Ganztagsschule: Zeit & Rhythmisierung
+
+**Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.1)
+**Kategorie:** Struktur und Rahmenbedingungen
+
+## Kerngedanke
+Eine gute Ganztagsschule zeichnet sich nicht durch eine bloße Addition von Halbtagsschule und Nachmittagsbetreuung aus, sondern durch eine *kindgerechte Rhythmisierung* des gesamten Tages. Phasen der Anspannung (Konzentration) und Entspannung wechseln sich lernförderlich ab.
+
+## Standards
+- Kontingentstunden und Ganztagsstunden sind sinnvoll über den Tag verteilt (auch Nachmittags findet Unterricht statt, auch Vormittags gibt es Angebote).
+- Es existiert ein Pausenkonzept, das eine Mittagspause (Verpflegung, Freizeit, Rückzug) sowie zwei längere Pausen am Vormittag umfasst.
+- Pausen orientieren sich an den Bewegungs- und Ruhebedürfnissen der Schüler:innen.
+
+## Entwicklungsstufen (Rubrik)
+
+### Stufe 1: Initiieren
+- Unterrichtszeit berücksichtigt Bedürfnisse der Kinder.
+- Pausenkonzept (inkl. Mittagspause und 2 Vormittagspausen) liegt vor.
+
+### Stufe 2: Implementieren
+- Erprobung **neuer Formen der zeitlichen Rhythmisierung** (z.B. Projektfenster, Zeitfenster für Individualisierung).
+- Erprobung **flexibler Wahlangebote** (z.B. Forscherkurse) – auch am Vormittag.
+- Formen des **selbstorganisierten Lernens** werden im Unterricht integriert, um individuelle Rhythmen zuzulassen.
+- Altersgemäße **Bewegungsmöglichkeiten** sind Teil des gesamten Tagesablaufs (nicht nur in den Pausen).
+
+### Stufe 3: Institutionalisieren (Exzellenz)
+- **Individualisierte Stundenpläne**, die sich an vielfältigen Wahlmöglichkeiten im Ganztag orientieren.
+- Die zeitliche Taktung reflektiert **wissenschaftliche Befunde** zu altersspezifischen Entwicklungsbedürfnissen.
+- Angebote stehen in ausreichender und attraktiver Form über den ganzen Tag verteilt zur Verfügung und spiegeln das spezifische Schulumfeld wider.
+
+## Stuttgarter Vorgaben (Rahmenkonzept 2013)
+In Stuttgart erstreckt sich der verpflichtende Ganztag in der Regel über **mindestens 4 Tage von 8:00 bis 16:00 Uhr** (8 Zeitstunden). Zentraler Bestandteil ist das **Mittagsband**: Es umfasst die Essenszeit (warmes, ausgewogenes Mittagessen inkl. Begleitung), freies Spiel, Bewegung an der frischen Luft sowie zwingend auch Ruhe- und Entspannungsphasen (Ruheraum).
+
+## Verknüpfungen
+- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
+- Pädagogische Bedeutung der Rhythmisierung: siehe [[Konzept_Mikrotransitionen]]
+- Verbindung zu den Bildungsfeldern: [[BF_Koerper_Lebensweise]] (Bewegung und Entspannung).
