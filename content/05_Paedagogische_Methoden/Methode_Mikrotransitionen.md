@@ -22,4 +22,4 @@ Oft sind Mikrotransitionen mit Wartezeiten verbunden (z.B. alle Kinder warten im
 4. **Vorhersehbarkeit schaffen:** Übergänge klar ankündigen (visuell, akustisch, verbal).
 
 ## Verknüpfungen im Orientierungsplan
-Die sensible Gestaltung von Mikrotransitionen ist essenziell für die Erfüllung körperlicher Grundbedürfnisse und die Entwicklung von Selbstpflegekompetenz ([[BF_Koerper_Lebensweise]]). Sie fördert die emotionale Selbstregulation ([[BF_Emotion_Motivation]]) und bereitet Kinder darauf vor, auch große Übergänge (Makrotransitionen, vgl. [[Uebergaenge_Zusammenarbeit]]) sicher zu bewältigen.
+Die sensible Gestaltung von Mikrotransitionen ist essenziell für die Erfüllung körperlicher Grundbedürfnisse und die Entwicklung von Selbstpflegekompetenz ([[Koerper_und_Lebensweise]]). Sie fördert die emotionale Selbstregulation ([[Emotion_und_Motivation]]) und bereitet Kinder darauf vor, auch große Übergänge (Makrotransitionen, vgl. [[Uebergaenge_und_Zusammenarbeit]]) sicher zu bewältigen.

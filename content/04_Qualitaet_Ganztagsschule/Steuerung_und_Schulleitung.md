@@ -33,5 +33,5 @@ Die Schulleitung ist der entscheidende Motor für die Schul- und Unterrichtsentw
 - **Teamteaching:** Konzeptionen für Teamteaching-Strukturen sind erstellt und werden gezielt eingesetzt und überprüft.
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Qualitätskreislauf der Schule: [[Qualitaetsentwicklung]]
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Qualitätskreislauf der Schule: [[Qualitaetsentwicklung_und_Werkstattordner]]

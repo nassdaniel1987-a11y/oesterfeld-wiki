@@ -19,7 +19,7 @@ Jede Stuttgarter Einrichtung (Kita / Schulkindbetreuung) muss auf Basis des Trä
 - Eingewöhnung (Gut ankommen).
 
 ### 3. Die pädagogischen Schwerpunkte (Einstein 2.0)
-- Konkrete Umsetzung der 7 Schwerpunkte (siehe [[Konzept_Einstein_2_0]]) in der Einrichtung.
+- Konkrete Umsetzung der 7 Schwerpunkte (siehe [[Trägerprofil_Einstein_2_0]]) in der Einrichtung.
 - Integration von Querschnittsthemen (Sprachbildung, BNE).
 
 ### 4. Zusammenarbeit & Kooperation
@@ -36,8 +36,8 @@ Jede Stuttgarter Einrichtung (Kita / Schulkindbetreuung) muss auf Basis des Trä
 - Datenschutz und Aktenführung.
 
 ## Der Werkstattordner
-Zusätzlich zur (statischen) Einrichtungskonzeption führt jede Einrichtung einen internen **Werkstattordner**. Er ist das dynamische Logbuch für Teamabsprachen, Raumgestaltungspläne und Materiallisten, das im Alltag kontinuierlich angepasst wird (siehe [[Qualitaetsentwicklung]]).
+Zusätzlich zur (statischen) Einrichtungskonzeption führt jede Einrichtung einen internen **Werkstattordner**. Er ist das dynamische Logbuch für Teamabsprachen, Raumgestaltungspläne und Materiallisten, das im Alltag kontinuierlich angepasst wird (siehe [[Qualitaetsentwicklung_und_Werkstattordner]]).
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Einstein_2_0]]
-- Qualitätssicherung: [[Qualitaetsentwicklung]]
+- Übergreifendes Konzept: [[Trägerprofil_Einstein_2_0]]
+- Qualitätssicherung: [[Qualitaetsentwicklung_und_Werkstattordner]]

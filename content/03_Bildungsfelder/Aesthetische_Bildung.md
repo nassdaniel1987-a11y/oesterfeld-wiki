@@ -11,11 +11,11 @@
 ### Bildende Kunst, Musik, Tanz, Theater
 Künstlerische Ausdrucksweisen sind "Medien" der Selbsterfahrung. 
 - **Prozess vor Produkt:** Beim Malen, Kneten oder Tanzen steht das kindliche Erleben im Fokus, nicht das Herstellen eines schönen "Endprodukts" nach Schablone für die Eltern.
-- **Rhythmik:** Die Wechselwirkung von Musik und Bewegung fördert motorische, soziale und sprachliche Kompetenzen ([[BF_Sprache_Kommunikation]]).
+- **Rhythmik:** Die Wechselwirkung von Musik und Bewegung fördert motorische, soziale und sprachliche Kompetenzen ([[Sprache_und_Kommunikation]]).
 
 ### Der Raum als "Dritter Erzieher"
 Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss. 
-- Räume müssen anregend, barrierefrei ([[LP_Inklusion]]) und veränderbar sein.
+- Räume müssen anregend, barrierefrei ([[Inklusion]]) und veränderbar sein.
 - Leere Flächen oder Nischen ermöglichen es den Kindern, Räume selbstbestimmt umzudeuten (z.B. eine Höhle unter dem Tisch bauen).
 
 ### Ästhetische Forschung (Projektarbeit)
@@ -25,7 +25,7 @@ Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss.
 - **A (Wohlbefinden):** Sich in einem Tanz oder beim Kneten "verlieren" (Flow-Erleben).
 - **B (Welt entdecken):** Sensomotorische Materialerfahrungen (Wie fühlt sich Ton an?).
 - **C (Sich ausdrücken):** Die "100 Sprachen des Kindes" (Malaguzzi) nutzen, wenn Worte (noch) fehlen.
-- **D (Mitbestimmen):** Den eigenen Kita-Raum gestalterisch verändern dürfen ([[LP_Partizipation]]).
+- **D (Mitbestimmen):** Den eigenen Kita-Raum gestalterisch verändern dürfen ([[Partizipation]]).
 
 ## Reflexionsfragen für Fachkräfte
 - Biete ich den Kindern "freies" Material zur ästhetischen Forschung, oder dominieren stark angeleitete Bastelarbeiten?

@@ -15,7 +15,7 @@ Der Orientierungsplan unterscheidet fünf Dimensionen der Qualität:
 5. **Organisations- und Managementqualität:** Leitungskompetenz, Teamentwicklung.
 
 ## Der Qualitätskreislauf (PDCA)
-Qualitätsentwicklung erfolgt in einem ständigen Zyklus. Im Kontext der Ganztagsschule (vgl. [[Konzept_Qualitaetsrahmen_GTS]]) wird dieser Prozess wie folgt strukturiert:
+Qualitätsentwicklung erfolgt in einem ständigen Zyklus. Im Kontext der Ganztagsschule (vgl. [[Qualitaetsrahmen_Ganztagsschule_BW]]) wird dieser Prozess wie folgt strukturiert:
 1. **PLAN (Planen):** Was wollen wir erreichen? Wie können wir das Lernen verbessern? (Analyse des Ist-Zustandes, Zielformulierung).
 2. **DO (Umsetzen):** Welche Maßnahmen ergreifen wir konkret, um diese Ziele zu erreichen? (Durchführung im Alltag, z.B. Erprobung eines neuen Lernzeit-Konzepts).
 3. **CHECK (Überprüfen):** Erreichen wir mit den Maßnahmen unsere Ziele? Wie gut sind wir? (Situationsanalyse, Selbstevaluation durch Beobachtung, Befragung von Kindern und Eltern).

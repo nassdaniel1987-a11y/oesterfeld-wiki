@@ -19,4 +19,4 @@ Die ZPD ist die Differenz zwischen dem, was ein Kind bereits ganz alleine kann (
 - **Fading (Ausschleichen):** Sobald das Kind sicherer wird, zieht sich die Fachkraft zurück.
 
 ## Verknüpfungen im Orientierungsplan
-Scaffolding ist eine zentrale Methode für die [[BF_Wahrnehmen_Denken|Kognitive Entwicklung]] und das [[BF_Sprache_Kommunikation|Sprachliche Lernen]]. Es ermöglicht ein aktives, ko-konstruktives Lernen auf Augenhöhe (vgl. [[LP_Partizipation]]). Auch in der inklusiven Pädagogik ([[LP_Inklusion]]) ist Scaffolding wichtig, um individuelle Hilfsmittel (Gerüste) für Kinder mit besonderem Förderbedarf bereitzustellen.
+Scaffolding ist eine zentrale Methode für die [[Wahrnehmen_und_Denken|Kognitive Entwicklung]] und das [[Sprache_und_Kommunikation|Sprachliche Lernen]]. Es ermöglicht ein aktives, ko-konstruktives Lernen auf Augenhöhe (vgl. [[Partizipation]]). Auch in der inklusiven Pädagogik ([[Inklusion]]) ist Scaffolding wichtig, um individuelle Hilfsmittel (Gerüste) für Kinder mit besonderem Förderbedarf bereitzustellen.

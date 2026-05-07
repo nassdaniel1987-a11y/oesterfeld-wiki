@@ -4,7 +4,7 @@
 **Kategorie:** Struktur und Rahmenbedingungen / Leitprinzipien
 
 ## Kerngedanke
-Die Ganztagsschule bietet den optimalen Rahmen für das soziale Miteinander und das Einüben von Demokratie. Kinder übernehmen altersgemäß Verantwortung für sich und die Gemeinschaft. (Dies spiegelt direkt das Leitprinzip [[LP_Partizipation]] wider).
+Die Ganztagsschule bietet den optimalen Rahmen für das soziale Miteinander und das Einüben von Demokratie. Kinder übernehmen altersgemäß Verantwortung für sich und die Gemeinschaft. (Dies spiegelt direkt das Leitprinzip [[Partizipation]] wider).
 
 ## Standards
 - Die Schule bezieht die unterschiedlichen Bedürfnisse einer heterogenen Schülerschaft ein.
@@ -16,7 +16,7 @@ Die Ganztagsschule bietet den optimalen Rahmen für das soziale Miteinander und 
 
 ### Stufe 1: Initiieren
 - Schul- und Hausordnung sind im Hinblick auf den Ganztag überarbeitet.
-- Es gibt ein **Sozialcurriculum und ein Präventionskonzept** (inkl. [[LP_Kinderschutz_Kinderrechte]]).
+- Es gibt ein **Sozialcurriculum und ein Präventionskonzept** (inkl. [[Kinderschutz_und_Kinderrechte]]).
 - Die **Schulsozialarbeit** ist aktiv in den Aufbau eingebunden.
 - Mit Störungen wird konsequent umgegangen, ein wertschätzender Umgang wird gefördert.
 
@@ -33,6 +33,6 @@ Die Ganztagsschule bietet den optimalen Rahmen für das soziale Miteinander und 
 - Das Leitbild zur Diversität wird nicht nur formuliert, sondern gelebt und evaluiert.
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Pädagogische Leitprinzipien: [[LP_Partizipation]], [[LP_Kinderschutz_Kinderrechte]]
-- Soziale Entwicklung: [[BF_Soziale_Entwicklung]]
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Pädagogische Leitprinzipien: [[Partizipation]], [[Kinderschutz_und_Kinderrechte]]
+- Soziale Entwicklung: [[Soziale_Entwicklung]]

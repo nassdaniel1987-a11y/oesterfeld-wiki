@@ -32,6 +32,6 @@ Eine gute Ganztagsschule zeichnet sich nicht durch eine bloße Addition von Halb
 In Stuttgart erstreckt sich der verpflichtende Ganztag in der Regel über **mindestens 4 Tage von 8:00 bis 16:00 Uhr** (8 Zeitstunden). Zentraler Bestandteil ist das **Mittagsband**: Es umfasst die Essenszeit (warmes, ausgewogenes Mittagessen inkl. Begleitung), freies Spiel, Bewegung an der frischen Luft sowie zwingend auch Ruhe- und Entspannungsphasen (Ruheraum).
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Pädagogische Bedeutung der Rhythmisierung: siehe [[Konzept_Mikrotransitionen]]
-- Verbindung zu den Bildungsfeldern: [[BF_Koerper_Lebensweise]] (Bewegung und Entspannung).
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Pädagogische Bedeutung der Rhythmisierung: siehe [[Methode_Mikrotransitionen]]
+- Verbindung zu den Bildungsfeldern: [[Koerper_und_Lebensweise]] (Bewegung und Entspannung).

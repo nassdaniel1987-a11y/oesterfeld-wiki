@@ -32,5 +32,5 @@ Eltern sind die wichtigsten Partner in der Erziehung und Bildung. Die Partizipat
 In den städtischen Einrichtungen Stuttgarts wird die Zusammenarbeit mit Familien explizit im Schwerpunkt "Beziehung & Interaktion" verankert. Eine zentrale Vorgabe ist, dass **jede Familie eine feste Ansprechperson** hat. Eltern werden als Bildungspartner auf Augenhöhe gesehen, deren Erziehungskompetenz wertgeschätzt wird.
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Familienfokus im Orientierungsplan: [[Uebergaenge_Zusammenarbeit]]
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Familienfokus im Orientierungsplan: [[Uebergaenge_und_Zusammenarbeit]]

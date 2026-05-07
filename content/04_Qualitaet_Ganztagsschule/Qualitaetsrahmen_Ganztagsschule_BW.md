@@ -14,17 +14,17 @@ Der Qualitätsrahmen visualisiert die ko-konstruktive Zusammenarbeit in Form kon
 
 ## 11 Qualitätsmerkmale (Modular vertieft)
 Der Qualitätsrahmen definiert 11 verbindliche Merkmale, für die wir detaillierte Bewertungsraster (Level 1-3) in eigenen Wiki-Seiten ausgearbeitet haben:
-1. [[GTS_Zeit_Rhythmisierung|Zeit]] (Rhythmisierung von An- und Entspannung)
-2. [[GTS_Raumkonzept|Raum]] (Lern- und Rückzugsorte)
-3. [[GTS_Demokratie_Schulklima|Demokratische Partizipation und Schulklima]]
-4. [[GTS_Kompetenzentwicklung|Kompetenzentwicklung]] (Lernzeit vs. Hausaufgaben)
-5. [[GTS_Angebotsstruktur|Ganztagsangebote]] (fächerübergreifend, vielfältig)
-6. [[GTS_Kooperation_Personal|Kooperative Professionalität]] (Zusammenarbeit auf Augenhöhe)
-7. [[GTS_Kooperation_Personal|Professionelles Handeln der Lehrkräfte]]
-8. [[GTS_Kooperation_Personal|Zusammenarbeit mit inner- und außerschulischen Partnern]]
-9. [[GTS_Elternarbeit|Zusammenarbeit mit Eltern]]
-10. [[GTS_Steuerung_Schulleitung|Professionelle Steuerung durch die Schulleitung]]
-11. [[Qualitaetsentwicklung|Fortlaufende Qualitätsentwicklung]] (PDCA-Zyklus)
+1. [[Zeit_und_Rhythmisierung|Zeit]] (Rhythmisierung von An- und Entspannung)
+2. [[Raumkonzept_und_Lernumgebung|Raum]] (Lern- und Rückzugsorte)
+3. [[Demokratie_und_Schulklima|Demokratische Partizipation und Schulklima]]
+4. [[Lernzeiten_und_Kompetenzentwicklung|Kompetenzentwicklung]] (Lernzeit vs. Hausaufgaben)
+5. [[Angebotsstruktur|Ganztagsangebote]] (fächerübergreifend, vielfältig)
+6. [[Kooperation_und_Personal|Kooperative Professionalität]] (Zusammenarbeit auf Augenhöhe)
+7. [[Kooperation_und_Personal|Professionelles Handeln der Lehrkräfte]]
+8. [[Kooperation_und_Personal|Zusammenarbeit mit inner- und außerschulischen Partnern]]
+9. [[Zusammenarbeit_mit_Eltern|Zusammenarbeit mit Eltern]]
+10. [[Steuerung_und_Schulleitung|Professionelle Steuerung durch die Schulleitung]]
+11. [[Qualitaetsentwicklung_und_Werkstattordner|Fortlaufende Qualitätsentwicklung]] (PDCA-Zyklus)
 
 ## Die 3 Qualitätsstufen
 Ganztagsschulen entwickeln sich als "Lernende Organisationen" in drei Stufen:
@@ -33,4 +33,4 @@ Ganztagsschulen entwickeln sich als "Lernende Organisationen" in drei Stufen:
 3. **Institutionalisieren (Qualitätsstufe 3):** Exzellenz. Prozesse sind verankert, evaluiert und bedürfnisorientiert (Zertifizierungsniveau).
 
 ## Verknüpfung im Wiki
-Dieses Modell bildet die übergeordnete Brücke zwischen der Elementarpädagogik ([[Orientierungsplan_BaWue|Orientierungsplan Kita]]) und der Grundschule (vgl. [[Uebergaenge_Zusammenarbeit]]). Der Rahmen greift direkt in die [[Qualitaetsentwicklung]] der Einrichtung ein.
+Dieses Modell bildet die übergeordnete Brücke zwischen der Elementarpädagogik ([[Orientierungsplan_BaWue|Orientierungsplan Kita]]) und der Grundschule (vgl. [[Uebergaenge_und_Zusammenarbeit]]). Der Rahmen greift direkt in die [[Qualitaetsentwicklung_und_Werkstattordner]] der Einrichtung ein.

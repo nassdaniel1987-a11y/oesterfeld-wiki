@@ -4,12 +4,12 @@
 **Kategorie:** Struktur und Rahmenbedingungen
 
 ## Kerngedanke
-Eine pädagogisch gestaltete Umgebung ("Der Raum als dritter Erzieher", vgl. [[BF_Aesthetische_Bildung]]) leistet einen zentralen Beitrag zum Gelingen. Die Schule wird vom reinen Lernraum zum echten **Lebensraum**. Dies erfordert eine flexible Raumnutzung, die kognitiv herausfordert und emotionale Geborgenheit bietet.
+Eine pädagogisch gestaltete Umgebung ("Der Raum als dritter Erzieher", vgl. [[Aesthetische_Bildung]]) leistet einen zentralen Beitrag zum Gelingen. Die Schule wird vom reinen Lernraum zum echten **Lebensraum**. Dies erfordert eine flexible Raumnutzung, die kognitiv herausfordert und emotionale Geborgenheit bietet.
 
 ## Standards
 - Es existiert eine mit den pädagogischen Zielen korrespondierende Raumnutzungskonzeption.
 - Raumausstattung, Funktion und Gestaltung sind aufeinander abgestimmt.
-- Inklusive Anforderungen (Barrierefreiheit etc.) werden berücksichtigt (vgl. [[LP_Inklusion]]).
+- Inklusive Anforderungen (Barrierefreiheit etc.) werden berücksichtigt (vgl. [[Inklusion]]).
 - Auch für das pädagogische Personal gibt es angemessene Arbeits- und Ruhezonen.
 
 ## Entwicklungsstufen (Rubrik)
@@ -32,5 +32,5 @@ Eine pädagogisch gestaltete Umgebung ("Der Raum als dritter Erzieher", vgl. [[B
 - **Evaluation:** Das Raumkonzept wird in enger Abstimmung mit der Kommune und den Nutzer:innen kontinuierlich weiterentwickelt.
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Pädagogische Bedeutung: [[BF_Aesthetische_Bildung]] (Raum als dritter Erzieher)
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Pädagogische Bedeutung: [[Aesthetische_Bildung]] (Raum als dritter Erzieher)

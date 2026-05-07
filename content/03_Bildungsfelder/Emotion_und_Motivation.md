@@ -16,13 +16,13 @@ Anfangs können sie Emotionen nicht selbst steuern. Fachkräfte müssen **Ko-Reg
 Das Erleben, dass das eigene Tun eine verlässliche Folge hat (*Kontingenzerfahrung*), ist stark beziehungsstiftend und fördert die Motivation.
 - **Intrinsische Motivation:** Die Freude am Tun selbst (Spielen, Forschen). Diese sollte im Kita-Alltag stets überwiegen!
 - **Extrinsische Motivation:** Handeln für eine Belohnung (Sticker) oder zur Vermeidung von Strafe. Externe Reize können die wichtige intrinsische Motivation langfristig zerstören.
-- **Belohnungsaufschub:** Eine wichtige *exekutive Funktion* (vgl. [[BF_Wahrnehmen_Denken]]), die den späteren schulischen Erfolg stark beeinflusst.
+- **Belohnungsaufschub:** Eine wichtige *exekutive Funktion* (vgl. [[Wahrnehmen_und_Denken]]), die den späteren schulischen Erfolg stark beeinflusst.
 
 ## Verknüpfung mit den Grundbedürfnissen
 - **A (Wohlbefinden):** Angemessener Umgang mit Emotionen ist Voraussetzung für psychische Gesundheit und Resilienz.
 - **B (Welt entdecken):** Neugierde als stärkste intrinsische Motivation nutzen.
 - **C (Sich ausdrücken):** Eigene und fremde Emotionen verbalisieren.
-- **D (Mitbestimmen):** Frustrationstoleranz aushalten, wenn die Mehrheit in der [[LP_Partizipation|Kinderkonferenz]] anders entscheidet.
+- **D (Mitbestimmen):** Frustrationstoleranz aushalten, wenn die Mehrheit in der [[Partizipation|Kinderkonferenz]] anders entscheidet.
 
 ## Reflexionsfragen für Fachkräfte
 - Unterstütze ich die *Ko-Regulation* bei Wutausbrüchen, anstatt das Kind alleinzulassen (Time-out)?

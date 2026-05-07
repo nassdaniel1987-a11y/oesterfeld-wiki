@@ -42,5 +42,5 @@ Die 8 Stunden Ganztag setzen sich aus folgenden, eng verzahnten Bausteinen zusam
    - Enge Elternarbeit und systematischer Einbezug des **Sozialraums** (Institutionen im Stadtteil).
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]] (Das Stuttgarter Modell ist die lokale Umsetzung des Landesrahmens).
-- Vertiefende Bausteine: [[GTS_Zeit_Rhythmisierung]], [[GTS_Kompetenzentwicklung]], [[GTS_Angebotsstruktur]].
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]] (Das Stuttgarter Modell ist die lokale Umsetzung des Landesrahmens).
+- Vertiefende Bausteine: [[Zeit_und_Rhythmisierung]], [[Lernzeiten_und_Kompetenzentwicklung]], [[Angebotsstruktur]].

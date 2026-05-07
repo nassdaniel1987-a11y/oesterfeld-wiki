@@ -11,7 +11,7 @@ Das Kind ist ein forschendes Wesen, das von Geburt an Wahrnehmungen strukturiert
 ### Naturwissenschaftliches und Mathematisches Denken
 - Kinder haben *Kernwissen* (z.B. Erwartungen an Schwerkraft) und erweitern dieses durch Experimentieren.
 - Mathematisches Denken beginnt mit "Zahlverständnis" (Mengen unterscheiden) und entwickelt sich über Zählspiele, Rhythmen und das Verstehen von Teile-Ganzes-Beziehungen.
-- Fachkräfte unterstützen diese Prozesse nicht durch bloßes Vormachen, sondern durch [[Konzept_Scaffolding|Scaffolding]] (das Bereitstellen eines passenden "Lerngerüsts").
+- Fachkräfte unterstützen diese Prozesse nicht durch bloßes Vormachen, sondern durch [[Methode_Scaffolding|Scaffolding]] (das Bereitstellen eines passenden "Lerngerüsts").
 
 ### Kognitive Basisfunktionen & Exekutive Funktionen
 Das Denken entwickelt sich massiv durch die Ausdifferenzierung der **Exekutiven Funktionen**:
@@ -28,6 +28,6 @@ Das Denken entwickelt sich massiv durch die Ausdifferenzierung der **Exekutiven 
 
 ## Reflexionsfragen für Fachkräfte
 - Biete ich den Kindern "unfertige" Materialien, die kreative Lösungswege erfordern (anstatt nur geschlossenes Spielzeug)?
-- Wende ich [[Konzept_Scaffolding|Scaffolding]] an, um das Kind bei Problemlösungen in seiner "Zone der nächsten Entwicklung" zu begleiten?
+- Wende ich [[Methode_Scaffolding|Scaffolding]] an, um das Kind bei Problemlösungen in seiner "Zone der nächsten Entwicklung" zu begleiten?
 - Wie reagiere ich auf "Warum-Fragen" (Nehme ich sie als Forschungsauftrag ernst oder weiche ich aus)?
-- Sind meine Angebote so gestaltet, dass auch Kinder mit kognitiven Einschränkungen teilhaben können ([[LP_Inklusion]])?
+- Sind meine Angebote so gestaltet, dass auch Kinder mit kognitiven Einschränkungen teilhaben können ([[Inklusion]])?

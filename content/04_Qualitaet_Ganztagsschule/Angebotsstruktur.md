@@ -20,7 +20,7 @@ Ganztagsangebote erweitern den schulischen Fokus auf die Persönlichkeitsentwick
 
 ### Stufe 2: Implementieren
 - **Erprobung und Anpassung:** Angebote werden pilotiert und in Kooperation mit dem Entwicklungsbeirat weiterentwickelt.
-- **Lese- und Sprachförderung:** Findet als Querschnittsthema besondere Berücksichtigung (vgl. [[BF_Sprache_Kommunikation]]).
+- **Lese- und Sprachförderung:** Findet als Querschnittsthema besondere Berücksichtigung (vgl. [[Sprache_und_Kommunikation]]).
 - **Transparenz:** Es gibt Prozessbeschreibungen zur Dokumentation und Koordination der Angebote.
 - **Leistungsdarstellung:** Erprobung von Formaten wie Portfolios, Lapbooks oder Themenheften zur formativen Rückmeldung an die Kinder.
 
@@ -31,5 +31,5 @@ Ganztagsangebote erweitern den schulischen Fokus auf die Persönlichkeitsentwick
 - **Zertifizierung:** Leistungen in den Ganztagsprofilen werden systematisch formativ rückgemeldet, dokumentiert und zertifiziert (z.B. als Anlage zum Zeugnis).
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Kompetenzbereiche: [[BF_Aesthetische_Bildung]], [[BF_Medienbildung]], [[BF_Wahrnehmen_Denken]]
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Kompetenzbereiche: [[Aesthetische_Bildung]], [[Medienbildung]], [[Wahrnehmen_und_Denken]]

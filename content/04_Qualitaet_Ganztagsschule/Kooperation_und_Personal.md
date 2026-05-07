@@ -33,5 +33,5 @@ Die Ganztagsschule wird durch die systematische Zusammenarbeit unterschiedlichst
 - **Qualifizierung:** Die Qualität der Angebote wird durch entsprechend ausgebildetes oder qualifiziertes Personal gesichert.
 
 ## Verknüpfungen
-- Übergreifendes Konzept: [[Konzept_Qualitaetsrahmen_GTS]]
-- Vernetzung: [[Uebergaenge_Zusammenarbeit]]
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Vernetzung: [[Uebergaenge_und_Zusammenarbeit]]

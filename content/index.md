@@ -8,6 +8,6 @@ Dieses Wiki ist der zentrale Wissensspeicher für die Konzeptentwicklung. Es bü
 ## 🗂️ Inhaltsverzeichnis
 
 - **[[meta/index|Zum vollständigen Index]]**
-- **[[wiki/Struktur_Einrichtungskonzeption|Der Stuttgarter Leitfaden zur Konzeptionsentwicklung]]**
+- **[[Leitfaden_Einrichtungskonzeption|Der Stuttgarter Leitfaden zur Konzeptionsentwicklung]]**
 
 Dieses Wiki wurde im Rahmen eines Co-Kreation-Prozesses generiert und wächst stetig weiter.

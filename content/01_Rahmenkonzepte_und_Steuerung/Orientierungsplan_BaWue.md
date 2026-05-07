@@ -8,22 +8,22 @@ Das Kind steht als aktiver Gestalter seiner Entwicklung im Mittelpunkt (Kindorie
 
 ## Die 4 Leitprinzipien (Querschnittsthemen)
 Diese vier Prinzipien ziehen sich durch alle Bildungsbereiche:
-1. [[LP_Kinderschutz_Kinderrechte|Kinderschutz und Kinderrechte]]
-2. [[LP_Inklusion|Inklusion]]
-3. [[LP_Partizipation|Partizipation]]
-4. [[LP_BNE|Bildung für nachhaltige Entwicklung (BNE)]]
+1. [[Kinderschutz_und_Kinderrechte|Kinderschutz und Kinderrechte]]
+2. [[Inklusion|Inklusion]]
+3. [[Partizipation|Partizipation]]
+4. [[Bildung_fuer_nachhaltige_Entwicklung|Bildung für nachhaltige Entwicklung (BNE)]]
 
 ## Die 8 Bildungs- und Entwicklungsfelder
 Die Matrix verknüpft die kindlichen Grundbedürfnisse mit diesen acht Feldern:
-1. [[BF_Koerper_Lebensweise|Körper und Lebensweise]]
-2. [[BF_Wahrnehmen_Denken|Wahrnehmen und Denken]]
-3. [[BF_Sprache_Kommunikation|Sprache und Kommunikation]]
-4. [[BF_Soziale_Entwicklung|Soziale Entwicklung]]
-5. [[BF_Emotion_Motivation|Emotion und Motivation]]
-6. [[BF_Kultur_Werte_Religion|Kultur, Werte, Religion]]
-7. [[BF_Aesthetische_Bildung|Ästhetische Bildung]]
-8. [[BF_Medienbildung|Medienbildung]]
+1. [[Koerper_und_Lebensweise|Körper und Lebensweise]]
+2. [[Wahrnehmen_und_Denken|Wahrnehmen und Denken]]
+3. [[Sprache_und_Kommunikation|Sprache und Kommunikation]]
+4. [[Soziale_Entwicklung|Soziale Entwicklung]]
+5. [[Emotion_und_Motivation|Emotion und Motivation]]
+6. [[Kultur_Werte_und_Religion|Kultur, Werte, Religion]]
+7. [[Aesthetische_Bildung|Ästhetische Bildung]]
+8. [[Medienbildung|Medienbildung]]
 
 ## Struktur und Rahmenbedingungen
-- [[Uebergaenge_Zusammenarbeit|Übergänge und Zusammenarbeit (Transitionen)]]
-- [[Qualitaetsentwicklung|Qualität sichern und weiterentwickeln (PDCA)]]
+- [[Uebergaenge_und_Zusammenarbeit|Übergänge und Zusammenarbeit (Transitionen)]]
+- [[Qualitaetsentwicklung_und_Werkstattordner|Qualität sichern und weiterentwickeln (PDCA)]]

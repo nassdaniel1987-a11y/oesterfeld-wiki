@@ -14,11 +14,11 @@ Zwischen dem 3. und 5. Lebensjahr lernen Kinder, dass andere Menschen eigene (of
 ### Kooperation, Konflikt und Prosoziales Handeln
 Kinder entwickeln sich vom Parallelspiel zum kooperativen (gemeinsamen) Spiel. Dabei kommt es naturgemäß zu Konflikten. 
 - Fachkräfte sollten nicht sofort bestrafen oder als Richter auftreten, sondern die Konfliktparteien moderieren.
-- Verletzendes Verhalten muss gestoppt werden ([[LP_Kinderschutz_Kinderrechte]]), aber die Gründe dahinter müssen verstanden werden.
-- Echtes *prosoziales Handeln* (Helfen, Teilen) sollte intrinsisch motiviert sein und nicht durch permanente extrinsische Belohnungen (Sticker) manipuliert werden (vgl. [[BF_Emotion_Motivation]]).
+- Verletzendes Verhalten muss gestoppt werden ([[Kinderschutz_und_Kinderrechte]]), aber die Gründe dahinter müssen verstanden werden.
+- Echtes *prosoziales Handeln* (Helfen, Teilen) sollte intrinsisch motiviert sein und nicht durch permanente extrinsische Belohnungen (Sticker) manipuliert werden (vgl. [[Emotion_und_Motivation]]).
 
 ### Normen, Werte und Adultismus
-Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln verstanden und verhandelt werden ([[LP_Partizipation]]). 
+Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln verstanden und verhandelt werden ([[Partizipation]]). 
 - Fachkräfte müssen ihre eigene strukturelle Macht kritisch reflektieren. Das Spannungsfeld aus kindlicher Selbstbestimmung und erwachsener Definitionsmacht wird als *Adultismus* bezeichnet. Diesen gilt es zu überwinden.
 
 ## Verknüpfung mit den Grundbedürfnissen
