@@ -20,7 +20,8 @@ BNE vermittelt nicht in erster Linie reines Sachwissen, sondern fördert Haltung
 ### Whole Institution Approach
 Nachhaltigkeit wird in der gesamten Einrichtung gelebt (z.B. Beschaffung von Spielzeug, Ernährungskonzept, Müllvermeidung). Die pädagogische Fachkraft nimmt eine zentrale Vorbildfunktion ein.
 
-## Reflexionsfragen für Fachkräfte
-- Wie kann ich die Fragen der Kinder zu Natur und Welt aufgreifen und mit ihnen philosophieren (z.B. Woher kommt der Regen? Warum ist die Banane verpackt?)
-- Lebe ich als Fachkraft einen nachhaltigen und wertschätzenden Umgang mit Ressourcen vor?
-- Wie integriere ich das "Global Learning" altersgerecht in den Kita-Alltag?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Wie kann ich die Fragen der Kinder zu Natur und Welt aufgreifen und mit ihnen philosophieren (z.B. Woher kommt der Regen? Warum ist die Banane verpackt?)
+> - Lebe ich als Fachkraft einen nachhaltigen und wertschätzenden Umgang mit Ressourcen vor?
+> - Wie integriere ich das "Global Learning" altersgerecht in den Kita-Alltag?
+

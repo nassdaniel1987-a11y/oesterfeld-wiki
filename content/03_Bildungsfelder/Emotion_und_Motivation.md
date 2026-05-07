@@ -24,7 +24,8 @@ Das Erleben, dass das eigene Tun eine verlässliche Folge hat (*Kontingenzerfahr
 - **C (Sich ausdrücken):** Eigene und fremde Emotionen verbalisieren.
 - **D (Mitbestimmen):** Frustrationstoleranz aushalten, wenn die Mehrheit in der [[Partizipation|Kinderkonferenz]] anders entscheidet.
 
-## Reflexionsfragen für Fachkräfte
-- Unterstütze ich die *Ko-Regulation* bei Wutausbrüchen, anstatt das Kind alleinzulassen (Time-out)?
-- Bin ich mir der Gefahr bewusst, dass zu viele extrinsische Belohnungen die kindliche Neugier (intrinsische Motivation) dämpfen können?
-- Wie spreche ich über Gefühle? Nutze ich Bilderbücher, um sekundäre Emotionen zu thematisieren?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Unterstütze ich die *Ko-Regulation* bei Wutausbrüchen, anstatt das Kind alleinzulassen (Time-out)?
+> - Bin ich mir der Gefahr bewusst, dass zu viele extrinsische Belohnungen die kindliche Neugier (intrinsische Motivation) dämpfen können?
+> - Wie spreche ich über Gefühle? Nutze ich Bilderbücher, um sekundäre Emotionen zu thematisieren?
+

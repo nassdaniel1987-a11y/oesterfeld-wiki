@@ -22,8 +22,9 @@ Prävention bedeutet, das Kind in seiner Persönlichkeit zu stärken. Folgende T
 - Wahrnehmung und Regulation von Gefühlen (Herausfordernde Gefühle wie Wut und Angst zulassen)
 - Aufklärung über Grenzen und Beschwerdemöglichkeiten
 
-## Reflexionsfragen für Fachkräfte
-- Wie schaffe ich für alle Kinder eine vertrauensvolle Basis, an die sie sich jederzeit wenden können?
-- Wie nehme ich die Emotionen der Kinder ernst (auch wenn ich sie nicht nachvollziehen kann)?
-- Wie thematisiere ich Gefühle im Alltag?
-- Wie helfe ich Kindern bei der Entwicklung von Problemlösekompetenzen?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Wie schaffe ich für alle Kinder eine vertrauensvolle Basis, an die sie sich jederzeit wenden können?
+> - Wie nehme ich die Emotionen der Kinder ernst (auch wenn ich sie nicht nachvollziehen kann)?
+> - Wie thematisiere ich Gefühle im Alltag?
+> - Wie helfe ich Kindern bei der Entwicklung von Problemlösekompetenzen?
+

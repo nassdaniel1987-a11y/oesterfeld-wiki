@@ -27,7 +27,8 @@ Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln vers
 - **C (Sich ausdrücken):** In Konflikten eigene Grenzen aufzeigen ("Stopp!").
 - **D (Mitbestimmen):** Regeln gemeinsam in Kinderkonferenzen aushandeln.
 
-## Reflexionsfragen für Fachkräfte
-- Wie gehe ich mit meiner "Erwachsenen-Macht" ([[Adultismus]]) im Alltag um? Erkläre ich Regeln plausibel?
-- Werden Konflikte von mir nur abgebrochen, oder begleite ich die Kinder bei einer echten Lösungsfindung?
-- Stärke ich die "Theory of Mind" durch Gespräche über Gefühle und Absichten ("Was glaubst du, warum er das getan hat?")?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Wie gehe ich mit meiner "Erwachsenen-Macht" ([[Adultismus]]) im Alltag um? Erkläre ich Regeln plausibel?
+> - Werden Konflikte von mir nur abgebrochen, oder begleite ich die Kinder bei einer echten Lösungsfindung?
+> - Stärke ich die "Theory of Mind" durch Gespräche über Gefühle und Absichten ("Was glaubst du, warum er das getan hat?")?
+

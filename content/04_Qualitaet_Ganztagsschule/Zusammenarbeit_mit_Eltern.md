@@ -28,8 +28,9 @@ Eltern sind die wichtigsten Partner in der Erziehung und Bildung. Die Partizipat
 - **Evaluationskultur:** Regelmäßige Evaluationen (Zufriedenheit, Wünsche) finden statt. Feedback der Eltern wird aktiv aufgegriffen.
 - **Verbindlicher Turnus:** Zielvereinbarungsgespräche bei Förderbedarf finden in einem festen Turnus statt (ggf. begleitet durch sonderpädagogische Lehrkräfte), wobei sozial und kulturell sensibel agiert wird.
 
-## Stuttgarter Vorgaben (Einstein 2.0)
-In den städtischen Einrichtungen Stuttgarts wird die Zusammenarbeit mit Familien explizit im Schwerpunkt "Beziehung & Interaktion" verankert. Eine zentrale Vorgabe ist, dass **jede Familie eine feste Ansprechperson** hat. Eltern werden als Bildungspartner auf Augenhöhe gesehen, deren Erziehungskompetenz wertgeschätzt wird.
+> [!warning] Stuttgarter Pflicht-Vorgaben
+> In den städtischen Einrichtungen Stuttgarts wird die Zusammenarbeit mit Familien explizit im Schwerpunkt "Beziehung & Interaktion" verankert. Eine zentrale Vorgabe ist, dass **jede Familie eine feste Ansprechperson** hat. Eltern werden als Bildungspartner auf Augenhöhe gesehen, deren Erziehungskompetenz wertgeschätzt wird.
+
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]

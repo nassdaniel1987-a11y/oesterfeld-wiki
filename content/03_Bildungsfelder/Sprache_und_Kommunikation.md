@@ -29,7 +29,8 @@ Die Erstsprachen (Familiensprachen) der Kinder müssen wertgeschätzt werden. De
 - **C (Sich ausdrücken):** Gefühle und Gedanken in Worte fassen.
 - **D (Mitbestimmen):** Echte [[Partizipation]] erfordert die Fähigkeit, Meinungen zu äußern und auszuhandeln.
 
-## Reflexionsfragen für Fachkräfte
-- Ist mein eigenes Sprachvorbild "kindgerichtet" (angepasst, aber korrekt und reichhaltig)?
-- Wende ich Techniken des [[Methode_Dialogisches_Lesen|Dialogischen Lesens]] an, um Kinder aktiv in Buchbetrachtungen einzubinden?
-- Achte ich auf nonverbale Signale und setze ich, wo nötig, Unterstützte Kommunikation ein?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Ist mein eigenes Sprachvorbild "kindgerichtet" (angepasst, aber korrekt und reichhaltig)?
+> - Wende ich Techniken des [[Methode_Dialogisches_Lesen|Dialogischen Lesens]] an, um Kinder aktiv in Buchbetrachtungen einzubinden?
+> - Achte ich auf nonverbale Signale und setze ich, wo nötig, Unterstützte Kommunikation ein?
+

@@ -27,7 +27,8 @@ Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss.
 - **C (Sich ausdrücken):** Die "100 Sprachen des Kindes" (Malaguzzi) nutzen, wenn Worte (noch) fehlen.
 - **D (Mitbestimmen):** Den eigenen Kita-Raum gestalterisch verändern dürfen ([[Partizipation]]).
 
-## Reflexionsfragen für Fachkräfte
-- Biete ich den Kindern "freies" Material zur ästhetischen Forschung, oder dominieren stark angeleitete Bastelarbeiten?
-- Wirken unsere Räume als "[[Raum_als_dritter_Erzieher|dritter Erzieher]]" anregend, ohne reizüberflutend zu sein?
-- Zeige ich echte Wertschätzung für die kreativen Prozesse (nicht nur für die fertigen Bilder)?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Biete ich den Kindern "freies" Material zur ästhetischen Forschung, oder dominieren stark angeleitete Bastelarbeiten?
+> - Wirken unsere Räume als "[[Raum_als_dritter_Erzieher|dritter Erzieher]]" anregend, ohne reizüberflutend zu sein?
+> - Zeige ich echte Wertschätzung für die kreativen Prozesse (nicht nur für die fertigen Bilder)?
+

@@ -29,7 +29,8 @@ Die Auseinandersetzung mit Medien erfordert auch den Blick auf Rechte und Schutz
 - **C (Sich ausdrücken):** Eigene mediale Werke (Filme, Audio) kreieren.
 - **D (Mitbestimmen):** Medienregeln in der Einrichtung gemeinsam aushandeln ([[Partizipation]]).
 
-## Reflexionsfragen für Fachkräfte
-- Habe ich eine differenzierte Haltung zu Medien (weder blinde Ablehnung noch unreflektierter Konsum)?
-- Nutze ich digitale Medien als *kreatives Werkzeug* für die Kinder?
-- Wie beziehe ich die Eltern in die Medienbildung ihrer Kinder ein (Erziehungspartnerschaft)?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Habe ich eine differenzierte Haltung zu Medien (weder blinde Ablehnung noch unreflektierter Konsum)?
+> - Nutze ich digitale Medien als *kreatives Werkzeug* für die Kinder?
+> - Wie beziehe ich die Eltern in die Medienbildung ihrer Kinder ein (Erziehungspartnerschaft)?
+

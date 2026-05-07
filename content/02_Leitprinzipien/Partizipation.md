@@ -17,10 +17,11 @@ Pädagogische Fachkräfte haben strukturelle Macht (Gestaltungsmacht, Definition
 ### Partizipation didaktisch begleiten
 Beteiligung muss gelernt werden. Kinder (insbesondere sehr junge Kinder oder Kinder mit sprachlichen Barrieren) benötigen vielfältige, auf sie angepasste methodische Hilfen, um ihre Wünsche äußern zu können (z.B. über Unterstützte Kommunikation, Piktogramme, Mimik).
 
-## Stuttgarter Vorgaben (Einstein 2.0)
-Im Rahmen des Stuttgarter Trägerprofils (Einstein 2.0) ist ein verbindliches **Beschwerdemanagement** verankert. Kinder und Familien müssen die Rückmeldungs- und Beschwerdemöglichkeiten kennen. Beschwerden werden offen aufgenommen und konstruktiv bearbeitet. Zudem sorgen Aushänge und bildliche Darstellungen für Orientierung, Transparenz und Teilhabe im Alltag.
+> [!warning] Stuttgarter Pflicht-Vorgaben
+> Im Rahmen des Stuttgarter Trägerprofils (Einstein 2.0) ist ein verbindliches **Beschwerdemanagement** verankert. Kinder und Familien müssen die Rückmeldungs- und Beschwerdemöglichkeiten kennen. Beschwerden werden offen aufgenommen und konstruktiv bearbeitet. Zudem sorgen Aushänge und bildliche Darstellungen für Orientierung, Transparenz und Teilhabe im Alltag.
+> 
+> > [!question] Reflexionsfragen für Fachkräfte
+> > - An welchen Stellen im Tagesablauf lasse ich echte kindliche Mitentscheidung zu (z.B. beim Essen, Schlafen, Spielort)?
+> > - Wie stelle ich sicher, dass auch Kinder, die sich sprachlich noch nicht gut ausdrücken können, gehört werden?
+> > - Wo ertappe ich mich dabei, eigene Vorstellungen über die Köpfe der Kinder hinweg durchzusetzen?
 
-## Reflexionsfragen für Fachkräfte
-- An welchen Stellen im Tagesablauf lasse ich echte kindliche Mitentscheidung zu (z.B. beim Essen, Schlafen, Spielort)?
-- Wie stelle ich sicher, dass auch Kinder, die sich sprachlich noch nicht gut ausdrücken können, gehört werden?
-- Wo ertappe ich mich dabei, eigene Vorstellungen über die Köpfe der Kinder hinweg durchzusetzen?

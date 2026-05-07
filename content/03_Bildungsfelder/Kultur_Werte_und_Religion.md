@@ -24,7 +24,8 @@ Kitas sind Orte kultureller und religiöser Vielfalt. Diese Vielfalt muss sichtb
 - **C (Sich ausdrücken):** Über "Gott und die Welt" philosophieren.
 - **D (Mitbestimmen):** Demokratische Werte (Gerechtigkeit) im Gruppenalltag verhandeln.
 
-## Reflexionsfragen für Fachkräfte
-- Lasse ich die großen Lebensfragen (Tod, Gerechtigkeit, Gott) zu oder blocke ich sie ab?
-- Ist unsere Einrichtungskultur tatsächlich diversitätssensibel (z.B. Repräsentation von Vielfalt in Büchern und Spielmaterial)?
-- Wie begegne ich rassistischen oder abwertenden Äußerungen (Sicherung von [[Kinderschutz_und_Kinderrechte]])?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Lasse ich die großen Lebensfragen (Tod, Gerechtigkeit, Gott) zu oder blocke ich sie ab?
+> - Ist unsere Einrichtungskultur tatsächlich diversitätssensibel (z.B. Repräsentation von Vielfalt in Büchern und Spielmaterial)?
+> - Wie begegne ich rassistischen oder abwertenden Äußerungen (Sicherung von [[Kinderschutz_und_Kinderrechte]])?
+

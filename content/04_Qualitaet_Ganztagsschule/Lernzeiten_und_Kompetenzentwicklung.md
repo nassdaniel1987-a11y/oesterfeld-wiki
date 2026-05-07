@@ -31,8 +31,9 @@ Schüler:innen werden ausgehend von ihrem individuellen Lernstand differenziert 
 - **Individuelle Förder- und Talentpläne:** Werden im multiprofessionellen Team abgestimmt und regelmäßig evaluiert.
 - **Lerntagebücher / Portfolios:** Schüler:innen reflektieren und dokumentieren ihren Lernstand selbstständig.
 
-## Stuttgarter Vorgaben (Rahmenkonzept 2013)
-An den Stuttgarter Ganztagsgrundschulen gibt es in der Regel **keine Aufgaben zur Bearbeitung zuhause** mehr. Klassische Hausaufgaben werden durch **Individuelle Lernzeiten** in der Schule ersetzt. Diese sind fester Bestandteil des Stundenplans und dienen dazu, Gelerntes durch Üben stärker im Gedächtnis zu verankern. Die Schüler:innen arbeiten dabei alleine oder in Lerngruppen und werden von Lehrkräften und pädagogischen Fachkräften individuell betreut (Coaching).
+> [!warning] Stuttgarter Pflicht-Vorgaben
+> An den Stuttgarter Ganztagsgrundschulen gibt es in der Regel **keine Aufgaben zur Bearbeitung zuhause** mehr. Klassische Hausaufgaben werden durch **Individuelle Lernzeiten** in der Schule ersetzt. Diese sind fester Bestandteil des Stundenplans und dienen dazu, Gelerntes durch Üben stärker im Gedächtnis zu verankern. Die Schüler:innen arbeiten dabei alleine oder in Lerngruppen und werden von Lehrkräften und pädagogischen Fachkräften individuell betreut (Coaching).
+
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]

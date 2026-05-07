@@ -25,7 +25,8 @@ Neben Kita, Schule und Familie gehören weitere Akteure zum "ökosystemischen" A
 - Frühförderstellen, Logopädie, Ergotherapie (besonders im Kontext Inklusion)
 - Sozialraum (Vereine, Bibliotheken, Kirchengemeinden)
 
-## Reflexionsfragen für Fachkräfte
-- Gelingt uns ein transparenter Austausch mit den Eltern über unsere pädagogischen Ziele?
-- Werden Eltern bei uns "nur" informiert, oder können sie sich aktiv partizipativ einbringen?
-- Pflegen wir eine kontinuierliche, systematische Kooperation mit den örtlichen Grundschulen?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Gelingt uns ein transparenter Austausch mit den Eltern über unsere pädagogischen Ziele?
+> - Werden Eltern bei uns "nur" informiert, oder können sie sich aktiv partizipativ einbringen?
+> - Pflegen wir eine kontinuierliche, systematische Kooperation mit den örtlichen Grundschulen?
+

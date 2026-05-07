@@ -32,7 +32,8 @@ Kinder entdecken Unterschiede zwischen Geschlechtern (z.B. in Doktorspielen) und
 - **C (Sich ausdrücken):** Über Körpersprache (Gestik, Mimik) Bedürfnisse kommunizieren.
 - **D (Mitbestimmen):** Demokratie am Esstisch ([[Partizipation]]).
 
-## Reflexionsfragen für Fachkräfte
-- Biete ich eine anregende Raumgestaltung, die Bewegungslust und Ruhebedürfnis vereint?
-- Wie sensibel gestalte ich [[Methode_Mikrotransitionen|Mikrotransitionen]] bei körperlichen Pflegeroutinen?
-- Ist meine Haltung bei kindlichen Erkundungen der Sexualität unvoreingenommen und schützend zugleich?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Biete ich eine anregende Raumgestaltung, die Bewegungslust und Ruhebedürfnis vereint?
+> - Wie sensibel gestalte ich [[Methode_Mikrotransitionen|Mikrotransitionen]] bei körperlichen Pflegeroutinen?
+> - Ist meine Haltung bei kindlichen Erkundungen der Sexualität unvoreingenommen und schützend zugleich?
+

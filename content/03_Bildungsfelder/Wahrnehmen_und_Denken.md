@@ -26,8 +26,9 @@ Das Denken entwickelt sich massiv durch die Ausdifferenzierung der **Exekutiven 
 - **C (Sich ausdrücken):** Eigene Hypothesen formulieren ("Die Wolken werden vom Wind geschoben").
 - **D (Mitbestimmen):** Kinder steuern ihre Aufmerksamkeit selbst (Aushandlung von Themen).
 
-## Reflexionsfragen für Fachkräfte
-- Biete ich den Kindern "unfertige" Materialien, die kreative Lösungswege erfordern (anstatt nur geschlossenes Spielzeug)?
-- Wende ich [[Methode_Scaffolding|Scaffolding]] an, um das Kind bei Problemlösungen in seiner "Zone der nächsten Entwicklung" zu begleiten?
-- Wie reagiere ich auf "Warum-Fragen" (Nehme ich sie als Forschungsauftrag ernst oder weiche ich aus)?
-- Sind meine Angebote so gestaltet, dass auch Kinder mit kognitiven Einschränkungen teilhaben können ([[Inklusion]])?
+> [!question] Reflexionsfragen für Fachkräfte
+> - Biete ich den Kindern "unfertige" Materialien, die kreative Lösungswege erfordern (anstatt nur geschlossenes Spielzeug)?
+> - Wende ich [[Methode_Scaffolding|Scaffolding]] an, um das Kind bei Problemlösungen in seiner "Zone der nächsten Entwicklung" zu begleiten?
+> - Wie reagiere ich auf "Warum-Fragen" (Nehme ich sie als Forschungsauftrag ernst oder weiche ich aus)?
+> - Sind meine Angebote so gestaltet, dass auch Kinder mit kognitiven Einschränkungen teilhaben können ([[Inklusion]])?
+

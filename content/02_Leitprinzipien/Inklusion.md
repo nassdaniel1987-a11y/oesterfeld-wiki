@@ -17,11 +17,12 @@ Bestehende Hindernisse für Kinder (physisch, sprachlich, sozial) müssen abgeba
 ### Gemeinsame Bildungs- und Erziehungssituationen
 Kinder mit und ohne Behinderungen oder aus unterschiedlichen Herkunftsländern sollen gemeinsam gefördert werden. Die Aktivitäten sind so zu gestalten, dass alle auf ihrem individuellen Entwicklungsniveau teilhaben können.
 
-## Stuttgarter Vorgaben (Einstein 2.0)
-Gemäß dem Trägerprofil der Stadt Stuttgart (Einstein 2.0) wird Vielfalt aktiv wertschätzend thematisiert. Um Ausgrenzung gezielt entgegenzuwirken, ist jede Einrichtung verpflichtet, jährlich eine **Sozialraumanalyse (Netzwerkkarte)** zu erstellen und fortlaufend zu pflegen. Dies bildet die Grundlage für eine gelebte Kooperation im Stadtteil.
+> [!warning] Stuttgarter Pflicht-Vorgaben
+> Gemäß dem Trägerprofil der Stadt Stuttgart (Einstein 2.0) wird Vielfalt aktiv wertschätzend thematisiert. Um Ausgrenzung gezielt entgegenzuwirken, ist jede Einrichtung verpflichtet, jährlich eine **Sozialraumanalyse (Netzwerkkarte)** zu erstellen und fortlaufend zu pflegen. Dies bildet die Grundlage für eine gelebte Kooperation im Stadtteil.
+> 
+> > [!question] Reflexionsfragen für Fachkräfte
+> > - Begegne ich jedem Kind in seiner Einzigartigkeit mit Achtung und Verständnis?
+> > - Welche meiner eigenen Vorurteile oder Stereotypen muss ich kritisch reflektieren?
+> > - Wie erkenne und reagiere ich auf Diskriminierung im Kita-Alltag?
+> > - Biete ich Spiel- und Lernmaterialien an, die vielfältige Lebensrealitäten abbilden (Hautfarben, Familienformen, Behinderungen)?
 
-## Reflexionsfragen für Fachkräfte
-- Begegne ich jedem Kind in seiner Einzigartigkeit mit Achtung und Verständnis?
-- Welche meiner eigenen Vorurteile oder Stereotypen muss ich kritisch reflektieren?
-- Wie erkenne und reagiere ich auf Diskriminierung im Kita-Alltag?
-- Biete ich Spiel- und Lernmaterialien an, die vielfältige Lebensrealitäten abbilden (Hautfarben, Familienformen, Behinderungen)?
