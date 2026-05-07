@@ -24,4 +24,4 @@ Die Methode basiert auf konstruktivistischen Lerntheorien und dem Prinzip des [[
    - Orientierung an den konkreten Interessen des Kindes (das Kind bestimmt, worüber auf der Buchseite gesprochen wird).
 
 ## Verknüpfungen im Orientierungsplan
-Das dialogische Lesen ist eine zentrale Methode der alltagsintegrierten und gezielten Sprachförderung ([[Sprache_und_Kommunikation]]). Es fördert die kindliche Aufmerksamkeit und das Arbeitsgedächtnis ([[Wahrnehmen_und_Denken]]) und stärkt die ko-konstruktive Interaktionsqualität. Durch die Wahl vielfältiger und diversitätssensibler Bilderbücher leistet es zudem einen wichtigen Beitrag zur [[Inklusion|inklusiven Pädagogik]].
+Das dialogische Lesen ist eine zentrale Methode der alltagsintegrierten und gezielten Sprachförderung ([[Sprache_und_Kommunikation]]). Es fördert die kindliche Aufmerksamkeit und das Arbeitsgedächtnis ([[Wahrnehmen_und_Denken]]) und stärkt die [[Ko-Konstruktion|ko-konstruktive]] Interaktionsqualität. Durch die Wahl vielfältiger und diversitätssensibler Bilderbücher leistet es zudem einen wichtigen Beitrag zur [[Inklusion|inklusiven Pädagogik]].

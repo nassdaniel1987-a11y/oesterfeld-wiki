@@ -17,9 +17,9 @@ Kinder entwickeln sich vom Parallelspiel zum kooperativen (gemeinsamen) Spiel. D
 - Verletzendes Verhalten muss gestoppt werden ([[Kinderschutz_und_Kinderrechte]]), aber die Gründe dahinter müssen verstanden werden.
 - Echtes *prosoziales Handeln* (Helfen, Teilen) sollte intrinsisch motiviert sein und nicht durch permanente extrinsische Belohnungen (Sticker) manipuliert werden (vgl. [[Emotion_und_Motivation]]).
 
-### Normen, Werte und Adultismus
+### Normen, Werte und [[Adultismus]]
 Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln verstanden und verhandelt werden ([[Partizipation]]). 
-- Fachkräfte müssen ihre eigene strukturelle Macht kritisch reflektieren. Das Spannungsfeld aus kindlicher Selbstbestimmung und erwachsener Definitionsmacht wird als *Adultismus* bezeichnet. Diesen gilt es zu überwinden.
+- Fachkräfte müssen ihre eigene strukturelle Macht kritisch reflektieren. Das Spannungsfeld aus kindlicher Selbstbestimmung und erwachsener Definitionsmacht wird als *[[Adultismus]]* bezeichnet. Diesen gilt es zu überwinden.
 
 ## Verknüpfung mit den Grundbedürfnissen
 - **A (Wohlbefinden):** Positive Peer-Beziehungen und Freundschaften.
@@ -28,6 +28,6 @@ Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln vers
 - **D (Mitbestimmen):** Regeln gemeinsam in Kinderkonferenzen aushandeln.
 
 ## Reflexionsfragen für Fachkräfte
-- Wie gehe ich mit meiner "Erwachsenen-Macht" (Adultismus) im Alltag um? Erkläre ich Regeln plausibel?
+- Wie gehe ich mit meiner "Erwachsenen-Macht" ([[Adultismus]]) im Alltag um? Erkläre ich Regeln plausibel?
 - Werden Konflikte von mir nur abgebrochen, oder begleite ich die Kinder bei einer echten Lösungsfindung?
 - Stärke ich die "Theory of Mind" durch Gespräche über Gefühle und Absichten ("Was glaubst du, warum er das getan hat?")?

@@ -7,7 +7,7 @@
 Die schulgesetzlich verankerte Ganztagsschule ist mehr als nur ein Betreuungsangebot zur Vereinbarkeit von Familie und Beruf. Ihr wesentlicher Auftrag ist ein qualitativ hochwertiges, rhythmisches Bildungsangebot, das Chancengerechtigkeit schafft und Schüler:innen ganzheitlich fördert.
 
 ## Das Ringmodell der Ganztagsschule
-Der Qualitätsrahmen visualisiert die ko-konstruktive Zusammenarbeit in Form konzentrischer Kreise:
+Der Qualitätsrahmen visualisiert die [[Ko-Konstruktion|ko-konstruktive]] Zusammenarbeit in Form konzentrischer Kreise:
 - **Im Zentrum:** Die Schülerinnen und Schüler. Alle Maßnahmen sind auf ihre ganzheitliche Entwicklung ausgerichtet.
 - **Erster Ring (Innere Faktoren):** Zeit, Raum, Ganztagsangebote, Kompetenzentwicklung, Demokratische Partizipation & Schulklima, eingebettet in die direkte Beteiligung der Eltern.
 - **Zweiter Ring (Äußere Faktoren):** Schulleitung, Lehrkräfte, Inner- und außerschulische Partner, verbunden durch *kooperative Professionalität* und *Qualitätsentwicklung*.
@@ -29,7 +29,7 @@ Der Qualitätsrahmen definiert 11 verbindliche Merkmale, für die wir detaillier
 ## Die 3 Qualitätsstufen
 Ganztagsschulen entwickeln sich als "Lernende Organisationen" in drei Stufen:
 1. **Initiieren (Qualitätsstufe 1):** Basis-Anforderungen für den Start. Prozesse werden angestoßen.
-2. **Implementieren (Qualitätsstufe 2):** Erprobungsphase. Konzepte werden weiterentwickelt und ko-konstruktiv ausgestaltet.
+2. **Implementieren (Qualitätsstufe 2):** Erprobungsphase. Konzepte werden weiterentwickelt und [[Ko-Konstruktion|ko-konstruktiv]] ausgestaltet.
 3. **Institutionalisieren (Qualitätsstufe 3):** Exzellenz. Prozesse sind verankert, evaluiert und bedürfnisorientiert (Zertifizierungsniveau).
 
 ## Verknüpfung im Wiki

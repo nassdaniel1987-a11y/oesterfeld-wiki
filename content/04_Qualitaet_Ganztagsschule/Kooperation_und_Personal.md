@@ -27,7 +27,7 @@ Die Ganztagsschule wird durch die systematische Zusammenarbeit unterschiedlichst
 - **Räumliche Öffnung:** Externe Partner (Jugendarbeit) können die räumlichen Möglichkeiten der Schule nutzen.
 
 ### Stufe 3: Institutionalisieren (Exzellenz)
-- **Ko-Konstruktion:** Gemeinsame Erarbeitung neuer Unterrichtskonzepte und Ganztagsangebote ist fester Bestandteil der Berufspraxis (Synergienetzwerk).
+- **[[Ko-Konstruktion|Ko-Konstruktion]]:** Gemeinsame Erarbeitung neuer Unterrichtskonzepte und Ganztagsangebote ist fester Bestandteil der Berufspraxis (Synergienetzwerk).
 - **Gemeinsames Leitbild:** Es besteht absoluter Konsens über die "Philosophie" der Schule zwischen allen Akteuren (Community School).
 - **Evaluation der Arbeitsbedingungen:** Die Zufriedenheit des Personals wird regelmäßig evaluiert.
 - **Qualifizierung:** Die Qualität der Angebote wird durch entsprechend ausgebildetes oder qualifiziertes Personal gesichert.

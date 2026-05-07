@@ -4,7 +4,7 @@
 **Kategorie:** Struktur und Rahmenbedingungen
 
 ## Kerngedanke
-Eine pädagogisch gestaltete Umgebung ("Der Raum als dritter Erzieher", vgl. [[Aesthetische_Bildung]]) leistet einen zentralen Beitrag zum Gelingen. Die Schule wird vom reinen Lernraum zum echten **Lebensraum**. Dies erfordert eine flexible Raumnutzung, die kognitiv herausfordert und emotionale Geborgenheit bietet.
+Eine pädagogisch gestaltete Umgebung ("Der [[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]]", vgl. [[Aesthetische_Bildung]]) leistet einen zentralen Beitrag zum Gelingen. Die Schule wird vom reinen Lernraum zum echten **Lebensraum**. Dies erfordert eine flexible Raumnutzung, die kognitiv herausfordert und emotionale Geborgenheit bietet.
 
 ## Standards
 - Es existiert eine mit den pädagogischen Zielen korrespondierende Raumnutzungskonzeption.
@@ -33,4 +33,4 @@ Eine pädagogisch gestaltete Umgebung ("Der Raum als dritter Erzieher", vgl. [[A
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
-- Pädagogische Bedeutung: [[Aesthetische_Bildung]] (Raum als dritter Erzieher)
+- Pädagogische Bedeutung: [[Aesthetische_Bildung]] ([[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]])

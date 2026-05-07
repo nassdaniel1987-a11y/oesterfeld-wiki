@@ -15,7 +15,7 @@ Jede Stuttgarter Einrichtung (Kita / Schulkindbetreuung) muss auf Basis des Trä
 - Essensversorgung (Caterer, Gestaltung der Essenssituation, Getränke, Ernährungsbildung).
 
 ### 2. Kinder im Zentrum professionellen Handelns
-- Das Bild vom Kind (zirkulärer Prozess, Beobachtung/Dokumentation).
+- Das Bild vom Kind ([[Zirkulaerer_Prozess|zirkulärer Prozess]], Beobachtung/Dokumentation).
 - Eingewöhnung (Gut ankommen).
 
 ### 3. Die pädagogischen Schwerpunkte (Einstein 2.0)

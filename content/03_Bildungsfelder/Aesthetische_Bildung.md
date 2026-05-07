@@ -13,7 +13,7 @@ Künstlerische Ausdrucksweisen sind "Medien" der Selbsterfahrung.
 - **Prozess vor Produkt:** Beim Malen, Kneten oder Tanzen steht das kindliche Erleben im Fokus, nicht das Herstellen eines schönen "Endprodukts" nach Schablone für die Eltern.
 - **Rhythmik:** Die Wechselwirkung von Musik und Bewegung fördert motorische, soziale und sprachliche Kompetenzen ([[Sprache_und_Kommunikation]]).
 
-### Der Raum als "Dritter Erzieher"
+### Der Raum als "[[Raum_als_dritter_Erzieher|Dritter Erzieher]]"
 Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss. 
 - Räume müssen anregend, barrierefrei ([[Inklusion]]) und veränderbar sein.
 - Leere Flächen oder Nischen ermöglichen es den Kindern, Räume selbstbestimmt umzudeuten (z.B. eine Höhle unter dem Tisch bauen).
@@ -29,5 +29,5 @@ Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss.
 
 ## Reflexionsfragen für Fachkräfte
 - Biete ich den Kindern "freies" Material zur ästhetischen Forschung, oder dominieren stark angeleitete Bastelarbeiten?
-- Wirken unsere Räume als "dritter Erzieher" anregend, ohne reizüberflutend zu sein?
+- Wirken unsere Räume als "[[Raum_als_dritter_Erzieher|dritter Erzieher]]" anregend, ohne reizüberflutend zu sein?
 - Zeige ich echte Wertschätzung für die kreativen Prozesse (nicht nur für die fertigen Bilder)?
