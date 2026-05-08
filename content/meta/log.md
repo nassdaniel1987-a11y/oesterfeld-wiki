@@ -57,3 +57,13 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Neue Seite [[Methode_Forschendes_Lernen|Forschendes Lernen]] in `05_Paedagogische_Methoden` erstellt (Forschungskreis, Praxistipps, Ganztags-Bezug).
   - Querverweise zu Ko-Konstruktion, Scaffolding, Partizipation, Rhythmisierung und Raumkonzept gesetzt.
   - Index aktualisiert.
+
+## [2026-05-08] Ingest | Web-Recherche: Projektarbeit, Feedbackkultur, Resilienz, Bewegte Schule
+- **Quelle:** Internet-Recherche (ganztaegig-lernen.de, IQES, Bildungsserver, ZSL BW, Schulpsychologie)
+- **Aktionen:**
+  - Neue Seite [[Methode_Projektarbeit|Projektarbeit]] in `05_Paedagogische_Methoden` erstellt (5-Phasen-Modell, Dokumentation).
+  - Neue Seite [[Methode_Feedbackkultur|Feedbackkultur & LEG]] in `05_Paedagogische_Methoden` erstellt (LEG, Portfolio, Selbsteinschätzung).
+  - Neue Seite [[Resilienzfoerderung|Resilienzförderung]] in `06_Paedagogische_Fachbegriffe` erstellt (Schutzfaktoren, Selbstwirksamkeit).
+  - Neue Seite [[Bewegte_Schule|Bewegte Schule]] in `06_Paedagogische_Fachbegriffe` erstellt (Bewegungspausen, innere/äußere Rhythmisierung).
+  - Index um neue Kategorie „Pädagogische Fachbegriffe" erweitert (inkl. bereits existierender Seiten).
+  - Querverweise in alle neuen Seiten gesetzt.

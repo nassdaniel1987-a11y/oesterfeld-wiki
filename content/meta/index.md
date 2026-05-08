@@ -15,6 +15,14 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Kultur_Werte_und_Religion|BF: Kultur, Werte, Religion]]: Sinnfragen, Theologisieren und interkulturelle Vielfalt.
 - [[Aesthetische_Bildung|BF: Ästhetische Bildung]]: Bildende Kunst, Musik, Tanz und szenisches Spiel.
 - [[Medienbildung|BF: Medienbildung]]: Kritisch-reflektierter und aktiver Umgang mit digitalen und analogen Medien.
+
+## Pädagogische Fachbegriffe
+- [[Ko-Konstruktion]]: Lernen als gemeinsamer, sozialer Prozess von Kindern und Erwachsenen.
+- [[Adultismus]]: Kritische Reflexion der Machtasymmetrie zwischen Erwachsenen und Kindern.
+- [[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]]: Der Raum als pädagogisches Gestaltungselement.
+- [[Zirkulaerer_Prozess|Zirkulärer Prozess]]: Beobachtung, Dokumentation und Planung als Kreislauf.
+- [[Resilienzfoerderung|Resilienzförderung]]: Stärkung der psychischen Widerstandskraft durch Schutzfaktoren und pädagogische Haltung.
+- [[Bewegte_Schule|Bewegte Schule]]: Integration von Bewegung in den gesamten Schultag als Konzentrations- und Lernförderung.
 - [[Uebergaenge_und_Zusammenarbeit|Übergänge & Zusammenarbeit]]: Eingewöhnung, Schulübergang und ökosystemischer Ansatz (Verantwortungsgemeinschaft).
 - [[Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung]]: Der PDCA-Kreislauf in der pädagogischen Arbeit und 5 Qualitätsdimensionen.
 - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule]]: Das landesweite Ringmodell (BW) und die 3 Qualitätsstufen.
@@ -24,6 +32,8 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Methode_Mikrotransitionen|Mikrotransitionen]]: Stressfreie Gestaltung der kleinen Übergänge im Kita-Alltag.
 - [[Methode_Dialogisches_Lesen|Dialogisches Lesen]]: Bilderbuchbetrachtung als interaktive Sprachförderung.
 - [[Methode_Forschendes_Lernen|Forschendes Lernen]]: Kinder erforschen eigene Fragen im Forschungskreis – ideal für den Ganztag.
+- [[Methode_Projektarbeit|Projektarbeit]]: Handlungsorientierte Methode in 5 Phasen – von der Themenfindung bis zur Reflexion.
+- [[Methode_Feedbackkultur|Feedbackkultur & LEG]]: Lernentwicklungsgespräche, Portfolio-Arbeit und Selbsteinschätzung als Lernkultur.
 
 ## Ganztagsschule: Qualitätsmerkmale & Struktur
 - [[Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]: Das Stuttgarter Bildungsverständnis (Kind im Fokus) und die 7 Schwerpunkte.
