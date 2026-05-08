@@ -1,3 +1,7 @@
+---
+draft: true
+title: Wiki Index
+---
 # Wiki Index
 
 Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit einem Link und einer kurzen, einzeiligen Zusammenfassung aufgelistet.

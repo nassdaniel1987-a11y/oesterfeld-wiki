@@ -1,3 +1,7 @@
+---
+draft: true
+title: Wiki Log
+---
 # Wiki Log
 
 Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-Vorgänge und Aktualisierungen im Wiki.
