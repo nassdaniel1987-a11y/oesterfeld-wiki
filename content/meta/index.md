@@ -23,6 +23,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Methode_Scaffolding|Scaffolding]]: Die Begleitung kindlicher Lernprozesse durch ein unterstützendes Gerüst.
 - [[Methode_Mikrotransitionen|Mikrotransitionen]]: Stressfreie Gestaltung der kleinen Übergänge im Kita-Alltag.
 - [[Methode_Dialogisches_Lesen|Dialogisches Lesen]]: Bilderbuchbetrachtung als interaktive Sprachförderung.
+- [[Methode_Forschendes_Lernen|Forschendes Lernen]]: Kinder erforschen eigene Fragen im Forschungskreis – ideal für den Ganztag.
 
 ## Ganztagsschule: Qualitätsmerkmale & Struktur
 - [[Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]: Das Stuttgarter Bildungsverständnis (Kind im Fokus) und die 7 Schwerpunkte.

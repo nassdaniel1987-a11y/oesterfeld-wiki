@@ -50,3 +50,10 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
 - **Aktionen:**
   - Neue Seite [Leitfaden Struktur](file:///c:/Users/Nassd/OneDrive/Desktop/Öesterfeld/Österfeld/wiki/Struktur_Einrichtungskonzeption.md) angelegt.
   - Den "Werkstattordner" als Methode im PDCA-Zyklus (`Qualitaetsentwicklung.md`) ergänzt.
+
+## [2026-05-08] Ingest | Web-Recherche: Forschendes Lernen im Ganztag
+- **Quelle:** Internet-Recherche (Stiftung Kinder forschen, forschendes-lernen.net, Siemens Stiftung)
+- **Aktionen:**
+  - Neue Seite [[Methode_Forschendes_Lernen|Forschendes Lernen]] in `05_Paedagogische_Methoden` erstellt (Forschungskreis, Praxistipps, Ganztags-Bezug).
+  - Querverweise zu Ko-Konstruktion, Scaffolding, Partizipation, Rhythmisierung und Raumkonzept gesetzt.
+  - Index aktualisiert.
