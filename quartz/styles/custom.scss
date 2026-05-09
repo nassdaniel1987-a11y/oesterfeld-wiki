@@ -1,3 +1,37 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+article {
+  > h1:first-child {
+    margin-bottom: 0.4rem;
+  }
+
+  > h2 {
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.35rem;
+  }
+
+  > h2 + ul,
+  > h3 + ul {
+    margin-top: 0.25rem;
+  }
+
+  > ul li {
+    margin: 0.25rem 0;
+  }
+
+  .callout {
+    border-radius: 8px;
+    border-left-width: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+  }
+
+  .callout[data-callout="abstract"] {
+    background: color-mix(in srgb, var(--highlight) 55%, var(--light));
+  }
+
+  .callout[data-callout="warning"] {
+    background: color-mix(in srgb, var(--tertiary) 13%, var(--light));
+  }
+}

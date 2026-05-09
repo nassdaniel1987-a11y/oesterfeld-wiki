@@ -79,3 +79,11 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule BW]] um die KMK-Empfehlungen von 2023 als bundesweiten Qualitätsimpuls ergänzt.
   - Querverweise zu Zeit/Rhythmisierung, Raumkonzept, Kooperation/Personal und Elternarbeit gesetzt.
   - Startseite und Wiki Index aktualisiert.
+
+## [2026-05-09] UX | Startseite als Team-Dashboard
+- **Aktionen:**
+  - Startseite von einer Themenliste zu einem praxisorientierten Dashboard umgebaut.
+  - Schnellzugriffe für Angebotplanung, Lernzeit, Raumreflexion, Kinderbeteiligung, Qualitätsarbeit und rechtliche Orientierung ergänzt.
+  - Aktuell-wichtig-Bereich für Rechtsanspruch 2026 und Qualitätsrahmen eingefügt.
+  - Themenbibliothek erhalten, aber weiter nach unten verlagert.
+  - Dezente Styles für Überschriften, Listen und Callouts ergänzt.
