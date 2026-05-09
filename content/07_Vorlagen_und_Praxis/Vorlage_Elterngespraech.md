@@ -3,6 +3,10 @@ tags: [vorlage, elternarbeit, gespräch, dokumentation]
 ---
 # Vorlage: Elterngespräch
 
+> [!tip] Download
+> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.docx)
+> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.pdf)
+
 ## Grunddaten
 - **Datum:** [TT.MM.JJJJ]
 - **Kind:** [Name]
@@ -31,4 +35,3 @@ tags: [vorlage, elternarbeit, gespräch, dokumentation]
 - [ ] Relevante Informationen im Team geteilt.
 - [ ] Vereinbarungen dokumentiert.
 - [ ] Bei Bedarf Bezug zu [[Zusammenarbeit_mit_Eltern]] oder [[Uebergaenge_und_Zusammenarbeit]] hergestellt.
-

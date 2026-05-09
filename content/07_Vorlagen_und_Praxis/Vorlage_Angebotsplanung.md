@@ -3,6 +3,10 @@ tags: [vorlage, angebot, planung, ganztag]
 ---
 # Vorlage: Angebotsplanung im Ganztag
 
+> [!tip] Download
+> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx)
+> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf)
+
 ## Grunddaten
 - **Angebot:** [Titel]
 - **Datum / Zeitraum:** [TT.MM.JJJJ]
@@ -32,4 +36,3 @@ tags: [vorlage, angebot, planung, ganztag]
 - Wo brauchten Kinder Unterstützung?
 - Was verändern wir beim nächsten Mal?
 - Gehört eine Erkenntnis in den [[Raster_Werkstattordner|Werkstattordner]]?
-

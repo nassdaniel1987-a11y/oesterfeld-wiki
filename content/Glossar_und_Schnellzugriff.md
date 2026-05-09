@@ -59,3 +59,13 @@ tags: [glossar, uebersicht, schnellzugriff]
 - [[Checkliste_Raumgestaltung]]
 - [[Raster_Werkstattordner]]
 - [[Vorlage_Kinderkonferenz]]
+
+## Vorlagen-Downloads
+| Vorlage | Word | PDF |
+| --- | --- | --- |
+| Angebotsplanung | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf) |
+| Elterngespräch | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.pdf) |
+| Team-Fallbesprechung | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf) |
+| Kinderkonferenz | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.pdf) |
+| Werkstattordner | [DOCX](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.pdf) |
+| Raumgestaltung | [DOCX](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.pdf) |

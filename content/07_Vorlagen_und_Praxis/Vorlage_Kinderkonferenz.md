@@ -3,6 +3,10 @@ tags: [vorlage, partizipation, kinderkonferenz]
 ---
 # Vorlage: Kinderkonferenz Protokoll
 
+> [!tip] Download
+> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.docx)
+> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.pdf)
+
 > [!tip] Praxis-Tipp
 > Druckt euch diese Vorlage aus oder kopiert sie in ein neues digitales Dokument. Das Protokoll sollte am Ende für die Kinder sichtbar in der Gruppe (oder am Info-Brett) ausgehängt werden!
 

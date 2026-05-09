@@ -72,6 +72,9 @@ Ausführlich: [[Praxis_Angebot_planen]]
 - [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
 - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
 
+> [!tip] Downloads
+> Alle zentralen Vorlagen gibt es zusätzlich als Word- und PDF-Datei: [[Glossar_und_Schnellzugriff#vorlagen-downloads|Vorlagen-Downloads öffnen]].
+
 ## Themenbibliothek
 
 ### Rahmenvorgaben & Steuerung

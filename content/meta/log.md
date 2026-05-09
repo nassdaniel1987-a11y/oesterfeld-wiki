@@ -94,3 +94,10 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Drei neue Vorlagen ergänzt: Angebotsplanung, Elterngespräch, Team-Fallbesprechung.
   - Öffentliche Seite [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]] erstellt.
   - Startseite, Wiki Index und Styling um neue Praxiswege und Vorlagen erweitert.
+
+## [2026-05-09] UX | Vorlagen-Downloads
+- **Aktionen:**
+  - Word- und PDF-Downloads für sechs zentrale Vorlagen erzeugt: Angebotsplanung, Elterngespräch, Team-Fallbesprechung, Kinderkonferenz, Werkstattordner und Raumgestaltung.
+  - Download-Boxen auf allen Vorlagenseiten ergänzt.
+  - Download-Tabelle im [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]] und Hinweis auf der Startseite ergänzt.
+  - Generator `scripts/generate-template-downloads.mjs` hinzugefügt, damit die Dateien reproduzierbar neu erzeugt werden können.

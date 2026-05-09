@@ -3,6 +3,10 @@ tags: [vorlage, qualität, werkstattordner]
 ---
 # Raster: Der Stuttgarter Werkstattordner
 
+> [!tip] Download
+> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.docx)
+> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.pdf)
+
 > [!warning] Stuttgarter Pflicht-Vorgabe
 > Nach dem [[Leitfaden_Einrichtungskonzeption]] der Stadt Stuttgart ist der Werkstattordner das dynamische Herzstück der Qualitätsentwicklung. Dieses Raster dient als Kopiervorlage für einen neuen Reiter/Tab in eurem Ordner.
 

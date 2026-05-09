@@ -3,6 +3,10 @@ tags: [vorlage, team, fallbesprechung, qualität]
 ---
 # Vorlage: Team-Fallbesprechung
 
+> [!tip] Download
+> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx)
+> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf)
+
 ## Grunddaten
 - **Datum:** [TT.MM.JJJJ]
 - **Fall / Thema:** [kurzer Titel]
@@ -36,4 +40,3 @@ Mögliche Bezüge:
 ## 5. Reflexionstermin
 - **Termin zur Überprüfung:** [TT.MM.JJJJ]
 - **Dokumentation im Werkstattordner nötig?** [Ja/Nein]
-
