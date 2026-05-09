@@ -6,6 +6,7 @@ title: Wiki Index
 
 Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit einem Link und einer kurzen, einzeiligen Zusammenfassung aufgelistet.
 
+- [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]: Öffentliche Einstiegsseite für Alltagssituationen, Begriffe und Vorlagen.
 - [[Orientierungsplan_BaWue|Orientierungsplan Baden-Württemberg]]: Zentrale Zusammenfassung des baden-württembergischen Orientierungsplans.
 - [[Kinderschutz_und_Kinderrechte|LP: Kinderschutz & Kinderrechte]]: Leitprinzip zur Gewaltprävention und Einlösung von Beteiligungsrechten.
 - [[Inklusion|LP: Inklusion]]: Leitprinzip zur Teilhabe aller Kinder und Abbau von Bildungsbarrieren.
@@ -32,6 +33,11 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule]]: Das landesweite Ringmodell (BW) und die 3 Qualitätsstufen.
 
 ## Pädagogische Methoden & Konzepte
+- [[Praxis_Angebot_planen|Praxisweg: Angebot planen]]: Schrittfolge von Kinderinteresse über Methode bis Reflexion.
+- [[Praxis_Lernzeit_gestalten|Praxisweg: Lernzeit gestalten]]: Orientierung für pädagogisch begleitete Lernzeit im Ganztag.
+- [[Praxis_Raum_reflektieren|Praxisweg: Raum reflektieren]]: Beobachtungs- und Reflexionshilfe für Räume als Lern- und Lebensorte.
+- [[Praxis_Kinder_beteiligen|Praxisweg: Kinder beteiligen]]: Klärung echter Beteiligung, Entscheidungsspielräume und Kinderkonferenz.
+- [[Praxis_Elterngespraech_vorbereiten|Praxisweg: Elterngespräch vorbereiten]]: Struktur für wertschätzende, konkrete Gespräche mit Familien.
 - [[Methode_Scaffolding|Scaffolding]]: Die Begleitung kindlicher Lernprozesse durch ein unterstützendes Gerüst.
 - [[Methode_Mikrotransitionen|Mikrotransitionen]]: Stressfreie Gestaltung der kleinen Übergänge im Kita-Alltag.
 - [[Methode_Dialogisches_Lesen|Dialogisches Lesen]]: Bilderbuchbetrachtung als interaktive Sprachförderung.
@@ -52,3 +58,11 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Kooperation_und_Personal|GTS: Kooperation & Personal]]: Kooperative Professionalität von Lehrkräften und Trägern.
 - [[Zusammenarbeit_mit_Eltern|GTS: Elternarbeit]]: Erziehungspartnerschaft und regelmäßiger Dialog.
 - [[Steuerung_und_Schulleitung|GTS: Steuerung & Schulleitung]]: Personalentwicklung und Kommunikationsmanagement.
+
+## Vorlagen & Praxismaterial
+- [[Vorlage_Angebotsplanung|Vorlage: Angebotsplanung]]: Planungsraster für Ganztagsangebote mit Beteiligung und Reflexion.
+- [[Vorlage_Elterngespraech|Vorlage: Elterngespräch]]: Gesprächsstruktur mit Vorbereitung, Vereinbarungen und Nachbereitung.
+- [[Vorlage_Team_Fallbesprechung|Vorlage: Team-Fallbesprechung]]: Teamraster für Anliegenklärung, Beobachtung und Handlungsschritte.
+- [[Checkliste_Raumgestaltung|Checkliste Raumgestaltung]]: Teamcheck für Raumqualität und Aufforderungscharakter.
+- [[Raster_Werkstattordner|Raster Werkstattordner]]: PDCA-Raster für Qualitätsentwicklung im Alltag.
+- [[Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]: Protokollstruktur für Beteiligung und Beschlüsse der Kinder.

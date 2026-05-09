@@ -15,6 +15,7 @@ title: Startseite
 - **Ich beteilige Kinder:** [[02_Leitprinzipien/Partizipation|Partizipation]], [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]], [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]
 - **Ich bereite Team- oder Qualitätsarbeit vor:** [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]], [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]], [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Raster Werkstattordner]]
 - **Ich brauche rechtliche Orientierung:** [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]], [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]], [[01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart|Stuttgarter Rahmenkonzept]]
+- **Ich suche einen Begriff oder eine Vorlage:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
 
 > [!tip] Schnellsuche
 > Nutze die Suche links oben für Begriffe wie `Lernzeit`, `Feedback`, `Resilienz`, `Rechtsanspruch`, `Raum` oder `Kinderkonferenz`.
@@ -36,31 +37,40 @@ title: Startseite
 3. Rahmen prüfen: [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]], [[04_Qualitaet_Ganztagsschule/Zeit_und_Rhythmisierung|Zeit & Rhythmisierung]], [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept]]
 4. Reflexion sichern: [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
 
+Ausführlich: [[Praxis_Angebot_planen]]
+
 ### Alltag gut strukturieren
 
 - Übergänge entlasten: [[05_Paedagogische_Methoden/Methode_Mikrotransitionen|Mikrotransitionen]]
 - Lernprozesse begleiten: [[05_Paedagogische_Methoden/Methode_Scaffolding|Scaffolding]]
 - Bewegung einbauen: [[06_Paedagogische_Fachbegriffe/Bewegte_Schule|Bewegte Schule]]
 - Resilienz stärken: [[06_Paedagogische_Fachbegriffe/Resilienzfoerderung|Resilienzförderung]]
+- Lernzeit konkret planen: [[Praxis_Lernzeit_gestalten]]
 
 ### Kinder beteiligen
 
 - Haltung klären: [[02_Leitprinzipien/Partizipation|Partizipation]] und [[06_Paedagogische_Fachbegriffe/Adultismus|Adultismus]]
 - Struktur schaffen: [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Kinderkonferenz-Protokoll]]
 - Klima entwickeln: [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]]
+- Ausführlich: [[Praxis_Kinder_beteiligen]]
 
 ### Zusammenarbeit stärken
 
 - Im Team: [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]]
 - Mit Eltern: [[04_Qualitaet_Ganztagsschule/Zusammenarbeit_mit_Eltern|Zusammenarbeit mit Eltern]]
 - Bei Übergängen: [[02_Leitprinzipien/Uebergaenge_und_Zusammenarbeit|Übergänge & Zusammenarbeit]]
+- Elterngespräche vorbereiten: [[Praxis_Elterngespraech_vorbereiten]]
 
 ## Vorlagen & Praxismaterial
 
 - [[07_Vorlagen_und_Praxis/Checkliste_Raumgestaltung|Checkliste Raumgestaltung]]
+- [[07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung|Vorlage: Angebotsplanung]]
+- [[07_Vorlagen_und_Praxis/Vorlage_Elterngespraech|Vorlage: Elterngespräch]]
+- [[07_Vorlagen_und_Praxis/Vorlage_Team_Fallbesprechung|Vorlage: Team-Fallbesprechung]]
 - [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Vorlage: Werkstattordner (PDCA-Raster)]]
 - [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage: Kinderkonferenz-Protokoll]]
 - [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
+- [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
 
 ## Themenbibliothek
 
@@ -105,6 +115,7 @@ title: Startseite
 
 ### Methoden & Fachbegriffe
 
+- [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
 - [[05_Paedagogische_Methoden/Methode_Forschendes_Lernen|Forschendes Lernen]]
 - [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]]
 - [[05_Paedagogische_Methoden/Methode_Feedbackkultur|Feedbackkultur & LEG]]

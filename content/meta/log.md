@@ -87,3 +87,10 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Aktuell-wichtig-Bereich für Rechtsanspruch 2026 und Qualitätsrahmen eingefügt.
   - Themenbibliothek erhalten, aber weiter nach unten verlagert.
   - Dezente Styles für Überschriften, Listen und Callouts ergänzt.
+
+## [2026-05-09] UX | Praxiswege, Vorlagen und Schnellzugriff
+- **Aktionen:**
+  - Fünf Praxis-Einstiegsseiten erstellt: Angebot planen, Lernzeit gestalten, Raum reflektieren, Kinder beteiligen, Elterngespräch vorbereiten.
+  - Drei neue Vorlagen ergänzt: Angebotsplanung, Elterngespräch, Team-Fallbesprechung.
+  - Öffentliche Seite [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]] erstellt.
+  - Startseite, Wiki Index und Styling um neue Praxiswege und Vorlagen erweitert.

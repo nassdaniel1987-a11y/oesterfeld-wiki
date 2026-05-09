@@ -21,6 +21,22 @@ article {
     margin: 0.25rem 0;
   }
 
+  > ul:has(li > strong:first-child) {
+    padding-left: 1.1rem;
+  }
+
+  > ul:has(li > strong:first-child) li {
+    padding: 0.15rem 0;
+  }
+
+  > ol {
+    padding-left: 1.35rem;
+  }
+
+  > table {
+    font-size: 0.95rem;
+  }
+
   .callout {
     border-radius: 8px;
     border-left-width: 4px;
@@ -33,5 +49,9 @@ article {
 
   .callout[data-callout="warning"] {
     background: color-mix(in srgb, var(--tertiary) 13%, var(--light));
+  }
+
+  table {
+    border-radius: 8px;
   }
 }
