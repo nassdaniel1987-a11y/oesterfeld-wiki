@@ -71,3 +71,11 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Neue Seite [[Bewegte_Schule|Bewegte Schule]] in `06_Paedagogische_Fachbegriffe` erstellt (Bewegungspausen, innere/äußere Rhythmisierung).
   - Index um neue Kategorie „Pädagogische Fachbegriffe" erweitert (inkl. bereits existierender Seiten).
   - Querverweise in alle neuen Seiten gesetzt.
+
+## [2026-05-09] Ingest | Web-Recherche: Rechtsanspruch 2026 & KMK-Qualität im Ganztag
+- **Quelle:** Kultusministerium Baden-Württemberg, BMBFSFJ, KMK-Empfehlungen zur pädagogischen Qualität im Ganztag.
+- **Aktionen:**
+  - Neue Seite [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]] in `01_Rahmenkonzepte_und_Steuerung` erstellt.
+  - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule BW]] um die KMK-Empfehlungen von 2023 als bundesweiten Qualitätsimpuls ergänzt.
+  - Querverweise zu Zeit/Rhythmisierung, Raumkonzept, Kooperation/Personal und Elternarbeit gesetzt.
+  - Startseite und Wiki Index aktualisiert.

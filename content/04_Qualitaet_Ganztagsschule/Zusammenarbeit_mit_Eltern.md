@@ -9,6 +9,8 @@ tags: [qualität, elternarbeit, partnerschaft, dialog]
 ## Kerngedanke
 Eltern sind die wichtigsten Partner in der Erziehung und Bildung. Die Partizipation von Eltern bei der Konzeption und Ausgestaltung des Ganztags ist eine zwingende Voraussetzung für eine erfolgreiche Erziehungspartnerschaft.
 
+Der [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] erhöht den Informations- und Beratungsbedarf von Familien. Eltern brauchen frühzeitig Klarheit darüber, welche Angebote bestehen, wie der zeitliche Umfang erfüllt wird und welche pädagogische Qualität Kinder im Ganztag erleben.
+
 ## Standards
 - Ein Konzept für die Beteiligung von Eltern im Ganztagsbetrieb liegt vor.
 - Die Heterogenität der Elternschaft wird berücksichtigt (Sprache, Milieu).
@@ -37,4 +39,5 @@ Eltern sind die wichtigsten Partner in der Erziehung und Bildung. Die Partizipat
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Rechtlicher Rahmen: [[Rechtsanspruch_Ganztagsbetreuung_2026]]
 - Familienfokus im Orientierungsplan: [[Uebergaenge_und_Zusammenarbeit]]

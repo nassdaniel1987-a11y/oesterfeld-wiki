@@ -9,6 +9,17 @@ tags: [qualität, rahmenkonzept, bw, standards]
 ## Bedeutung
 Die schulgesetzlich verankerte Ganztagsschule ist mehr als nur ein Betreuungsangebot zur Vereinbarkeit von Familie und Beruf. Ihr wesentlicher Auftrag ist ein qualitativ hochwertiges, rhythmisches Bildungsangebot, das Chancengerechtigkeit schafft und Schüler:innen ganzheitlich fördert.
 
+Mit dem [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch auf Ganztagsbetreuung ab 2026]] wird dieser Qualitätsauftrag noch wichtiger: Der zusätzliche Zeitrahmen muss pädagogisch genutzt werden, damit Ganztag ein Lern- und Lebensort bleibt und nicht auf reine Betreuung reduziert wird.
+
+## Bundesweiter Qualitätsimpuls der KMK
+Die Kultusministerkonferenz hat 2023 Empfehlungen zur Weiterentwicklung der pädagogischen Qualität ganztägiger Bildungs- und Betreuungsangebote beschlossen. Sie bilden einen bundesweiten Orientierungsrahmen, während der Qualitätsrahmen Ganztagsschule BW die landesspezifische Konkretisierung liefert.
+
+Zentrale Akzente der KMK-Empfehlungen:
+- Die Interessen und Bedürfnisse der Kinder sind handlungsleitend.
+- Ganztag verbindet formales, non-formales und informelles Lernen über den ganzen Tag.
+- Inklusive Lern- und Lebensräume berücksichtigen unterschiedliche Fähigkeiten und Unterstützungsbedarfe.
+- Wirksamkeit entsteht nicht allein durch mehr Zeit, sondern durch Angebotsqualität, Kontinuität, gute Beziehungen und multiprofessionelle Zusammenarbeit.
+
 ## Das Ringmodell der Ganztagsschule
 Der Qualitätsrahmen visualisiert die [[Ko-Konstruktion|ko-konstruktive]] Zusammenarbeit in Form konzentrischer Kreise:
 - **Im Zentrum:** Die Schülerinnen und Schüler. Alle Maßnahmen sind auf ihre ganzheitliche Entwicklung ausgerichtet.
@@ -37,3 +48,8 @@ Ganztagsschulen entwickeln sich als "Lernende Organisationen" in drei Stufen:
 
 ## Verknüpfung im Wiki
 Dieses Modell bildet die übergeordnete Brücke zwischen der Elementarpädagogik ([[Orientierungsplan_BaWue|Orientierungsplan Kita]]) und der Grundschule (vgl. [[Uebergaenge_und_Zusammenarbeit]]). Der Rahmen greift direkt in die [[Qualitaetsentwicklung_und_Werkstattordner]] der Einrichtung ein.
+
+## Quellen
+- Kultusministerium Baden-Württemberg: Qualitätsrahmen Ganztagsschule BW (`raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf`)
+- KMK: [Qualität im Ganztag: KMK entwickelt Empfehlungen](https://www.kmk.org/aktuelles/pressearchiv/mitteilung/qualitaet-im-ganztag-kmk-entwickelt-empfehlungen.html)
+- KMK: [Empfehlungen zur Weiterentwicklung der pädagogischen Qualität ganztägiger Bildungs- und Betreuungsangebote](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_10_12-Ganztag-Empfehlung.pdf)

@@ -9,6 +9,8 @@ tags: [qualität, zeit, rhythmisierung, ganztag]
 ## Kerngedanke
 Eine gute Ganztagsschule zeichnet sich nicht durch eine bloße Addition von Halbtagsschule und Nachmittagsbetreuung aus, sondern durch eine *kindgerechte Rhythmisierung* des gesamten Tages. Phasen der Anspannung (Konzentration) und Entspannung wechseln sich lernförderlich ab.
 
+Der [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] setzt dafür einen verlässlichen zeitlichen Rahmen: acht Stunden an fünf Werktagen. Pädagogisch entscheidend ist, dass diese Zeit als Wechsel von Lernen, Spielen, Essen, Bewegung, Beziehung und Ruhe gestaltet wird.
+
 ## Standards
 - Kontingentstunden und Ganztagsstunden sind sinnvoll über den Tag verteilt (auch Nachmittags findet Unterricht statt, auch Vormittags gibt es Angebote).
 - Es existiert ein Pausenkonzept, das eine Mittagspause (Verpflegung, Freizeit, Rückzug) sowie zwei längere Pausen am Vormittag umfasst.

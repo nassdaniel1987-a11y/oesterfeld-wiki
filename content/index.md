@@ -24,6 +24,7 @@ Die rechtlichen und organisatorischen Grundlagen unserer Arbeit.
 - [[01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart|Stuttgarter Rahmenkonzept (Einstein 2.0)]]
 - [[01_Rahmenkonzepte_und_Steuerung/Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]
 - [[01_Rahmenkonzepte_und_Steuerung/Leitfaden_Einrichtungskonzeption|Leitfaden Konzeptionsentwicklung]]
+- [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]]
 
 ---
 

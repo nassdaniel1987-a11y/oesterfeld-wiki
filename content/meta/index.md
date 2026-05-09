@@ -43,6 +43,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]: Das Stuttgarter Bildungsverständnis (Kind im Fokus) und die 7 Schwerpunkte.
 - [[Rahmenkonzept_Ganztag_Stuttgart|Struktur Ganztag Stuttgart]]: Rahmenkonzept, Rhythmisierung und Angebotsbausteine (Gebunden vs. Teilgebunden).
 - [[Leitfaden_Einrichtungskonzeption|Leitfaden Konzeptionsentwicklung]]: Verbindliches Inhaltsverzeichnis (Stuttgart) und Werkstattordner.
+- [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]]: GaFöG, Stufenmodell ab 2026/2027 und pädagogische Bedeutung für die GTS.
 - [[Zeit_und_Rhythmisierung|GTS: Zeit & Rhythmisierung]]: Kontingentstunden, Pausenkonzepte und Taktung.
 - [[Raumkonzept_und_Lernumgebung|GTS: Raumkonzept]]: Flexible Raumnutzung, Rückzugsorte und Außengelände.
 - [[Demokratie_und_Schulklima|GTS: Demokratische Partizipation & Schulklima]]: Konfliktkultur, Partizipation und Schulgemeinschaft.

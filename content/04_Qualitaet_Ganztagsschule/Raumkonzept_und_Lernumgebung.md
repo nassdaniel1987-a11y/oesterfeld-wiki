@@ -9,6 +9,8 @@ tags: [qualität, raumkonzept, lernumgebung, ganztag]
 ## Kerngedanke
 Eine pädagogisch gestaltete Umgebung ("Der [[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]]", vgl. [[Aesthetische_Bildung]]) leistet einen zentralen Beitrag zum Gelingen. Die Schule wird vom reinen Lernraum zum echten **Lebensraum**. Dies erfordert eine flexible Raumnutzung, die kognitiv herausfordert und emotionale Geborgenheit bietet.
 
+Durch den [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] werden Räume noch stärker zum Qualitätsfaktor: Kinder verbringen verlässlich mehr Zeit in der Schule und brauchen deshalb gut abgestimmte Orte für Konzentration, Essen, Bewegung, Rückzug und soziale Begegnung.
+
 ## Standards
 - Es existiert eine mit den pädagogischen Zielen korrespondierende Raumnutzungskonzeption.
 - Raumausstattung, Funktion und Gestaltung sind aufeinander abgestimmt.
@@ -36,4 +38,5 @@ Eine pädagogisch gestaltete Umgebung ("Der [[Raum_als_dritter_Erzieher|Raum als
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Rechtlicher Rahmen: [[Rechtsanspruch_Ganztagsbetreuung_2026]]
 - Pädagogische Bedeutung: [[Aesthetische_Bildung]] ([[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]])

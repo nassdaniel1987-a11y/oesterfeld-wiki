@@ -9,6 +9,8 @@ tags: [qualität, kooperation, personal, multiprofessionell]
 ## Kerngedanke
 Die Ganztagsschule wird durch die systematische Zusammenarbeit unterschiedlichster Professionen getragen (Lehrkräfte, pädagogische Fachkräfte der Träger, Schulsozialarbeit, externe Experten). "Kooperative Professionalität" ist der Schlüssel zu Qualität und zur Entlastung des Einzelnen.
 
+Mit dem [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch auf Ganztagsbetreuung]] wächst die Bedeutung verlässlicher Kooperationsstrukturen: Mehr Kinder, längere Betreuungszeiten und vielfältigere Bedarfe können nur gemeinsam getragen werden.
+
 ## Standards
 - Unterschiedliche Professionen arbeiten auf Augenhöhe und wertschätzend zusammen.
 - Absprachen zu Rahmen, Form und Inhalt werden gemeinsam getroffen und eingehalten.
@@ -37,4 +39,5 @@ Die Ganztagsschule wird durch die systematische Zusammenarbeit unterschiedlichst
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Rechtlicher Rahmen: [[Rechtsanspruch_Ganztagsbetreuung_2026]]
 - Vernetzung: [[Uebergaenge_und_Zusammenarbeit]]
