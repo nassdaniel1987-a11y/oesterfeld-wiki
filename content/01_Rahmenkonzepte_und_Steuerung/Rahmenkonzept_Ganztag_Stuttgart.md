@@ -1,5 +1,8 @@
 # Ganztagsgrundschule Stuttgart: Rahmenkonzept & Struktur
 
+> [!abstract] Kurzfassung
+> Diese Seite fasst das Stuttgarter Rahmenkonzept für Ganztagsgrundschulen zusammen: Bildungsgerechtigkeit, Rhythmisierung, Lernzeiten, Mittagsband und gemeinsame Bildungsverantwortung stehen im Zentrum.
+
 **Quelle:** `raw/rahmenkonzept-ausbau-grundschulen-zu-ganztagsschulen-2013-3.pdf`
 **Download:** [[Quellenbibliothek]]
 **Kategorie:** Struktur und Rahmenbedingungen

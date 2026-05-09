@@ -1,5 +1,8 @@
 # Orientierungsplan für Bildung und Erziehung (Baden-Württemberg)
 
+> [!abstract] Kurzfassung
+> Diese Seite ordnet den Orientierungsplan BW als pädagogische Grundlage ein: Kinderrechte, Inklusion, Partizipation, BNE und Bildungsfelder bilden den roten Faden für Haltung und Praxis.
+
 **Quelle:** `raw/2025-07-14-Orientierungsplan_für_Bildung_und_Erziehung_in_baden-württembergischen_Kin-dertageseinrichtungen_und_Kindertagespflege.pdf`
 **Download:** [[Quellenbibliothek]]
 **Fokus:** Verbindlicher Rahmen für Pädagogik und Ganztagsschule (Primär Elementarbereich, aber stark anschlussfähig zur Grundschule).

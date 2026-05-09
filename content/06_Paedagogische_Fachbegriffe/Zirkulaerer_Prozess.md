@@ -3,6 +3,9 @@ tags: [fachbegriff, beobachtung, planung, qualitaet]
 ---
 # Der zirkuläre Prozess
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt Beobachtung, Dokumentation, Planung, Umsetzung und Reflexion als Kreislauf. Pädagogisches Handeln bleibt dadurch lernend und anpassbar.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Qualitätsentwicklung, Orientierungsplan, Konzeptionsentwicklung
 

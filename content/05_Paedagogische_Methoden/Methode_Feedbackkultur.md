@@ -3,6 +3,9 @@ tags: [methode, feedback, qualitaet, lernentwicklung]
 ---
 # Konzept: Feedbackkultur & Lernentwicklungsgespräche
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt Feedback als Lernkultur: Kinder brauchen konkrete Rückmeldung, Selbstreflexion und Gespräche, die Entwicklung sichtbar machen statt nur Leistung zu bewerten.
+
 **Quellen:** Internet-Recherche (IQES online, Bildungsserver Berlin-Brandenburg, Cornelsen)
 **Kategorie:** Pädagogische Methoden
 

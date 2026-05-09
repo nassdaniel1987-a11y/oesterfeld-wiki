@@ -3,6 +3,9 @@ tags: [methode, scaffolding, sprachfoerderung, lernbegleitung]
 ---
 # Konzept: Scaffolding
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Scaffolding als unterstützende Lernbegleitung. Erwachsene geben so viel Hilfe wie nötig und ziehen Unterstützung zurück, sobald Kinder selbstständiger handeln können.
+
 **Quellen:** `Clippings/Scaffolding.md`
 **Kategorie:** Pädagogische Methoden
 

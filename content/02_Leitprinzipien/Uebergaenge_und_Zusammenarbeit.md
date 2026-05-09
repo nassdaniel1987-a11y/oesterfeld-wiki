@@ -3,6 +3,9 @@ tags: [leitprinzip, übergänge, transition, elternarbeit, kooperation]
 ---
 # Übergänge und Zusammenarbeit gemeinsam gestalten
 
+> [!abstract] Kurzfassung
+> Diese Seite fokussiert Übergänge als sensible Entwicklungsphasen. Gute Zusammenarbeit zwischen Kind, Familie, Kita, Schule und Ganztag schafft Orientierung und Sicherheit.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Struktur und Rahmenbedingungen
 
@@ -32,4 +35,3 @@ Neben Kita, Schule und Familie gehören weitere Akteure zum "ökosystemischen" A
 > - Gelingt uns ein transparenter Austausch mit den Eltern über unsere pädagogischen Ziele?
 > - Werden Eltern bei uns "nur" informiert, oder können sie sich aktiv partizipativ einbringen?
 > - Pflegen wir eine kontinuierliche, systematische Kooperation mit den örtlichen Grundschulen?
-

@@ -3,6 +3,9 @@ tags: [vorlage, team, fallbesprechung, qualität]
 ---
 # Vorlage: Team-Fallbesprechung
 
+> [!abstract] Wann nutzen?
+> Diese Vorlage unterstützt Teams dabei, ein Anliegen gemeinsam zu klären, Beobachtungen zu sammeln und konkrete nächste Schritte zu vereinbaren.
+
 > [!tip] Download als Datei
 > **Word:** [Vorlage_Team_Fallbesprechung.docx](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx)
 > **PDF:** [Vorlage_Team_Fallbesprechung.pdf](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf)

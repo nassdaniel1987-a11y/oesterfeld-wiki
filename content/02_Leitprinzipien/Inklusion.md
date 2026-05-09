@@ -3,6 +3,9 @@ tags: [leitprinzip, inklusion, vielfalt, teilhabe]
 ---
 # Leitprinzip: Inklusion
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt Inklusion als Auftrag, Barrieren abzubauen und Unterschiedlichkeit als Normalität zu gestalten. Ziel ist Teilhabe für jedes Kind im Alltag.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Leitprinzipien
 
@@ -28,4 +31,3 @@ Kinder mit und ohne Behinderungen oder aus unterschiedlichen Herkunftsländern s
 > > - Welche meiner eigenen Vorurteile oder Stereotypen muss ich kritisch reflektieren?
 > > - Wie erkenne und reagiere ich auf Diskriminierung im Kita-Alltag?
 > > - Biete ich Spiel- und Lernmaterialien an, die vielfältige Lebensrealitäten abbilden (Hautfarben, Familienformen, Behinderungen)?
-

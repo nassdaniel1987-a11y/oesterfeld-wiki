@@ -3,6 +3,9 @@ tags: [fachbegriff, bewegung, rhythmisierung, ganztag]
 ---
 # Bewegte Schule (Bewegungskonzept im Ganztag)
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Bewegung als durchgehendes Prinzip des Schultags. Bewegung unterstützt Konzentration, Selbstregulation, Wohlbefinden und kindgerechte Rhythmisierung.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Rhythmisierung, Körper & Lebensweise, Raumkonzept
 

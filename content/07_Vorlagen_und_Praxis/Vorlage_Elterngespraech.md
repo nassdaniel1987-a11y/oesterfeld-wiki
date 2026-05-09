@@ -3,6 +3,9 @@ tags: [vorlage, elternarbeit, gespräch, dokumentation]
 ---
 # Vorlage: Elterngespräch
 
+> [!abstract] Wann nutzen?
+> Diese Vorlage hilft, Elterngespräche vorzubereiten, wertschätzend zu strukturieren und Vereinbarungen nachvollziehbar zu dokumentieren.
+
 > [!tip] Download als Datei
 > **Word:** [Vorlage_Elterngespraech.docx](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.docx)
 > **PDF:** [Vorlage_Elterngespraech.pdf](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.pdf)

@@ -3,6 +3,9 @@ tags: [methode, forschendes-lernen, ganztag, partizipation]
 ---
 # Konzept: Forschendes Lernen
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt forschendes Lernen als Weg von Kinderfragen zu Erkundung, Vermutung, Ausprobieren und Präsentation. Sie eignet sich besonders für interessengeleitete Ganztagsangebote.
+
 **Quellen:** Internet-Recherche (Stiftung Kinder forschen, forschendes-lernen.net, Siemens Stiftung)
 **Kategorie:** Pädagogische Methoden
 

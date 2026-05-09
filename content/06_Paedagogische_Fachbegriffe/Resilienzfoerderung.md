@@ -3,6 +3,9 @@ tags: [fachbegriff, resilienz, emotion, motivation, kinderschutz]
 ---
 # Resilienzförderung
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Resilienzförderung als Stärkung von Schutzfaktoren. Beziehung, Selbstwirksamkeit, Orientierung und Zugehörigkeit helfen Kindern, Belastungen zu bewältigen.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Emotion & Motivation, Soziale Entwicklung, Kinderschutz
 

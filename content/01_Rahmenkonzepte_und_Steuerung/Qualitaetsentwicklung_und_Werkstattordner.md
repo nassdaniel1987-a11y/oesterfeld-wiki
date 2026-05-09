@@ -1,5 +1,8 @@
 # Qualität sichern und weiterentwickeln
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Qualitätsentwicklung als Kreislauf aus Planen, Umsetzen, Prüfen und Verbessern. Der Werkstattordner macht diese Arbeit im Alltag sichtbar und handhabbar.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Struktur und Rahmenbedingungen
 

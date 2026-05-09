@@ -3,6 +3,9 @@ tags: [vorlage, partizipation, kinderkonferenz]
 ---
 # Vorlage: Kinderkonferenz Protokoll
 
+> [!abstract] Wann nutzen?
+> Diese Vorlage hilft, Kinderkonferenzen verbindlich zu dokumentieren: Themen, Ideen, Beschlüsse und Verantwortlichkeiten bleiben für Kinder und Erwachsene nachvollziehbar.
+
 > [!tip] Download als Datei
 > **Word:** [Vorlage_Kinderkonferenz.docx](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.docx)
 > **PDF:** [Vorlage_Kinderkonferenz.pdf](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.pdf)

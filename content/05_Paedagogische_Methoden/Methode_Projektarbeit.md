@@ -3,6 +3,9 @@ tags: [methode, projektarbeit, ganztag, partizipation]
 ---
 # Konzept: Projektarbeit
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt Projektarbeit als handlungsorientierte Methode, bei der Kinder interessengeleitet, kooperativ und über längere Zeit an einem Thema arbeiten.
+
 **Quellen:** Internet-Recherche (ganztaegig-lernen.de, ganztagsschulverband.de, frei-day.org)
 **Kategorie:** Pädagogische Methoden
 

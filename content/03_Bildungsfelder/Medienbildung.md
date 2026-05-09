@@ -3,6 +3,9 @@ tags: [bildungsfeld, medien, digital, analog]
 ---
 # Bildungsfeld: Medienbildung
 
+> [!abstract] Kurzfassung
+> Diese Seite ordnet Medienbildung als aktives, kritisches und kreatives Lernen mit Medien ein. Im Ganztag geht es um Teilhabe, Ausdruck, Schutz und reflektierte Nutzung.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -36,4 +39,3 @@ Die Auseinandersetzung mit Medien erfordert auch den Blick auf Rechte und Schutz
 > - Habe ich eine differenzierte Haltung zu Medien (weder blinde Ablehnung noch unreflektierter Konsum)?
 > - Nutze ich digitale Medien als *kreatives Werkzeug* für die Kinder?
 > - Wie beziehe ich die Eltern in die Medienbildung ihrer Kinder ein (Erziehungspartnerschaft)?
-

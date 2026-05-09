@@ -120,3 +120,10 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen]], [[Kooperation_und_Personal|Kooperation & Personal]], [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch]], [[Angebotsstruktur]], [[Zeit_und_Rhythmisierung]] und [[Bewegte_Schule]] um aktuelle Forschungsimpulse erweitert.
   - Neue [[Quellenbibliothek|Quellenbibliothek]] mit Download-Links auf lokale Raw-PDFs erstellt.
   - Explorer-Darstellung geplant/umgesetzt: menschenlesbare Ordnernamen, kompaktere Anzeige und ruhigere Sidebar.
+
+## [2026-05-09] UX | Einheitliche Seiteneinstiege
+- **Aktionen:**
+  - Öffentliche Wiki-Seiten ohne Einstieg um kurze Abstract-Callouts ergänzt.
+  - Fach-, Konzept-, Leitprinzipien-, Bildungsfeld- und Methodenseiten mit `Kurzfassung` versehen.
+  - Vorlagenseiten mit `Wann nutzen?` ergänzt, damit Zweck und Einsatzsituation sofort klar sind.
+  - `Clippings`, `meta` und `Claude.md` unverändert gelassen.

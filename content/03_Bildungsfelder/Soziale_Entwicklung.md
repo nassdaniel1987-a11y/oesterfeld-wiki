@@ -3,6 +3,9 @@ tags: [bildungsfeld, soziale-entwicklung, kooperation, konflikt]
 ---
 # Bildungsfeld: Soziale Entwicklung
 
+> [!abstract] Kurzfassung
+> Diese Seite fokussiert Gemeinschaft, Konfliktfähigkeit, Empathie und Zugehörigkeit. Im Ganztag wird soziale Entwicklung besonders im gemeinsamen Alltag sichtbar.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -34,4 +37,3 @@ Kinder erproben Regeln. Um "blinden Gehorsam" zu verhindern, müssen Regeln vers
 > - Wie gehe ich mit meiner "Erwachsenen-Macht" ([[Adultismus]]) im Alltag um? Erkläre ich Regeln plausibel?
 > - Werden Konflikte von mir nur abgebrochen, oder begleite ich die Kinder bei einer echten Lösungsfindung?
 > - Stärke ich die "Theory of Mind" durch Gespräche über Gefühle und Absichten ("Was glaubst du, warum er das getan hat?")?
-

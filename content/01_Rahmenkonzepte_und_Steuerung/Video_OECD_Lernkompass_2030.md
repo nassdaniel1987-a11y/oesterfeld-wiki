@@ -5,6 +5,9 @@ date: 2026-05-07
 
 # Videodokumentation: OECD Lernkompass 2030
 
+> [!abstract] Einordnung
+> Diese Seite sammelt einen Impuls zum OECD Lernkompass 2030. Er ist vor allem als Zukunftsrahmen für Kompetenzen, Selbstwirksamkeit und verantwortliches Handeln interessant.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIr3TFwkXsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Das Video präsentiert den **OECD Lernkompass 2030**, ein Rahmenkonzept für die Zukunft der Bildung. Andreas Schleicher (OECD-Bildungsdirektor) und Kerstin Wilmans erläutern darin, warum unser aktuelles Bildungssystem für eine Welt voller KI und globaler Krisen nicht mehr ausreicht und wie sich Schule verändern muss.

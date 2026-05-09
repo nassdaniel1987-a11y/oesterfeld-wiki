@@ -1,5 +1,8 @@
 # Leitfaden: Struktur der Einrichtungskonzeption
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt, wie eine Einrichtungskonzeption aufgebaut wird und wie der Werkstattordner als lebendiges Arbeitsinstrument die tägliche Qualitätsentwicklung unterstützt.
+
 **Quelle:** `raw/Leitfaden zur Konzeptionsentwicklung_2026.docx.pdf`
 **Download:** [[Quellenbibliothek]]
 **Kategorie:** Struktur und Rahmenbedingungen

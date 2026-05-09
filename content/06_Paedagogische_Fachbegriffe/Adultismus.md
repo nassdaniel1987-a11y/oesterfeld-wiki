@@ -3,6 +3,9 @@ tags: [fachbegriff, adultismus, partizipation, kinderschutz]
 ---
 # Adultismus
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Adultismus als ungleiche Machtbeziehung zwischen Erwachsenen und Kindern. Sie hilft, Beteiligung, Regeln und Entscheidungen selbstkritisch zu prüfen.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Soziale Entwicklung, Partizipation, Kinderschutz
 

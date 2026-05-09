@@ -3,6 +3,9 @@ tags: [leitprinzip, kinderschutz, kinderrechte, prävention]
 ---
 # Leitprinzip: Kinderschutz und Kinderrechte
 
+> [!abstract] Kurzfassung
+> Diese Seite bündelt Kinderrechte, Schutzauftrag und Beteiligung als Grundlage pädagogischen Handelns. Sie hilft, Sicherheit, Würde und Beschwerderechte mitzudenken.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Leitprinzipien
 
@@ -30,4 +33,3 @@ Prävention bedeutet, das Kind in seiner Persönlichkeit zu stärken. Folgende T
 > - Wie nehme ich die Emotionen der Kinder ernst (auch wenn ich sie nicht nachvollziehen kann)?
 > - Wie thematisiere ich Gefühle im Alltag?
 > - Wie helfe ich Kindern bei der Entwicklung von Problemlösekompetenzen?
-

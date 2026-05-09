@@ -3,6 +3,9 @@ tags: [bildungsfeld, wahrnehmung, denken, naturwissenschaft]
 ---
 # Bildungsfeld: Wahrnehmen und Denken
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt, wie Kinder über Wahrnehmung, Fragen, Forschen, Vergleichen und Ordnen ihre Welt verstehen. Sie passt besonders zu forschendem Lernen und Projektarbeit.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -34,4 +37,3 @@ Das Denken entwickelt sich massiv durch die Ausdifferenzierung der **Exekutiven 
 > - Wende ich [[Methode_Scaffolding|Scaffolding]] an, um das Kind bei Problemlösungen in seiner "Zone der nächsten Entwicklung" zu begleiten?
 > - Wie reagiere ich auf "Warum-Fragen" (Nehme ich sie als Forschungsauftrag ernst oder weiche ich aus)?
 > - Sind meine Angebote so gestaltet, dass auch Kinder mit kognitiven Einschränkungen teilhaben können ([[Inklusion]])?
-

@@ -3,6 +3,9 @@ tags: [bildungsfeld, kultur, werte, religion]
 ---
 # Bildungsfeld: Kultur, Werte, Religion
 
+> [!abstract] Kurzfassung
+> Diese Seite unterstützt den Umgang mit Sinnfragen, Werten, Vielfalt und Zugehörigkeit. Sie hilft, unterschiedliche Familienkulturen und Kinderfragen respektvoll einzubeziehen.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -31,4 +34,3 @@ Kitas sind Orte kultureller und religiöser Vielfalt. Diese Vielfalt muss sichtb
 > - Lasse ich die großen Lebensfragen (Tod, Gerechtigkeit, Gott) zu oder blocke ich sie ab?
 > - Ist unsere Einrichtungskultur tatsächlich diversitätssensibel (z.B. Repräsentation von Vielfalt in Büchern und Spielmaterial)?
 > - Wie begegne ich rassistischen oder abwertenden Äußerungen (Sicherung von [[Kinderschutz_und_Kinderrechte]])?
-

@@ -3,6 +3,9 @@ tags: [methode, transitionen, struktur, tagesablauf]
 ---
 # Konzept: Mikrotransitionen
 
+> [!abstract] Kurzfassung
+> Diese Seite hilft, kleine Übergänge im Alltag bewusst zu gestalten. Gute Mikrotransitionen reduzieren Stress, geben Orientierung und schützen Beziehungsmomente.
+
 **Quellen:** `Clippings/Mikrotransitionen.md`, `Clippings/Mikrotransitionen Kleiner Wechsel...`
 **Kategorie:** Pädagogische Methoden / Struktur
 

@@ -3,6 +3,9 @@ tags: [bildungsfeld, emotion, motivation, resilienz]
 ---
 # Bildungsfeld: Emotion und Motivation
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt emotionale Entwicklung, Selbstwirksamkeit und Motivation als Grundlage für Lernen. Sie hilft, Kinder bei Frustration, Freude, Neugier und Selbststeuerung zu begleiten.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -31,4 +34,3 @@ Das Erleben, dass das eigene Tun eine verlässliche Folge hat (*Kontingenzerfahr
 > - Unterstütze ich die *Ko-Regulation* bei Wutausbrüchen, anstatt das Kind alleinzulassen (Time-out)?
 > - Bin ich mir der Gefahr bewusst, dass zu viele extrinsische Belohnungen die kindliche Neugier (intrinsische Motivation) dämpfen können?
 > - Wie spreche ich über Gefühle? Nutze ich Bilderbücher, um sekundäre Emotionen zu thematisieren?
-

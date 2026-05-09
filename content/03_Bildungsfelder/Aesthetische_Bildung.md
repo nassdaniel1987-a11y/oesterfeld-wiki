@@ -3,6 +3,9 @@ tags: [bildungsfeld, ästhetik, kunst, musik]
 ---
 # Bildungsfeld: Ästhetische Bildung
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt ästhetische Bildung als Ausdruck, Wahrnehmung und Gestaltung. Kunst, Musik, Bewegung, Theater und Materialerfahrung eröffnen Kindern eigene Zugänge zur Welt.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -34,4 +37,3 @@ Angelehnt an die Reggio-Pädagogik hat die Raumgestaltung enormen Einfluss.
 > - Biete ich den Kindern "freies" Material zur ästhetischen Forschung, oder dominieren stark angeleitete Bastelarbeiten?
 > - Wirken unsere Räume als "[[Raum_als_dritter_Erzieher|dritter Erzieher]]" anregend, ohne reizüberflutend zu sein?
 > - Zeige ich echte Wertschätzung für die kreativen Prozesse (nicht nur für die fertigen Bilder)?
-

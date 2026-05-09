@@ -1,5 +1,8 @@
 # Konzept: Trägerprofil Einstein 2.0 (Stuttgart)
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt das Stuttgarter Trägerprofil als Haltungs- und Qualitätsgrundlage: das kompetente Kind, Beziehung, Gemeinschaft, Wohlbefinden, Vielfalt und professionelle Reflexion.
+
 **Quelle:** `raw/2026 Trägerprofil.pdf`
 **Download:** [[Quellenbibliothek]]
 **Kategorie:** Pädagogische Methoden / Leitprinzipien

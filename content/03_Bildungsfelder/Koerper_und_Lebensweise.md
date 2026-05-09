@@ -3,6 +3,9 @@ tags: [bildungsfeld, körper, bewegung, ernährung]
 ---
 # Bildungsfeld: Körper und Lebensweise
 
+> [!abstract] Kurzfassung
+> Diese Seite betrachtet Körper, Bewegung, Ernährung, Gesundheit und Wohlbefinden als Grundlage von Lernen. Sie ist besonders wichtig für Ganztag, Rhythmisierung und Bewegungsangebote.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -39,4 +42,3 @@ Kinder entdecken Unterschiede zwischen Geschlechtern (z.B. in Doktorspielen) und
 > - Biete ich eine anregende Raumgestaltung, die Bewegungslust und Ruhebedürfnis vereint?
 > - Wie sensibel gestalte ich [[Methode_Mikrotransitionen|Mikrotransitionen]] bei körperlichen Pflegeroutinen?
 > - Ist meine Haltung bei kindlichen Erkundungen der Sexualität unvoreingenommen und schützend zugleich?
-

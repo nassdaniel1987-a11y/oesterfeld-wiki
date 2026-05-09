@@ -3,6 +3,9 @@ tags: [fachbegriff, ko-konstruktion, lernen, dialog]
 ---
 # Ko-Konstruktion
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt Lernen als gemeinsamen Prozess von Kindern und Erwachsenen. Wissen entsteht im Dialog, im gemeinsamen Fragen, Ausprobieren und Deuten.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Dialogisches Lesen, Scaffolding, Bildungsangebote
 

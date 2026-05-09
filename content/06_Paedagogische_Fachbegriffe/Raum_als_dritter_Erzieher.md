@@ -3,6 +3,9 @@ tags: [fachbegriff, raumkonzept, reggio, umgebung]
 ---
 # Der Raum als dritter Erzieher
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt Räume als aktive pädagogische Einflussgröße. Gestaltung, Material, Ordnung und Atmosphäre prägen, was Kinder tun, fühlen und lernen können.
+
 **Kategorie:** Pädagogischer Fachbegriff
 **Häufig im Kontext von:** Raumkonzept, Ästhetische Bildung
 

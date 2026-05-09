@@ -3,6 +3,9 @@ tags: [methode, sprache, sprachfoerderung, bilderbuch]
 ---
 # Konzept: Dialogisches Lesen
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt dialogisches Lesen als sprachförderliche Bilderbuchbetrachtung. Im Mittelpunkt stehen Gespräch, offene Fragen, kindliche Beiträge und feinfühlige Erweiterung von Sprache.
+
 **Quellen:** `Clippings/Dialogisches Lesen (dialogische Bilderbuchbetrachtung).md`
 **Kategorie:** Pädagogische Methoden
 

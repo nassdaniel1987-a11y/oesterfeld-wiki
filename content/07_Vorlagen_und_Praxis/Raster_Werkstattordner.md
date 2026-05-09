@@ -3,6 +3,9 @@ tags: [vorlage, qualität, werkstattordner]
 ---
 # Raster: Der Stuttgarter Werkstattordner
 
+> [!abstract] Wann nutzen?
+> Dieses Raster hilft, Qualitätsentwicklung im Alltag festzuhalten: planen, erproben, überprüfen, anpassen und daraus neue Vereinbarungen ableiten.
+
 > [!tip] Download als Datei
 > **Word:** [Raster_Werkstattordner.docx](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.docx)
 > **PDF:** [Raster_Werkstattordner.pdf](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.pdf)

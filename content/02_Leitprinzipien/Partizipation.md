@@ -3,6 +3,9 @@ tags: [leitprinzip, partizipation, demokratie, mitbestimmung]
 ---
 # Leitprinzip: Partizipation
 
+> [!abstract] Kurzfassung
+> Diese Seite erklärt Partizipation als Recht von Kindern auf echte Beteiligung. Sie hilft zu prüfen, wo Kinder mitentscheiden können und wo Erwachsene Entscheidungsspielräume öffnen müssen.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Leitprinzipien
 
@@ -27,4 +30,3 @@ Beteiligung muss gelernt werden. Kinder (insbesondere sehr junge Kinder oder Kin
 > > - An welchen Stellen im Tagesablauf lasse ich echte kindliche Mitentscheidung zu (z.B. beim Essen, Schlafen, Spielort)?
 > > - Wie stelle ich sicher, dass auch Kinder, die sich sprachlich noch nicht gut ausdrücken können, gehört werden?
 > > - Wo ertappe ich mich dabei, eigene Vorstellungen über die Köpfe der Kinder hinweg durchzusetzen?
-

@@ -3,6 +3,9 @@ tags: [bildungsfeld, sprache, kommunikation, sprachförderung]
 ---
 # Bildungsfeld: Sprache und Kommunikation
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt Sprache als Schlüssel für Beziehung, Denken, Beteiligung und Lernen. Sie hilft, Sprachbildung im Alltag, in Lernzeiten und in Angeboten mitzudenken.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Bildungs- und Entwicklungsfelder
 
@@ -36,4 +39,3 @@ Die Erstsprachen (Familiensprachen) der Kinder müssen wertgeschätzt werden. De
 > - Ist mein eigenes Sprachvorbild "kindgerichtet" (angepasst, aber korrekt und reichhaltig)?
 > - Wende ich Techniken des [[Methode_Dialogisches_Lesen|Dialogischen Lesens]] an, um Kinder aktiv in Buchbetrachtungen einzubinden?
 > - Achte ich auf nonverbale Signale und setze ich, wo nötig, Unterstützte Kommunikation ein?
-

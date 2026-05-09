@@ -3,6 +3,9 @@ tags: [leitprinzip, bne, nachhaltigkeit, umwelt]
 ---
 # Leitprinzip: Bildung für nachhaltige Entwicklung (BNE)
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt BNE als Haltung für zukunftsfähiges Lernen: Kinder erleben, dass ihr Handeln Bedeutung hat und sie Verantwortung für Umwelt, Gemeinschaft und Gerechtigkeit übernehmen können.
+
 **Quelle:** Orientierungsplan BaWü
 **Kategorie:** Leitprinzipien
 
@@ -27,4 +30,3 @@ Nachhaltigkeit wird in der gesamten Einrichtung gelebt (z.B. Beschaffung von Spi
 > - Wie kann ich die Fragen der Kinder zu Natur und Welt aufgreifen und mit ihnen philosophieren (z.B. Woher kommt der Regen? Warum ist die Banane verpackt?)
 > - Lebe ich als Fachkraft einen nachhaltigen und wertschätzenden Umgang mit Ressourcen vor?
 > - Wie integriere ich das "Global Learning" altersgerecht in den Kita-Alltag?
-
