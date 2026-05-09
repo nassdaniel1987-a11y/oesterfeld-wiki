@@ -1,3 +1,6 @@
+---
+tags: [methode, projektarbeit, ganztag, partizipation]
+---
 # Konzept: Projektarbeit
 
 **Quellen:** Internet-Recherche (ganztaegig-lernen.de, ganztagsschulverband.de, frei-day.org)

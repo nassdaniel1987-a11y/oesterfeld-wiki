@@ -1,3 +1,6 @@
+---
+tags: [qualität, elternarbeit, partnerschaft, dialog]
+---
 # Ganztagsschule: Elternarbeit
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.9)

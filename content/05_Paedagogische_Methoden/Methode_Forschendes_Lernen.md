@@ -1,3 +1,6 @@
+---
+tags: [methode, forschendes-lernen, ganztag, partizipation]
+---
 # Konzept: Forschendes Lernen
 
 **Quellen:** Internet-Recherche (Stiftung Kinder forschen, forschendes-lernen.net, Siemens Stiftung)

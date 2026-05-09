@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, sprache, kommunikation, sprachförderung]
+---
 # Bildungsfeld: Sprache und Kommunikation
 
 **Quelle:** Orientierungsplan BaWü

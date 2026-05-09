@@ -1,3 +1,6 @@
+---
+tags: [leitprinzip, bne, nachhaltigkeit, umwelt]
+---
 # Leitprinzip: Bildung für nachhaltige Entwicklung (BNE)
 
 **Quelle:** Orientierungsplan BaWü

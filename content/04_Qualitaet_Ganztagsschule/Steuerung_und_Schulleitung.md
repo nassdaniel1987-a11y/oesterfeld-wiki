@@ -1,3 +1,6 @@
+---
+tags: [qualität, steuerung, schulleitung, management]
+---
 # Ganztagsschule: Professionelle Steuerung durch Schulleitung
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.10)

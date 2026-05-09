@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, adultismus, partizipation, kinderschutz]
+---
 # Adultismus
 
 **Kategorie:** Pädagogischer Fachbegriff

@@ -1,3 +1,6 @@
+---
+tags: [qualität, rahmenkonzept, bw, standards]
+---
 # Konzept: Qualitätsrahmen Ganztagsschule (BW)
 
 **Quelle:** `raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf`

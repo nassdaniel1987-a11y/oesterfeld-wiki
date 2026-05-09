@@ -1,3 +1,6 @@
+---
+tags: [vorlage, qualität, werkstattordner]
+---
 # Raster: Der Stuttgarter Werkstattordner
 
 > [!warning] Stuttgarter Pflicht-Vorgabe

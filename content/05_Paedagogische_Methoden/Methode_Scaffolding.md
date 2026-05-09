@@ -1,3 +1,6 @@
+---
+tags: [methode, scaffolding, sprachfoerderung, lernbegleitung]
+---
 # Konzept: Scaffolding
 
 **Quellen:** `Clippings/Scaffolding.md`

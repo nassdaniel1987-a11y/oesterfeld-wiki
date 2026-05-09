@@ -1,3 +1,6 @@
+---
+tags: [vorlage, raumkonzept, checkliste]
+---
 # Checkliste: Raumgestaltung (Der Dritte Erzieher)
 
 > [!info] Nutzung

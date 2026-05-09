@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, wahrnehmung, denken, naturwissenschaft]
+---
 # Bildungsfeld: Wahrnehmen und Denken
 
 **Quelle:** Orientierungsplan BaWü

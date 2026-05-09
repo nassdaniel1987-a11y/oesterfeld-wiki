@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, bewegung, rhythmisierung, ganztag]
+---
 # Bewegte Schule (Bewegungskonzept im Ganztag)
 
 **Kategorie:** Pädagogischer Fachbegriff

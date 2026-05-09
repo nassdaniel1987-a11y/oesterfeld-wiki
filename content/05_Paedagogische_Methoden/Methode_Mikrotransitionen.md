@@ -1,3 +1,6 @@
+---
+tags: [methode, transitionen, struktur, tagesablauf]
+---
 # Konzept: Mikrotransitionen
 
 **Quellen:** `Clippings/Mikrotransitionen.md`, `Clippings/Mikrotransitionen Kleiner Wechsel...`

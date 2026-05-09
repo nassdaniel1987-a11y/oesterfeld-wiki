@@ -1,3 +1,6 @@
+---
+tags: [qualität, zeit, rhythmisierung, ganztag]
+---
 # Ganztagsschule: Zeit & Rhythmisierung
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.1)

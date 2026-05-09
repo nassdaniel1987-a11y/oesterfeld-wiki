@@ -1,3 +1,6 @@
+---
+tags: [leitprinzip, inklusion, vielfalt, teilhabe]
+---
 # Leitprinzip: Inklusion
 
 **Quelle:** Orientierungsplan BaWü

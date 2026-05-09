@@ -1,3 +1,6 @@
+---
+tags: [methode, sprache, sprachfoerderung, bilderbuch]
+---
 # Konzept: Dialogisches Lesen
 
 **Quellen:** `Clippings/Dialogisches Lesen (dialogische Bilderbuchbetrachtung).md`

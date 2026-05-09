@@ -1,3 +1,6 @@
+---
+tags: [qualität, lernzeit, kompetenz, förderung]
+---
 # Ganztagsschule: Kompetenzentwicklung
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.4)

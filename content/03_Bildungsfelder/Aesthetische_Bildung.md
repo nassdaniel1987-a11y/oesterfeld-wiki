@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, ästhetik, kunst, musik]
+---
 # Bildungsfeld: Ästhetische Bildung
 
 **Quelle:** Orientierungsplan BaWü

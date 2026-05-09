@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, kultur, werte, religion]
+---
 # Bildungsfeld: Kultur, Werte, Religion
 
 **Quelle:** Orientierungsplan BaWü

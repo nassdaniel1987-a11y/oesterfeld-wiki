@@ -1,3 +1,6 @@
+---
+tags: [leitprinzip, partizipation, demokratie, mitbestimmung]
+---
 # Leitprinzip: Partizipation
 
 **Quelle:** Orientierungsplan BaWü

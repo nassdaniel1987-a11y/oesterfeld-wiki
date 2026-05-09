@@ -1,3 +1,6 @@
+---
+tags: [leitprinzip, kinderschutz, kinderrechte, prävention]
+---
 # Leitprinzip: Kinderschutz und Kinderrechte
 
 **Quelle:** Orientierungsplan BaWü

@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, raumkonzept, reggio, umgebung]
+---
 # Der Raum als dritter Erzieher
 
 **Kategorie:** Pädagogischer Fachbegriff

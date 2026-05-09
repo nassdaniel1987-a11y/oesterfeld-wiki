@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, soziale-entwicklung, kooperation, konflikt]
+---
 # Bildungsfeld: Soziale Entwicklung
 
 **Quelle:** Orientierungsplan BaWü

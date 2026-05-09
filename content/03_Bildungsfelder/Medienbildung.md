@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, medien, digital, analog]
+---
 # Bildungsfeld: Medienbildung
 
 **Quelle:** Orientierungsplan BaWü

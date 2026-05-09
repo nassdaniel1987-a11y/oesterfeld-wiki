@@ -1,3 +1,6 @@
+---
+tags: [leitprinzip, übergänge, transition, elternarbeit, kooperation]
+---
 # Übergänge und Zusammenarbeit gemeinsam gestalten
 
 **Quelle:** Orientierungsplan BaWü

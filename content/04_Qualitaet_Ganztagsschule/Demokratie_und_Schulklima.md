@@ -1,3 +1,6 @@
+---
+tags: [qualität, demokratie, partizipation, schulklima]
+---
 # Ganztagsschule: Demokratische Partizipation und Schulklima
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.3)

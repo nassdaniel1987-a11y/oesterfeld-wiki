@@ -1,3 +1,6 @@
+---
+tags: [methode, feedback, qualitaet, lernentwicklung]
+---
 # Konzept: Feedbackkultur & Lernentwicklungsgespräche
 
 **Quellen:** Internet-Recherche (IQES online, Bildungsserver Berlin-Brandenburg, Cornelsen)

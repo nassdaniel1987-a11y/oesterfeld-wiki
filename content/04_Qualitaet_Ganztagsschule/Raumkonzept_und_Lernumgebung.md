@@ -1,3 +1,6 @@
+---
+tags: [qualität, raumkonzept, lernumgebung, ganztag]
+---
 # Ganztagsschule: Raumkonzept
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.2)

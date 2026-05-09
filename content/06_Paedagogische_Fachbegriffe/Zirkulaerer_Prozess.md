@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, beobachtung, planung, qualitaet]
+---
 # Der zirkuläre Prozess
 
 **Kategorie:** Pädagogischer Fachbegriff

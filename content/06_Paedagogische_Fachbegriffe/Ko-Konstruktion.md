@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, ko-konstruktion, lernen, dialog]
+---
 # Ko-Konstruktion
 
 **Kategorie:** Pädagogischer Fachbegriff

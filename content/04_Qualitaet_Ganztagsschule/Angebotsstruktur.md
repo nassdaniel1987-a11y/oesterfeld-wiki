@@ -1,3 +1,6 @@
+---
+tags: [qualität, ganztag, angebote, profil]
+---
 # Ganztagsschule: Angebotsstruktur
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.5)

@@ -1,3 +1,6 @@
+---
+tags: [qualität, kooperation, personal, multiprofessionell]
+---
 # Ganztagsschule: Kooperation und Personal
 
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmale 7.6, 7.7, 7.8)

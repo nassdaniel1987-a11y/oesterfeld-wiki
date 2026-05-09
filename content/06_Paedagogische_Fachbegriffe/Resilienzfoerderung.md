@@ -1,3 +1,6 @@
+---
+tags: [fachbegriff, resilienz, emotion, motivation, kinderschutz]
+---
 # Resilienzförderung
 
 **Kategorie:** Pädagogischer Fachbegriff

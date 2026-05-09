@@ -1,3 +1,6 @@
+---
+tags: [bildungsfeld, körper, bewegung, ernährung]
+---
 # Bildungsfeld: Körper und Lebensweise
 
 **Quelle:** Orientierungsplan BaWü

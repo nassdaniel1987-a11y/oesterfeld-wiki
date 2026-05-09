@@ -1,3 +1,6 @@
+---
+tags: [vorlage, partizipation, kinderkonferenz]
+---
 # Vorlage: Kinderkonferenz Protokoll
 
 > [!tip] Praxis-Tipp
