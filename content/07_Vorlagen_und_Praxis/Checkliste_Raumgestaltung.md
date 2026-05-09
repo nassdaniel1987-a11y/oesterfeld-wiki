@@ -3,9 +3,10 @@ tags: [vorlage, raumkonzept, checkliste]
 ---
 # Checkliste: Raumgestaltung (Der Dritte Erzieher)
 
-> [!tip] Download
-> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.docx)
-> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.pdf)
+> [!tip] Download als Datei
+> **Word:** [Checkliste_Raumgestaltung.docx](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.docx)
+> **PDF:** [Checkliste_Raumgestaltung.pdf](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.pdf)
+> Alle Downloads: [[Vorlagen_und_Downloads]]
 
 > [!info] Nutzung
 > Diese Checkliste basiert auf dem Konzept [[Raum_als_dritter_Erzieher]]. Nutzt sie im Team, wenn ihr einen Gruppenraum, ein Atelier oder einen Funktionsraum neu plant oder überdenkt.

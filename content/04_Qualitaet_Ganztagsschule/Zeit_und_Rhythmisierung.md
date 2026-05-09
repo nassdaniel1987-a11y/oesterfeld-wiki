@@ -3,6 +3,9 @@ tags: [qualität, zeit, rhythmisierung, ganztag]
 ---
 # Ganztagsschule: Zeit & Rhythmisierung
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt, wie der Ganztag zeitlich so gestaltet wird, dass Lernen, Bewegung, Essen, Beziehung und Ruhe in einen kindgerechten Rhythmus kommen.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.1)
 **Kategorie:** Struktur und Rahmenbedingungen
 

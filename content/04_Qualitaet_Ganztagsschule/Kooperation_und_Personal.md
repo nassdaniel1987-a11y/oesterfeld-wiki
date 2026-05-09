@@ -3,6 +3,9 @@ tags: [qualität, kooperation, personal, multiprofessionell]
 ---
 # Ganztagsschule: Kooperation und Personal
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt, wie multiprofessionelle Zusammenarbeit im Ganztag verlässlich wird: gemeinsame Absprachen, klare Rollen, Austauschzeiten und gegenseitige Wertschätzung.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmale 7.6, 7.7, 7.8)
 **Kategorie:** Struktur und Rahmenbedingungen
 

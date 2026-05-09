@@ -51,6 +51,24 @@ article {
     background: color-mix(in srgb, var(--tertiary) 13%, var(--light));
   }
 
+  .callout[data-callout="tip"] a[href$=".docx"],
+  .callout[data-callout="tip"] a[href$=".pdf"],
+  table a[href$=".docx"],
+  table a[href$=".pdf"] {
+    display: inline-block;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    padding: 0.08rem 0.45rem;
+    text-decoration: none;
+    font-weight: 600;
+    background: color-mix(in srgb, var(--secondary) 9%, var(--light));
+  }
+
+  .callout[data-callout="tip"] a[href$=".pdf"],
+  table a[href$=".pdf"] {
+    background: color-mix(in srgb, var(--tertiary) 12%, var(--light));
+  }
+
   table {
     border-radius: 8px;
   }

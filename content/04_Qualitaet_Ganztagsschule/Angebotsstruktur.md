@@ -3,6 +3,9 @@ tags: [qualität, ganztag, angebote, profil]
 ---
 # Ganztagsschule: Angebotsstruktur
 
+> [!abstract] Kurzfassung
+> Diese Seite zeigt, wie Ganztagsangebote Interessen der Kinder, Schulprofil, Sozialraum und pädagogische Ziele zu einem stimmigen Programm verbinden.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.5)
 **Kategorie:** Struktur und Rahmenbedingungen
 

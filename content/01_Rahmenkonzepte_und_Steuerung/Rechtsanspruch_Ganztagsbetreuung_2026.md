@@ -3,6 +3,9 @@ tags: [ganztag, rechtsanspruch, gafoeg, grundschule, bw]
 ---
 # Rechtsanspruch auf Ganztagsbetreuung ab 2026
 
+> [!abstract] Kurzfassung
+> Ab 1. August 2026 entsteht stufenweise ein Rechtsanspruch auf Ganztagsbetreuung im Grundschulalter. Für die GTS Österfeld heißt das: Verlässlichkeit, Zeitstruktur, Raum, Personal und Elternkommunikation müssen zusammen gedacht werden.
+
 **Quelle:** Kultusministerium Baden-Württemberg, BMBFSFJ, Ganztagsförderungsgesetz (GaFöG)  
 **Kategorie:** Rechtliche und organisatorische Rahmenbedingungen
 
@@ -50,5 +53,5 @@ Für die GTS Österfeld ist der Rechtsanspruch vor allem ein Planungs- und Quali
 ## Quellen
 - Kultusministerium Baden-Württemberg: [Rechtsanspruch auf Ganztagsbetreuung](https://km.baden-wuerttemberg.de/de/schule/ganztagsschule-und-ganztagsbetreuung-in-baden-wuerttemberg/rechtsanspruch-auf-ganztagsbetreuung)
 - BMBFSFJ: [Ganztagsbetreuung von Grundschulkindern](https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/kinderbetreuung/ganztagsbetreuung)
-- BMBFSFJ: [Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter](https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-rechtsanspruch-ganztagsbetreuung-grundschulen-178966)
-
+- BMBFSFJ: [Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter](https://www.bmbfsfj.bund.de/bmbfsfj/ministerium/gesetze/gesetz-rechtsanspruch-ganztagsbetreuung-grundschulen-178966)
+- Quellenstand und Einordnung: [[Quellen_und_Rechtsstand]]

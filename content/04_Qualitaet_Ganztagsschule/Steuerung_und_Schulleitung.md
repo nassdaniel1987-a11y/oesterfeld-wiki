@@ -3,6 +3,9 @@ tags: [qualität, steuerung, schulleitung, management]
 ---
 # Ganztagsschule: Professionelle Steuerung durch Schulleitung
 
+> [!abstract] Kurzfassung
+> Diese Seite fokussiert Steuerung im Ganztag: Schulleitung hält Kommunikation, Personalentwicklung, Evaluation und Qualitätsprozesse zusammen.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.10)
 **Kategorie:** Struktur und Rahmenbedingungen
 

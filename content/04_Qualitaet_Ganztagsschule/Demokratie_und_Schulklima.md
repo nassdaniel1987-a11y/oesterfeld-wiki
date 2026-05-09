@@ -3,6 +3,9 @@ tags: [qualität, demokratie, partizipation, schulklima]
 ---
 # Ganztagsschule: Demokratische Partizipation und Schulklima
 
+> [!abstract] Kurzfassung
+> Diese Seite beschreibt, wie Kinder im Ganztag Verantwortung übernehmen, Entscheidungen mitgestalten und eine demokratische Alltagskultur erleben können.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.3)
 **Kategorie:** Struktur und Rahmenbedingungen / Leitprinzipien
 

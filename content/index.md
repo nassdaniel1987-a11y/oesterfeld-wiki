@@ -15,10 +15,14 @@ title: Startseite
 - **Ich beteilige Kinder:** [[02_Leitprinzipien/Partizipation|Partizipation]], [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]], [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]
 - **Ich bereite Team- oder Qualitätsarbeit vor:** [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]], [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]], [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Raster Werkstattordner]]
 - **Ich brauche rechtliche Orientierung:** [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]], [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]], [[01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart|Stuttgarter Rahmenkonzept]]
-- **Ich suche einen Begriff oder eine Vorlage:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
+- **Ich suche einen Begriff oder eine Vorlage:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads]]
+- **Ich weiß noch nicht, wo ich anfangen soll:** [[Praxispfade|Praxispfade]]
 
 > [!tip] Schnellsuche
 > Nutze die Suche links oben für Begriffe wie `Lernzeit`, `Feedback`, `Resilienz`, `Rechtsanspruch`, `Raum` oder `Kinderkonferenz`.
+
+> [!info] Quellenstand
+> Rechtliche und fachliche Quellen sind gebündelt unter [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] dokumentiert.
 
 ## Aktuell wichtig
 
@@ -29,6 +33,8 @@ title: Startseite
 > Der [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule BW]] ist die zentrale Brücke zwischen pädagogischer Haltung, Strukturqualität und konkreter Umsetzung im Ganztag.
 
 ## Praxiswege
+
+Alle Alltagseinstiege gebündelt: [[Praxispfade|Praxispfade öffnen]].
 
 ### Angebot planen
 
@@ -70,10 +76,11 @@ Ausführlich: [[Praxis_Angebot_planen]]
 - [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Vorlage: Werkstattordner (PDCA-Raster)]]
 - [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage: Kinderkonferenz-Protokoll]]
 - [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
+- [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads]]
 - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
 
 > [!tip] Downloads
-> Alle zentralen Vorlagen gibt es zusätzlich als Word- und PDF-Datei: [[Glossar_und_Schnellzugriff#vorlagen-downloads|Vorlagen-Downloads öffnen]].
+> Alle zentralen Vorlagen gibt es zusätzlich als Word- und PDF-Datei: [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads öffnen]].
 
 ## Themenbibliothek
 
@@ -84,6 +91,7 @@ Ausführlich: [[Praxis_Angebot_planen]]
 - [[01_Rahmenkonzepte_und_Steuerung/Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]
 - [[01_Rahmenkonzepte_und_Steuerung/Leitfaden_Einrichtungskonzeption|Leitfaden Konzeptionsentwicklung]]
 - [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]]
+- [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]
 
 ### Leitprinzipien
 

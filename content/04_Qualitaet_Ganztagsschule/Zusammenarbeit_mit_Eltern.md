@@ -3,6 +3,9 @@ tags: [qualität, elternarbeit, partnerschaft, dialog]
 ---
 # Ganztagsschule: Elternarbeit
 
+> [!abstract] Kurzfassung
+> Diese Seite unterstützt eine transparente Zusammenarbeit mit Familien: Eltern brauchen Orientierung, Beteiligungsmöglichkeiten und verlässliche Kommunikation über Alltag, Entwicklung und Ganztagsqualität.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.9)
 **Kategorie:** Struktur und Rahmenbedingungen
 

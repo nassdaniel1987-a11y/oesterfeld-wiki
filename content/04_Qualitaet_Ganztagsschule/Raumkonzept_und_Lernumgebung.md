@@ -3,6 +3,9 @@ tags: [qualität, raumkonzept, lernumgebung, ganztag]
 ---
 # Ganztagsschule: Raumkonzept
 
+> [!abstract] Kurzfassung
+> Diese Seite bündelt Kriterien für Räume als Lern- und Lebensorte: Konzentration, Bewegung, Rückzug, Begegnung und flexible Nutzung müssen im Ganztag zusammenspielen.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.2)
 **Kategorie:** Struktur und Rahmenbedingungen
 

@@ -3,9 +3,10 @@ tags: [vorlage, team, fallbesprechung, qualität]
 ---
 # Vorlage: Team-Fallbesprechung
 
-> [!tip] Download
-> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx)
-> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf)
+> [!tip] Download als Datei
+> **Word:** [Vorlage_Team_Fallbesprechung.docx](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx)
+> **PDF:** [Vorlage_Team_Fallbesprechung.pdf](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf)
+> Alle Downloads: [[Vorlagen_und_Downloads]]
 
 ## Grunddaten
 - **Datum:** [TT.MM.JJJJ]

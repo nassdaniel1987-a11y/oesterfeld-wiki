@@ -3,6 +3,9 @@ tags: [qualität, lernzeit, kompetenz, förderung]
 ---
 # Ganztagsschule: Kompetenzentwicklung
 
+> [!abstract] Kurzfassung
+> Diese Seite hilft, Lernzeit als pädagogisch begleitete Entwicklungszeit zu verstehen: Kinder brauchen passende Förderung, Selbststeuerung, Rückmeldung und Raum für eigene Stärken.
+
 **Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.4)
 **Kategorie:** Pädagogische Methoden
 

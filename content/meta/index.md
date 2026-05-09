@@ -7,6 +7,8 @@ title: Wiki Index
 Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit einem Link und einer kurzen, einzeiligen Zusammenfassung aufgelistet.
 
 - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]: Öffentliche Einstiegsseite für Alltagssituationen, Begriffe und Vorlagen.
+- [[Praxispfade|Praxispfade]]: Einstieg über konkrete Alltagssituationen, wenn Nutzer:innen noch keinen Fachbegriff suchen.
+- [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]: Dokumentation der verwendeten offiziellen Quellen und des Rechtsstands.
 - [[Orientierungsplan_BaWue|Orientierungsplan Baden-Württemberg]]: Zentrale Zusammenfassung des baden-württembergischen Orientierungsplans.
 - [[Kinderschutz_und_Kinderrechte|LP: Kinderschutz & Kinderrechte]]: Leitprinzip zur Gewaltprävention und Einlösung von Beteiligungsrechten.
 - [[Inklusion|LP: Inklusion]]: Leitprinzip zur Teilhabe aller Kinder und Abbau von Bildungsbarrieren.
@@ -60,6 +62,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Steuerung_und_Schulleitung|GTS: Steuerung & Schulleitung]]: Personalentwicklung und Kommunikationsmanagement.
 
 ## Vorlagen & Praxismaterial
+- [[Vorlagen_und_Downloads|Vorlagen & Downloads]]: Zentraler Hub für Wiki-Vorlagen sowie Word- und PDF-Dateien.
 - [[Vorlage_Angebotsplanung|Vorlage: Angebotsplanung]]: Planungsraster für Ganztagsangebote mit Beteiligung und Reflexion.
 - [[Vorlage_Elterngespraech|Vorlage: Elterngespräch]]: Gesprächsstruktur mit Vorbereitung, Vereinbarungen und Nachbereitung.
 - [[Vorlage_Team_Fallbesprechung|Vorlage: Team-Fallbesprechung]]: Teamraster für Anliegenklärung, Beobachtung und Handlungsschritte.

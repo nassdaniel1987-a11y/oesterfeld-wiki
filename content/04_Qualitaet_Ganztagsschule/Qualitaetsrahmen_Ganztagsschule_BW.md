@@ -3,6 +3,9 @@ tags: [qualität, rahmenkonzept, bw, standards]
 ---
 # Konzept: Qualitätsrahmen Ganztagsschule (BW)
 
+> [!abstract] Kurzfassung
+> Der BW-Qualitätsrahmen beschreibt, wie Ganztag als Lern- und Lebensort gestaltet wird. Die KMK-Empfehlungen ergänzen ihn bundesweit: Ganztag soll Kinderinteressen, inklusive Räume, Beziehungen, Angebotsqualität und die Verbindung von formalem, non-formalem und informellem Lernen zusammendenken.
+
 **Quelle:** `raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf`
 **Kategorie:** Struktur und Rahmenbedingungen
 
@@ -53,3 +56,4 @@ Dieses Modell bildet die übergeordnete Brücke zwischen der Elementarpädagogik
 - Kultusministerium Baden-Württemberg: Qualitätsrahmen Ganztagsschule BW (`raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf`)
 - KMK: [Qualität im Ganztag: KMK entwickelt Empfehlungen](https://www.kmk.org/aktuelles/pressearchiv/mitteilung/qualitaet-im-ganztag-kmk-entwickelt-empfehlungen.html)
 - KMK: [Empfehlungen zur Weiterentwicklung der pädagogischen Qualität ganztägiger Bildungs- und Betreuungsangebote](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_10_12-Ganztag-Empfehlung.pdf)
+- Quellenstand und Einordnung: [[Quellen_und_Rechtsstand]]

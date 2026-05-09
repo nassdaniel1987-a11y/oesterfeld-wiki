@@ -3,9 +3,10 @@ tags: [vorlage, angebot, planung, ganztag]
 ---
 # Vorlage: Angebotsplanung im Ganztag
 
-> [!tip] Download
-> - [Word-Datei herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx)
-> - [PDF herunterladen](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf)
+> [!tip] Download als Datei
+> **Word:** [Vorlage_Angebotsplanung.docx](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx)
+> **PDF:** [Vorlage_Angebotsplanung.pdf](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf)
+> Alle Downloads: [[Vorlagen_und_Downloads]]
 
 ## Grunddaten
 - **Angebot:** [Titel]

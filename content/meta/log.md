@@ -101,3 +101,13 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Download-Boxen auf allen Vorlagenseiten ergänzt.
   - Download-Tabelle im [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]] und Hinweis auf der Startseite ergänzt.
   - Generator `scripts/generate-template-downloads.mjs` hinzugefügt, damit die Dateien reproduzierbar neu erzeugt werden können.
+
+## [2026-05-09] UX | Navigation, Quellenstand und Glossar
+- **Quelle:** Offizielle Seiten von Kultusministerium Baden-Württemberg, BMBFSFJ und KMK; lokale Rohquellen in `content/raw`.
+- **Aktionen:**
+  - Zentralen Hub [[Vorlagen_und_Downloads|Vorlagen & Downloads]] erstellt.
+  - Neue Seite [[Praxispfade|Praxispfade]] als Einstieg über Alltagssituationen ergänzt.
+  - Neue Seite [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] für Rechtsstand, Quellenqualität und verifizierte Online-Quellen erstellt.
+  - Kurzfassungen auf zentralen Qualitätsseiten ergänzt.
+  - Glossar um kurze Begriffserklärungen erweitert.
+  - Download-Hinweise auf Vorlagenseiten vereinheitlicht und optisch über `custom.scss` verbessert.
