@@ -95,7 +95,9 @@ Fachbegriffe kurz und verständlich erklärt.
 Checklisten, Protokolle und Arbeitshilfen zum direkten Verwenden.
 
 - [[07_Vorlagen_und_Praxis/Checkliste_Raumgestaltung|Checkliste Raumgestaltung]]
-- [[07_Vorlagen_und_Praxis/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
+- [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
+- [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Vorlage: Werkstattordner (PDCA-Raster)]]
+- [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage: Kinderkonferenz-Protokoll]]
 
 ---
 
