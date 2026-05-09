@@ -50,8 +50,16 @@ Für die GTS Österfeld ist der Rechtsanspruch vor allem ein Planungs- und Quali
 - **Personal:** Ganztag gelingt nur mit abgestimmter Zusammenarbeit von Lehrkräften, pädagogischen Fachkräften, Trägern und weiteren Partnern (vgl. [[Kooperation_und_Personal]]).
 - **Eltern:** Familien brauchen transparente Informationen zu Anspruch, Angebot, Verlässlichkeit, Kosten und pädagogischer Qualität (vgl. [[Zusammenarbeit_mit_Eltern]]).
 
+## Aktuelle Forschungsimpulse 2025/2026
+Das DJI betont kurz vor Start des Rechtsanspruchs, dass der Ausbau sichtbar vorankommt, Qualität aber zentrale Aufgabe bleibt. Ein Platz allein reicht nicht aus, wenn Verlässlichkeit, Ferienbetreuung, Erreichbarkeit und pädagogische Qualität nicht gesichert sind.
+
+Die DJI-Kinderbetreuungsstudie verweist zudem auf Zugangsgerechtigkeit: Familien mit Transferleistungsbezug, Migrationsgeschichte oder niedrigerem Bildungshintergrund können trotz Bedarf häufiger ungedeckt bleiben. Stöbe-Blossey (2025) ergänzt die kommunale Perspektive: Der Anspruch ist im SGB VIII verankert und betrifft damit Jugendamt, Kommune, Schulträger, Trägerangebote und Schule gemeinsam. Überblick: [[Forschung_Ganztag_2024_2026]].
+
 ## Quellen
 - Kultusministerium Baden-Württemberg: [Rechtsanspruch auf Ganztagsbetreuung](https://km.baden-wuerttemberg.de/de/schule/ganztagsschule-und-ganztagsbetreuung-in-baden-wuerttemberg/rechtsanspruch-auf-ganztagsbetreuung)
 - BMBFSFJ: [Ganztagsbetreuung von Grundschulkindern](https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/kinderbetreuung/ganztagsbetreuung)
 - BMBFSFJ: [Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter](https://www.bmbfsfj.bund.de/bmbfsfj/ministerium/gesetze/gesetz-rechtsanspruch-ganztagsbetreuung-grundschulen-178966)
+- DJI: [Ausbau des Ganztags kommt voran, Qualität bleibt zentrale Aufgabe](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/1717-rechtsanspruch-auf-ganztag-im-grundschulalter-ausbau-kommt-voran-qualitaet-bleibt-zentrale-aufgabe.html)
+- DJI: [Betreuungsangebote für Grundschulkinder sind nicht für alle Eltern gleich zugänglich](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/betreuungsangebote-fuer-grundschulkinder-sind-nicht-fuer-alle-eltern-gleich-zugaenglich.html)
+- Stöbe-Blossey, S. (2025): [Ganztagsförderung für Kinder im Grundschulalter: Die Rolle der Kommune](https://link.springer.com/article/10.1007/s12054-025-00794-0)
 - Quellenstand und Einordnung: [[Quellen_und_Rechtsstand]]

@@ -1,6 +1,7 @@
 # Orientierungsplan für Bildung und Erziehung (Baden-Württemberg)
 
 **Quelle:** `raw/2025-07-14-Orientierungsplan_für_Bildung_und_Erziehung_in_baden-württembergischen_Kin-dertageseinrichtungen_und_Kindertagespflege.pdf`
+**Download:** [[Quellenbibliothek]]
 **Fokus:** Verbindlicher Rahmen für Pädagogik und Ganztagsschule (Primär Elementarbereich, aber stark anschlussfähig zur Grundschule).
 
 ## Kerngedanke

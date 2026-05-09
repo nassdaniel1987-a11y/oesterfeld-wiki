@@ -111,3 +111,12 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Kurzfassungen auf zentralen Qualitätsseiten ergänzt.
   - Glossar um kurze Begriffserklärungen erweitert.
   - Download-Hinweise auf Vorlagenseiten vereinheitlicht und optisch über `custom.scss` verbessert.
+
+## [2026-05-09] Ingest | Aktuelle Forschung, Quellenbibliothek und Explorer-UX
+- **Quelle:** Springer Open Access, DJI, ifo Institut sowie lokale Rohquellen in `content/raw`.
+- **Aktionen:**
+  - Neue Überblicksseite [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]] erstellt.
+  - Neue Fachseite [[Bewegung_Spiel_und_Sport_im_Ganztag|Bewegung, Spiel & Sport im Ganztag]] ergänzt.
+  - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen]], [[Kooperation_und_Personal|Kooperation & Personal]], [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch]], [[Angebotsstruktur]], [[Zeit_und_Rhythmisierung]] und [[Bewegte_Schule]] um aktuelle Forschungsimpulse erweitert.
+  - Neue [[Quellenbibliothek|Quellenbibliothek]] mit Download-Links auf lokale Raw-PDFs erstellt.
+  - Explorer-Darstellung geplant/umgesetzt: menschenlesbare Ordnernamen, kompaktere Anzeige und ruhigere Sidebar.

@@ -12,6 +12,8 @@ tags: [qualität, ganztag, angebote, profil]
 ## Kerngedanke
 Ganztagsangebote erweitern den schulischen Fokus auf die Persönlichkeitsentwicklung und Begabungsförderung. Sie beziehen den sozialen Nahraum aktiv ein und ermöglichen fächerübergreifendes, projektorientiertes und außerschulisches Lernen.
 
+Aktuelle Forschung zu Bewegungs-, Spiel- und Sportangeboten im Ganztag macht deutlich: Angebote entfalten ihre Qualität besonders dann, wenn sie zu den Interessen der Kinder, zu pädagogischen Zielen und zu den vorhandenen Räumen, Zeiten und Personalressourcen passen. Bewegung ist damit ein wichtiges Profilfeld, aber kein isolierter Programmpunkt (vgl. [[Bewegung_Spiel_und_Sport_im_Ganztag]]).
+
 ## Standards
 - Das Ganztagskonzept berücksichtigt die schulspezifischen Rahmenbedingungen, den Bedarf der Kinder und die Möglichkeiten des sozialen Nahraums.
 - Lern- und Bildungsangebote werden regelmäßig auf ihre Passung überprüft.
@@ -39,3 +41,5 @@ Ganztagsangebote erweitern den schulischen Fokus auf die Persönlichkeitsentwick
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
 - Kompetenzbereiche: [[Aesthetische_Bildung]], [[Medienbildung]], [[Wahrnehmen_und_Denken]]
+- Bewegungsangebote: [[Bewegung_Spiel_und_Sport_im_Ganztag]], [[Bewegte_Schule]]
+- Forschung: [[Forschung_Ganztag_2024_2026]]

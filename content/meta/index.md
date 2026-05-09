@@ -9,6 +9,8 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]: Öffentliche Einstiegsseite für Alltagssituationen, Begriffe und Vorlagen.
 - [[Praxispfade|Praxispfade]]: Einstieg über konkrete Alltagssituationen, wenn Nutzer:innen noch keinen Fachbegriff suchen.
 - [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]: Dokumentation der verwendeten offiziellen Quellen und des Rechtsstands.
+- [[Quellenbibliothek|Quellenbibliothek]]: Downloadseite für lokale Rohquellen aus `content/raw`.
+- [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]]: Überblick aktueller Fachartikel zu Qualität, Kooperation, Bewegung, Rechtsanspruch und Wirkung.
 - [[Orientierungsplan_BaWue|Orientierungsplan Baden-Württemberg]]: Zentrale Zusammenfassung des baden-württembergischen Orientierungsplans.
 - [[Kinderschutz_und_Kinderrechte|LP: Kinderschutz & Kinderrechte]]: Leitprinzip zur Gewaltprävention und Einlösung von Beteiligungsrechten.
 - [[Inklusion|LP: Inklusion]]: Leitprinzip zur Teilhabe aller Kinder und Abbau von Bildungsbarrieren.
@@ -48,6 +50,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Methode_Feedbackkultur|Feedbackkultur & LEG]]: Lernentwicklungsgespräche, Portfolio-Arbeit und Selbsteinschätzung als Lernkultur.
 
 ## Ganztagsschule: Qualitätsmerkmale & Struktur
+- [[Bewegung_Spiel_und_Sport_im_Ganztag|Bewegung, Spiel & Sport im Ganztag]]: Fachseite zur Qualität von Bewegungs-, Spiel- und Sportangeboten im Ganztag.
 - [[Trägerprofil_Einstein_2_0|Trägerprofil Einstein 2.0]]: Das Stuttgarter Bildungsverständnis (Kind im Fokus) und die 7 Schwerpunkte.
 - [[Rahmenkonzept_Ganztag_Stuttgart|Struktur Ganztag Stuttgart]]: Rahmenkonzept, Rhythmisierung und Angebotsbausteine (Gebunden vs. Teilgebunden).
 - [[Leitfaden_Einrichtungskonzeption|Leitfaden Konzeptionsentwicklung]]: Verbindliches Inhaltsverzeichnis (Stuttgart) und Werkstattordner.

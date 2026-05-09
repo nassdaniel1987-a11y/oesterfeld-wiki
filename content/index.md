@@ -15,14 +15,14 @@ title: Startseite
 - **Ich beteilige Kinder:** [[02_Leitprinzipien/Partizipation|Partizipation]], [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]], [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]
 - **Ich bereite Team- oder Qualitätsarbeit vor:** [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]], [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]], [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Raster Werkstattordner]]
 - **Ich brauche rechtliche Orientierung:** [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]], [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]], [[01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart|Stuttgarter Rahmenkonzept]]
-- **Ich suche einen Begriff oder eine Vorlage:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads]]
+- **Ich suche einen Begriff, eine Vorlage oder eine Quelle:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads]], [[Quellenbibliothek|Quellenbibliothek]]
 - **Ich weiß noch nicht, wo ich anfangen soll:** [[Praxispfade|Praxispfade]]
 
 > [!tip] Schnellsuche
 > Nutze die Suche links oben für Begriffe wie `Lernzeit`, `Feedback`, `Resilienz`, `Rechtsanspruch`, `Raum` oder `Kinderkonferenz`.
 
 > [!info] Quellenstand
-> Rechtliche und fachliche Quellen sind gebündelt unter [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] dokumentiert.
+> Rechtliche und fachliche Quellen sind gebündelt unter [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] dokumentiert. Die lokalen Rohquellen liegen als Downloads in der [[Quellenbibliothek]].
 
 ## Aktuell wichtig
 
@@ -92,6 +92,7 @@ Ausführlich: [[Praxis_Angebot_planen]]
 - [[01_Rahmenkonzepte_und_Steuerung/Leitfaden_Einrichtungskonzeption|Leitfaden Konzeptionsentwicklung]]
 - [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]]
 - [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]
+- [[Quellenbibliothek|Quellenbibliothek]]
 
 ### Leitprinzipien
 
@@ -115,11 +116,13 @@ Ausführlich: [[Praxis_Angebot_planen]]
 ### Qualität im Ganztag
 
 - [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]]
+- [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]]
 - [[04_Qualitaet_Ganztagsschule/Lernzeiten_und_Kompetenzentwicklung|Lernzeiten & Kompetenzentwicklung]]
 - [[04_Qualitaet_Ganztagsschule/Zeit_und_Rhythmisierung|Zeit & Rhythmisierung]]
 - [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept & Lernumgebung]]
 - [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]]
 - [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]]
+- [[04_Qualitaet_Ganztagsschule/Bewegung_Spiel_und_Sport_im_Ganztag|Bewegung, Spiel & Sport im Ganztag]]
 - [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]]
 - [[04_Qualitaet_Ganztagsschule/Zusammenarbeit_mit_Eltern|Zusammenarbeit mit Eltern]]
 - [[04_Qualitaet_Ganztagsschule/Steuerung_und_Schulleitung|Steuerung & Schulleitung]]

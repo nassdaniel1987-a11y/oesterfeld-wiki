@@ -20,6 +20,11 @@ Mit dem [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch auf Ganztagsbetre
 - Kollegiale Zusammenarbeit findet auf verschiedenen Ebenen statt.
 - Der soziale Nahraum (Vereine, Jugendhilfe) wird als außerschulischer Partner eingebunden.
 
+## Aktuelle Forschungsimpulse
+Fuchs (2025) zeigt für Grundschulen in Ganztagsform, dass multiprofessionelle Kooperation Potenziale für Arbeitszufriedenheit und Entlastung von Lehrkräften haben kann. Entscheidend ist aber, welche Kooperationsformen tatsächlich entstehen: bloßer Austausch reicht nicht, wenn Aufgaben, Zuständigkeiten und gemeinsame Arbeitsorganisation unklar bleiben.
+
+Kielblock (2024/2025) macht am Beispiel inklusiver Ganztagsschulen deutlich, dass Kooperation bei Unterstützungsbedarfen besonders sorgfältig vernetzt werden muss. Hochfeld und Rothland (2022) zeigen im systematischen Review, dass Zeit, Rollenklärung und unterschiedliche institutionelle Logiken zentrale Herausforderungen bleiben. Für Österfeld spricht das für feste Austauschzeiten, klare Fallbesprechungsstrukturen und gemeinsame Qualitätsarbeit.
+
 ## Entwicklungsstufen (Rubrik)
 
 ### Stufe 1: Initiieren
@@ -44,3 +49,10 @@ Mit dem [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch auf Ganztagsbetre
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
 - Rechtlicher Rahmen: [[Rechtsanspruch_Ganztagsbetreuung_2026]]
 - Vernetzung: [[Uebergaenge_und_Zusammenarbeit]]
+- Forschung: [[Forschung_Ganztag_2024_2026]]
+- Vorlage: [[Vorlage_Team_Fallbesprechung]]
+
+## Quellen
+- Fuchs, E. (2025): [Multiprofessionelle Kooperation an Grundschulen in Ganztagsform](https://link.springer.com/article/10.1007/s42278-025-00242-8)
+- Kielblock, S. (2024/2025): [Multiprofessionelle Kooperation an inklusiven Ganztagsschulen](https://link.springer.com/article/10.1007/s11618-024-01269-w)
+- Hochfeld, L. & Rothland, M. (2022): [Multiprofessionelle Kooperation an Ganztags(grund)schulen](https://link.springer.com/article/10.1007/s42278-022-00146-x)

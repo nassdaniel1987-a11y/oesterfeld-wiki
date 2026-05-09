@@ -34,6 +34,7 @@
 
   min-height: 1.2rem;
   flex: 0 1 auto;
+  max-width: 100%;
 
   &.collapsed {
     flex: 0 1 1.2rem;
@@ -115,7 +116,9 @@ button.desktop-explorer {
   list-style: none;
   overflow: hidden;
   overflow-y: auto;
+  overflow-x: hidden;
   margin-top: 0.5rem;
+  padding-right: 0.25rem;
 
   & ul {
     list-style: none;
@@ -130,10 +133,23 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: block;
+      border-radius: 6px;
+      padding: 0.18rem 0.35rem;
+      line-height: 1.25rem;
+      overflow-wrap: anywhere;
+      word-break: normal;
+      text-decoration: none;
 
       &.active {
         opacity: 1;
         color: var(--tertiary);
+        background: color-mix(in srgb, var(--tertiary) 14%, transparent);
+      }
+
+      &:hover {
+        opacity: 1;
+        background: color-mix(in srgb, var(--lightgray) 48%, transparent);
       }
     }
   }
@@ -155,7 +171,7 @@ button.desktop-explorer {
   .folder-outer > ul {
     overflow: hidden;
     margin-left: 6px;
-    padding-left: 0.8rem;
+    padding-left: 0.65rem;
     border-left: 1px solid var(--lightgray);
   }
 }
@@ -169,10 +185,14 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 0.92rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 1.25rem;
     display: inline-block;
+    border-radius: 6px;
+    padding: 0.2rem 0.2rem;
+    overflow-wrap: anywhere;
+    text-decoration: none;
   }
 
   & div > a:hover {
@@ -192,13 +212,14 @@ button.desktop-explorer {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem;
+      font-size: 0.92rem;
       display: inline-block;
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.25rem;
       pointer-events: none;
+      overflow-wrap: anywhere;
     }
   }
 }

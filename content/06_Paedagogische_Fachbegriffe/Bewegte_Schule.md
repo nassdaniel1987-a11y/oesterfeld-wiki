@@ -9,6 +9,8 @@ tags: [fachbegriff, bewegung, rhythmisierung, ganztag]
 ## Definition
 Das Konzept der **Bewegten Schule** integriert Bewegung systematisch in den gesamten Schultag – nicht nur im Sportunterricht, sondern auch in den Unterricht, die Pausen und den Nachmittag. Kinder können nicht den ganzen Tag (bis 16 Uhr) stillsitzen und kognitiv aufnahmebereit bleiben. Bewegung ist kein „Zeitverlust", sondern eine **Investition in die Konzentrations- und Lernfähigkeit**.
 
+Aktuelle Ganztagsforschung ergänzt diese Perspektive um die Kinderperspektive und die Angebotsqualität: Bewegungs-, Spiel- und Sportangebote sollten nicht nur verfügbar sein, sondern zu Interessen, Entwicklungsbedürfnissen, Räumen, Personal und Tagesrhythmus passen (vgl. [[Bewegung_Spiel_und_Sport_im_Ganztag]]).
+
 ## Zwei Formen der Rhythmisierung durch Bewegung
 
 ### Äußere Rhythmisierung
@@ -40,3 +42,4 @@ Kurze (3–5 Minuten), häufige und abwechslungsreiche Unterbrechungen:
 - Direkt verbunden mit: [[Koerper_und_Lebensweise|Körper & Lebensweise]] und [[Zeit_und_Rhythmisierung|Rhythmisierung]].
 - Unterstützt die: [[Emotion_und_Motivation|Emotionsregulation]] und [[Resilienzfoerderung|Resilienz]].
 - Umsetzbar durch das: [[Raumkonzept_und_Lernumgebung|Raumkonzept]] und die [[Angebotsstruktur]].
+- Fachseite: [[Bewegung_Spiel_und_Sport_im_Ganztag]]

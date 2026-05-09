@@ -1,6 +1,7 @@
 # Leitfaden: Struktur der Einrichtungskonzeption
 
 **Quelle:** `raw/Leitfaden zur Konzeptionsentwicklung_2026.docx.pdf`
+**Download:** [[Quellenbibliothek]]
 **Kategorie:** Struktur und Rahmenbedingungen
 **Geltungsbereich:** Jugendamt Landeshauptstadt Stuttgart (ab 2026)
 

@@ -1,6 +1,7 @@
 # Ganztagsgrundschule Stuttgart: Rahmenkonzept & Struktur
 
 **Quelle:** `raw/rahmenkonzept-ausbau-grundschulen-zu-ganztagsschulen-2013-3.pdf`
+**Download:** [[Quellenbibliothek]]
 **Kategorie:** Struktur und Rahmenbedingungen
 **Geltungsbereich:** Grundschulen in der Landeshauptstadt Stuttgart
 

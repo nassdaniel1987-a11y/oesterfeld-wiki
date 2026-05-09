@@ -1,6 +1,7 @@
 # Konzept: Trägerprofil Einstein 2.0 (Stuttgart)
 
 **Quelle:** `raw/2026 Trägerprofil.pdf`
+**Download:** [[Quellenbibliothek]]
 **Kategorie:** Pädagogische Methoden / Leitprinzipien
 **Geltungsbereich:** Städtische Einrichtungen des Jugendamts Stuttgart (Kita & Schulkindbetreuung)
 

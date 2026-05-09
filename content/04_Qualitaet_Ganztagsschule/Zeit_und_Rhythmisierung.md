@@ -14,6 +14,8 @@ Eine gute Ganztagsschule zeichnet sich nicht durch eine bloße Addition von Halb
 
 Der [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] setzt dafür einen verlässlichen zeitlichen Rahmen: acht Stunden an fünf Werktagen. Pädagogisch entscheidend ist, dass diese Zeit als Wechsel von Lernen, Spielen, Essen, Bewegung, Beziehung und Ruhe gestaltet wird.
 
+Die Fachbeiträge zu Bewegung, Spiel und Sport im Ganztag (2025) unterstreichen diesen Gedanken: Bewegung sollte nicht nur nach anstrengenden Lernphasen "eingeschoben" werden. Sie gehört als wiederkehrender Bestandteil in den Tagesrhythmus und braucht freie, angeleitete und selbstbestimmte Formen (vgl. [[Bewegung_Spiel_und_Sport_im_Ganztag]]).
+
 ## Standards
 - Kontingentstunden und Ganztagsstunden sind sinnvoll über den Tag verteilt (auch Nachmittags findet Unterricht statt, auch Vormittags gibt es Angebote).
 - Es existiert ein Pausenkonzept, das eine Mittagspause (Verpflegung, Freizeit, Rückzug) sowie zwei längere Pausen am Vormittag umfasst.
@@ -44,3 +46,4 @@ Der [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] setzt dafü
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
 - Pädagogische Bedeutung der Rhythmisierung: siehe [[Methode_Mikrotransitionen]]
 - Verbindung zu den Bildungsfeldern: [[Koerper_und_Lebensweise]] (Bewegung und Entspannung).
+- Bewegungsqualität im Ganztag: [[Bewegung_Spiel_und_Sport_im_Ganztag]]
