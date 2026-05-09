@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      "📘 Stuttgarter Rahmenkonzept": "https://www.stuttgart.de/leben/bildung-und-erziehung/",
-      "🏫 Schule Österfeld": "https://www.schule-oesterfeld.de",
-    },
+    links: {},
   }),
 }
 
