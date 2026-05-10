@@ -11,6 +11,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]: Dokumentation der verwendeten offiziellen Quellen und des Rechtsstands.
 - [[Quellenbibliothek|Quellenbibliothek]]: Downloadseite für lokale Rohquellen aus `content/raw`.
 - [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]]: Überblick aktueller Fachartikel zu Qualität, Kooperation, Bewegung, Rechtsanspruch und Wirkung.
+- [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]]: Themenpfad zu Kinderfragen, Forscherzeiten, Lernwerkstatt, MINT und Partizipation.
 - [[Orientierungsplan_BaWue|Orientierungsplan Baden-Württemberg]]: Zentrale Zusammenfassung des baden-württembergischen Orientierungsplans.
 - [[Kinderschutz_und_Kinderrechte|LP: Kinderschutz & Kinderrechte]]: Leitprinzip zur Gewaltprävention und Einlösung von Beteiligungsrechten.
 - [[Inklusion|LP: Inklusion]]: Leitprinzip zur Teilhabe aller Kinder und Abbau von Bildungsbarrieren.
@@ -45,7 +46,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Methode_Scaffolding|Scaffolding]]: Die Begleitung kindlicher Lernprozesse durch ein unterstützendes Gerüst.
 - [[Methode_Mikrotransitionen|Mikrotransitionen]]: Stressfreie Gestaltung der kleinen Übergänge im Kita-Alltag.
 - [[Methode_Dialogisches_Lesen|Dialogisches Lesen]]: Bilderbuchbetrachtung als interaktive Sprachförderung.
-- [[Methode_Forschendes_Lernen|Forschendes Lernen]]: Kinder erforschen eigene Fragen im Forschungskreis – ideal für den Ganztag.
+- [[Methode_Forschendes_Lernen|Forschendes Lernen]]: Methode für Kinderfragen, Vermutungen, Experimente, Recherche, Dokumentation und Präsentation.
 - [[Methode_Projektarbeit|Projektarbeit]]: Handlungsorientierte Methode in 5 Phasen – von der Themenfindung bis zur Reflexion.
 - [[Methode_Feedbackkultur|Feedbackkultur & LEG]]: Lernentwicklungsgespräche, Portfolio-Arbeit und Selbsteinschätzung als Lernkultur.
 

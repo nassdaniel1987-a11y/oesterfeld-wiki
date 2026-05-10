@@ -22,6 +22,17 @@ Dieses Wiki ersetzt keine Rechtsberatung. Es ordnet Quellen für pädagogische K
 | Pädagogische Qualität im Ganztag | [KMK: Qualität im Ganztag](https://www.kmk.org/aktuelles/pressearchiv/mitteilung/qualitaet-im-ganztag-kmk-entwickelt-empfehlungen.html) | [[Qualitaetsrahmen_Ganztagsschule_BW]] |
 | KMK-Empfehlungen 2023 | [KMK-PDF: Empfehlungen zur Weiterentwicklung der pädagogischen Qualität](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_10_12-Ganztag-Empfehlung.pdf) | [[Qualitaetsrahmen_Ganztagsschule_BW]] |
 
+## Forschendes Lernen, MINT und Kinderperspektive
+
+| Thema | Quelle | DOI / Hinweis | Verwendung im Wiki |
+| --- | --- | --- | --- |
+| Forschendes Lernen | [Stiftung Kinder forschen: Forschendes Lernen](https://www.stiftung-kinder-forschen.de/ansatz/unsere-paedagogik/forschendes-lernen/) | Pädagogischer Ansatz und Forschungskreise | [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]] |
+| MINT im Ganztag | [Stiftung Kinder forschen 2024: MINT-Bildung im Grundschul-Ganztag](https://www.stiftung-kinder-forschen.de/presse/news/mint-bildung-im-grundschul-ganztag/) | Studie/ZNL-Impuls zu Kooperationen im Ganztag | [[Forschendes_Lernen_im_Ganztag]], [[Forschung_Ganztag_2024_2026]] |
+| Lesen und Forschen | [Stiftung Lesen: „echt jetzt?“ im Ganztag](https://www.stiftunglesen.de/schulportal/ganztag/echt-jetzt-ganztag) | Praxisprogramm für Lesen, MINT und Forschen | [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]] |
+| Frühe MINT-Bildung | [BMBFSFJ: Stiftung Kinder forschen](https://www.bmbfsfj.bund.de/bmbfsfj/themen/bildung/fruehe-bildung/stiftung-kinder-forschen-274862) | Bundesweite Bildungsinitiative | [[Forschendes_Lernen_im_Ganztag]] |
+| Demokratische Teilhabe | [Gerbeshi, Ertl & Torrau 2024: Demokratische Teilhabe in der Grundschule](https://link.springer.com/article/10.1007/s35834-024-00430-z) | [10.1007/s35834-024-00430-z](https://doi.org/10.1007/s35834-024-00430-z) | [[Forschendes_Lernen_im_Ganztag]], [[Partizipation]] |
+| Soziale Teilhabe | [Wittig 2025: Soziale Teilhabe und inklusive Bildungsziele in Ganztagsschulen](https://link.springer.com/article/10.1007/s35834-025-00483-8) | [10.1007/s35834-025-00483-8](https://doi.org/10.1007/s35834-025-00483-8) | [[Forschendes_Lernen_im_Ganztag]], [[Inklusion]] |
+
 ## Aktuelle Fachartikel 2024-2026
 
 | Thema | Quelle | DOI / Hinweis | Verwendung im Wiki |

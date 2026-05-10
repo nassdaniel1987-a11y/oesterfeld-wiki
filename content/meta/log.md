@@ -127,3 +127,12 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Fach-, Konzept-, Leitprinzipien-, Bildungsfeld- und Methodenseiten mit `Kurzfassung` versehen.
   - Vorlagenseiten mit `Wann nutzen?` ergänzt, damit Zweck und Einsatzsituation sofort klar sind.
   - `Clippings`, `meta` und `Claude.md` unverändert gelassen.
+
+## [2026-05-10] Ingest | Forschendes Lernen als Ganztags-Themenpfad
+- **Quelle:** Stiftung Kinder forschen, Stiftung Lesen, BMBFSFJ, Gerbeshi/Ertl/Torrau 2024, Wittig 2025.
+- **Aktionen:**
+  - Neue Übersichtsseite [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]] erstellt.
+  - [[Methode_Forschendes_Lernen|Forschendes Lernen]] um Quellen, Forschungskreis, Kinderperspektive, Lernbegleitung, Dokumentation und Inklusion vertieft.
+  - Querverweise in Praxisplanung, Angebotsvorlage, Projektarbeit, Scaffolding, Ko-Konstruktion, Zeit, Raum, Angebotsstruktur, Lernzeiten, Partizipation, Adultismus, BNE, Medienbildung und Wahrnehmen/Denken ergänzt.
+  - [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]] und [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] um MINT, forschendes Lernen und Kinderperspektive erweitert.
+  - Startseite, Glossar, Praxispfade und Wiki Index aktualisiert.

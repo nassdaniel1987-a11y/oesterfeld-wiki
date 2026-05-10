@@ -20,8 +20,9 @@ tags: [vorlage, angebot, planung, ganztag]
 
 ## Anlass und Ziel
 - **Beobachtung / Interesse der Kinder:** [...]
+- **Kinderfrage / Forschungsfrage:** [...]
 - **Pädagogisches Ziel:** [...]
-- **Bezug zu Wiki-Seiten:** [[Methode_Projektarbeit]], [[Methode_Forschendes_Lernen]], [[Partizipation]], [[Angebotsstruktur]]
+- **Bezug zu Wiki-Seiten:** [[Methode_Projektarbeit]], [[Methode_Forschendes_Lernen]], [[Forschendes_Lernen_im_Ganztag]], [[Partizipation]], [[Angebotsstruktur]]
 
 ## Ablauf
 | Phase | Inhalt | Material | Zuständigkeit |
@@ -34,9 +35,11 @@ tags: [vorlage, angebot, planung, ganztag]
 - [ ] Kinder konnten Thema oder Fragestellung mitbestimmen.
 - [ ] Kinder konnten Material, Vorgehen oder Rollen mitbestimmen.
 - [ ] Ergebnisse werden sichtbar gemacht.
+- [ ] Bei Forschungsangeboten: Vermutungen, Beobachtungen und offene Fragen der Kinder wurden dokumentiert.
 
 ## Reflexion
 - Was hat gut funktioniert?
 - Wo brauchten Kinder Unterstützung?
+- Welche Kinderfrage oder welches Thema sollte weiterverfolgt werden?
 - Was verändern wir beim nächsten Mal?
 - Gehört eine Erkenntnis in den [[Raster_Werkstattordner|Werkstattordner]]?

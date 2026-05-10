@@ -22,6 +22,7 @@ Der Fokus liegt auf der *aktiven* Mediennutzung:
 - Eigene Fotostorys erstellen (fördert [[Sprache_und_Kommunikation|Literacy]]).
 - Ein Hörspiel aufnehmen oder einen Stop-Motion-Film drehen.
 - Naturbeobachtungen (Insekten) mit dem Tablet vergrößern ([[Wahrnehmen_und_Denken]]).
+- Recherche, Fotos, Audio und digitale Präsentationen als Werkzeuge für [[Forschendes_Lernen_im_Ganztag|forschendes Lernen]] nutzen.
 
 ### Medienethik und Schutz
 Die Auseinandersetzung mit Medien erfordert auch den Blick auf Rechte und Schutz ([[Kinderschutz_und_Kinderrechte]]):

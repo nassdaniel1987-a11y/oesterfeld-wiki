@@ -28,3 +28,4 @@ Ein Kind fragt, warum der Mond manchmal eine Sichel ist.
 ## Verknüpfungen
 - Findet intensive Anwendung beim: [[Methode_Dialogisches_Lesen]] und [[Methode_Scaffolding]].
 - Basiert auf einer Haltung der: [[Partizipation]].
+- Wird im Ganztag besonders sichtbar durch: [[Forschendes_Lernen_im_Ganztag]] und [[Methode_Forschendes_Lernen]].

@@ -12,6 +12,8 @@ tags: [qualität, lernzeit, kompetenz, förderung]
 ## Kerngedanke
 Schüler:innen werden ausgehend von ihrem individuellen Lernstand differenziert gefördert. Die Ganztagsschule verzahnt hierbei fachliches Lernen (Unterricht) mit Begabungsförderung und Lernzeiten (die klassische Hausaufgaben ersetzen).
 
+[[Forschendes_Lernen_im_Ganztag|Forschendes Lernen]] ergänzt Lernzeiten dort, wo Kinder eigene Fragen verfolgen, Strategien erproben und ihre Lernwege dokumentieren. So werden Selbststeuerung, Metakognition und fachliche Neugier praktisch verbunden.
+
 ## Standards
 - Das Lern- und Förderkonzept verknüpft Unterricht sinnvoll mit Ganztagsangeboten und selbstorganisiertem Lernen.
 - Förderung geschieht ganzheitlich (nicht nur Defizitbehebung, sondern auch Talentförderung).
@@ -43,4 +45,4 @@ Schüler:innen werden ausgehend von ihrem individuellen Lernstand differenziert 
 
 ## Verknüpfungen
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
-- Kognitive Basis: [[Wahrnehmen_und_Denken]], [[Methode_Scaffolding]]
+- Kognitive Basis: [[Wahrnehmen_und_Denken]], [[Methode_Scaffolding]], [[Forschendes_Lernen_im_Ganztag]]

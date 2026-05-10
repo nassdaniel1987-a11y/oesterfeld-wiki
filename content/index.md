@@ -9,7 +9,7 @@ title: Startseite
 
 ## Direkt starten
 
-- **Ich plane ein Angebot:** [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]], [[05_Paedagogische_Methoden/Methode_Forschendes_Lernen|Forschendes Lernen]], [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]]
+- **Ich plane ein Angebot:** [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]], [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]], [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]]
 - **Ich gestalte Lernzeit:** [[04_Qualitaet_Ganztagsschule/Lernzeiten_und_Kompetenzentwicklung|Lernzeiten & Kompetenzentwicklung]], [[05_Paedagogische_Methoden/Methode_Feedbackkultur|Feedbackkultur & LEG]], [[05_Paedagogische_Methoden/Methode_Scaffolding|Scaffolding]]
 - **Ich reflektiere Räume:** [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept & Lernumgebung]], [[06_Paedagogische_Fachbegriffe/Raum_als_dritter_Erzieher|Raum als dritter Erzieher]], [[07_Vorlagen_und_Praxis/Checkliste_Raumgestaltung|Checkliste Raumgestaltung]]
 - **Ich beteilige Kinder:** [[02_Leitprinzipien/Partizipation|Partizipation]], [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]], [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]
@@ -39,7 +39,7 @@ Alle Alltagseinstiege gebündelt: [[Praxispfade|Praxispfade öffnen]].
 ### Angebot planen
 
 1. Vom Interesse der Kinder ausgehen: [[02_Leitprinzipien/Partizipation|Partizipation]] und [[06_Paedagogische_Fachbegriffe/Ko-Konstruktion|Ko-Konstruktion]]
-2. Methode wählen: [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]] oder [[05_Paedagogische_Methoden/Methode_Forschendes_Lernen|Forschendes Lernen]]
+2. Methode wählen: [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]], [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]] oder [[05_Paedagogische_Methoden/Methode_Forschendes_Lernen|Forschendes Lernen]]
 3. Rahmen prüfen: [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]], [[04_Qualitaet_Ganztagsschule/Zeit_und_Rhythmisierung|Zeit & Rhythmisierung]], [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept]]
 4. Reflexion sichern: [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
 
@@ -117,6 +117,7 @@ Ausführlich: [[Praxis_Angebot_planen]]
 
 - [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]]
 - [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]]
+- [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]]
 - [[04_Qualitaet_Ganztagsschule/Lernzeiten_und_Kompetenzentwicklung|Lernzeiten & Kompetenzentwicklung]]
 - [[04_Qualitaet_Ganztagsschule/Zeit_und_Rhythmisierung|Zeit & Rhythmisierung]]
 - [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept & Lernumgebung]]
@@ -130,6 +131,7 @@ Ausführlich: [[Praxis_Angebot_planen]]
 ### Methoden & Fachbegriffe
 
 - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]]
+- [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]]
 - [[05_Paedagogische_Methoden/Methode_Forschendes_Lernen|Forschendes Lernen]]
 - [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]]
 - [[05_Paedagogische_Methoden/Methode_Feedbackkultur|Feedbackkultur & LEG]]

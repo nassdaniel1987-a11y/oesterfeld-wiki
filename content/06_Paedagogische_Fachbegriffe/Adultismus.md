@@ -24,6 +24,9 @@ Adultismus zeigt sich in Kitas und Schulen oft in subtilen Strukturen und Verhal
 ## Die pädagogische Antwort
 Eine absolut herrschaftsfreie Pädagogik ist eine Illusion, da Erwachsene die Aufsichtspflicht und die Fürsorgeverantwortung tragen. Das Ziel ist es jedoch, die eigene, strukturelle Macht **kontinuierlich zu reflektieren** und Kindern überall dort, wo es möglich ist, echte [[Partizipation|Mitbestimmungsrechte]] und Autonomie zuzugestehen.
 
+[[Forschendes_Lernen_im_Ganztag|Forschendes Lernen]] ist dafür ein guter Prüfstein: Werden Kinderfragen wirklich als Ausgangspunkt genommen, oder werden sie nur genutzt, um ein bereits fertiges Erwachsenenangebot freundlicher aussehen zu lassen?
+
 ## Verknüpfungen
 - Steht im starken Kontrast zur echten: [[Partizipation]].
 - Zentrales Thema in der: [[Soziale_Entwicklung]] und beim [[Kinderschutz_und_Kinderrechte|Kinderschutz]].
+- Kritischer Blick auf Kinderfragen und Lernbegleitung: [[Forschendes_Lernen_im_Ganztag]]

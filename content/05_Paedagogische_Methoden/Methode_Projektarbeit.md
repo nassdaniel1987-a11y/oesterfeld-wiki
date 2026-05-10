@@ -12,6 +12,8 @@ tags: [methode, projektarbeit, ganztag, partizipation]
 ## Was ist Projektarbeit?
 Projektarbeit ist eine handlungsorientierte Methode, bei der Kinder selbstständig, kooperativ und interessengeleitet an einem Thema arbeiten. Im Unterschied zu AGs ist ein Projekt **zeitlich begrenzt**, **zielorientiert** (auf ein Produkt oder Ergebnis hin) und zeichnet sich durch einen **hohen Partizipationsgrad** der Kinder aus.
 
+Wenn der Ausgangspunkt eine offene Kinderfrage ist und der Weg über Vermutungen, Erkundung, Experiment oder Recherche führt, wird Projektarbeit zur Forschungsarbeit. Die Brücke dazu bündelt [[Forschendes_Lernen_im_Ganztag]].
+
 ## Die fünf Phasen der Projektarbeit
 
 ### 1. Themenfindung & Definition
@@ -42,6 +44,6 @@ Die Dokumentation ist Teil des Lernprozesses:
 - **Visualisierung:** Plakate oder Kanban-Boards im Raum für alle sichtbar.
 
 ## Verknüpfungen
-- Eng verwandt mit: [[Methode_Forschendes_Lernen|Forschendes Lernen]] (Forschungsprojekte als Sonderform).
+- Eng verwandt mit: [[Methode_Forschendes_Lernen|Forschendes Lernen]] und [[Forschendes_Lernen_im_Ganztag]].
 - Basiert auf der Haltung der: [[Ko-Konstruktion]].
 - Stärkt: [[Partizipation]] und [[Soziale_Entwicklung|Soziale Kompetenzen]].

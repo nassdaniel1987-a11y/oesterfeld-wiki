@@ -8,11 +8,12 @@ tags: [praxisweg, vorlage, angebot, ganztag]
 
 ## 1. Ausgangspunkt klären
 - Welche Beobachtung oder welches Interesse der Kinder ist der Anlass?
+- Gibt es eine echte Kinderfrage, aus der eine [[Forschendes_Lernen_im_Ganztag|Forscherzeit oder Lernwerkstatt]] entstehen kann?
 - Welche Bildungsfelder sind berührt? Zum Beispiel [[Wahrnehmen_und_Denken]], [[Sprache_und_Kommunikation]] oder [[Soziale_Entwicklung]].
 - Wie werden Kinder beteiligt? Siehe [[Partizipation]] und [[Ko-Konstruktion]].
 
 ## 2. Methode wählen
-- Für offene Forschungsfragen: [[Methode_Forschendes_Lernen]]
+- Für offene Forschungsfragen: [[Methode_Forschendes_Lernen]] und [[Forschendes_Lernen_im_Ganztag]]
 - Für ein gemeinsames Produkt oder längeres Thema: [[Methode_Projektarbeit]]
 - Für gezielte Lernunterstützung: [[Methode_Scaffolding]]
 - Für Rückmeldung und Reflexion: [[Methode_Feedbackkultur]]
@@ -26,10 +27,11 @@ tags: [praxisweg, vorlage, angebot, ganztag]
 ## 4. Durchführung dokumentieren
 Nutze die [[Vorlage_Angebotsplanung|Vorlage Angebotsplanung]] für Planung, Durchführung und Zuständigkeiten. Halte im [[Raster_Werkstattordner|Werkstattordner]] fest, wenn aus dem Angebot eine dauerhafte Veränderung für Raum, Zeit oder Material entsteht.
 
+Bei Forschungsangeboten sollte zusätzlich sichtbar werden: Welche Kinderfrage war der Ausgangspunkt? Welche Vermutungen gab es? Wie wurde geforscht? Wie haben Kinder ihre Ergebnisse dokumentiert oder präsentiert?
+
 ## 5. Reflexion nach dem Angebot
 > [!question] Reflexionsfragen
 > - Woran war erkennbar, dass die Kinder beteiligt und interessiert waren?
 > - Welche Kinder wurden gut erreicht, welche weniger?
 > - Was sollte beim nächsten Durchlauf verändert werden?
 > - Entsteht daraus ein neuer PDCA-Zyklus im [[Qualitaetsentwicklung_und_Werkstattordner|Werkstattordner]]?
-

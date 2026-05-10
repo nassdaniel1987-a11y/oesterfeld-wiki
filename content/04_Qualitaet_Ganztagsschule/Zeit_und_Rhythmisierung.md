@@ -28,8 +28,8 @@ Die Fachbeiträge zu Bewegung, Spiel und Sport im Ganztag (2025) unterstreichen 
 - Pausenkonzept (inkl. Mittagspause und 2 Vormittagspausen) liegt vor.
 
 ### Stufe 2: Implementieren
-- Erprobung **neuer Formen der zeitlichen Rhythmisierung** (z.B. Projektfenster, Zeitfenster für Individualisierung).
-- Erprobung **flexibler Wahlangebote** (z.B. Forscherkurse) – auch am Vormittag.
+- Erprobung **neuer Formen der zeitlichen Rhythmisierung** (z.B. Projektfenster, Forscherzeiten, Zeitfenster für Individualisierung).
+- Erprobung **flexibler Wahlangebote** (z.B. Forscherkurse und [[Forschendes_Lernen_im_Ganztag|Forscherzeiten]]) – auch am Vormittag.
 - Formen des **selbstorganisierten Lernens** werden im Unterricht integriert, um individuelle Rhythmen zuzulassen.
 - Altersgemäße **Bewegungsmöglichkeiten** sind Teil des gesamten Tagesablaufs (nicht nur in den Pausen).
 
@@ -47,3 +47,4 @@ Die Fachbeiträge zu Bewegung, Spiel und Sport im Ganztag (2025) unterstreichen 
 - Pädagogische Bedeutung der Rhythmisierung: siehe [[Methode_Mikrotransitionen]]
 - Verbindung zu den Bildungsfeldern: [[Koerper_und_Lebensweise]] (Bewegung und Entspannung).
 - Bewegungsqualität im Ganztag: [[Bewegung_Spiel_und_Sport_im_Ganztag]]
+- Forschendes Lernen braucht verlässliche Zeitfenster: [[Forschendes_Lernen_im_Ganztag]]

@@ -32,6 +32,7 @@ Durch den [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] werde
 - **Flexible Raummodelle:** Anpassung durch Raumteiler oder bewegliches Mobiliar.
 - **Selbstständige Nutzung:** Konzepte, wie Kinder Freizeit- und Lernräume selbstbestimmt nutzen können, werden erprobt.
 - **Eigentum:** Es gibt sichere Flächen für persönliche Dinge (z.B. Garderoben, Schließfächer).
+- **Lernwerkstatt:** Materialien für [[Forschendes_Lernen_im_Ganztag|Forscherzeiten]] sind sichtbar, sicher und möglichst selbstständig zugänglich.
 
 ### Stufe 3: Institutionalisieren (Exzellenz)
 - **Multifunktionalität:** Ästhetik und Funktionalität ermöglichen Einzel-, Gruppen- und Projektarbeit.
@@ -43,3 +44,4 @@ Durch den [[Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch ab 2026]] werde
 - Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
 - Rechtlicher Rahmen: [[Rechtsanspruch_Ganztagsbetreuung_2026]]
 - Pädagogische Bedeutung: [[Aesthetische_Bildung]] ([[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]])
+- Forschungsräume und Lernwerkstatt: [[Forschendes_Lernen_im_Ganztag]]

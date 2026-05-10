@@ -17,6 +17,8 @@ Bildung für nachhaltige Entwicklung (BNE) befähigt Kinder, als "Change Agents"
 ### Vom Wissen zum Handeln
 BNE vermittelt nicht in erster Linie reines Sachwissen, sondern fördert Haltungen, Werte und Kompetenzen (Gestaltungskompetenz). Kinder lernen Ursache-Wirkungs-Zusammenhänge (z.B. Ressourcenverbrauch, Herkunft von Lebensmitteln) anhand ihres direkten Alltags.
 
+[[Forschendes_Lernen_im_Ganztag|Forschendes Lernen]] macht BNE alltagsnah: Kinder können untersuchen, wo Wasser, Strom, Müll, Verpackungen, Pflanzen, Tiere oder Wege im Schulalltag eine Rolle spielen und daraus eigene Handlungsideen entwickeln.
+
 ### Themen der BNE
 - Umwelt- und Klimabildung
 - Demokratie- und Friedensbildung

@@ -12,6 +12,8 @@ tags: [bildungsfeld, wahrnehmung, denken, naturwissenschaft]
 ## Bedeutung für das Kind
 Das Kind ist ein forschendes Wesen, das von Geburt an Wahrnehmungen strukturiert, Hypothesen aufstellt und Ursache-Wirkungs-Zusammenhänge (Kausalitäten) überprüft.
 
+Im Ganztag kann diese Grundhaltung bewusst als [[Forschendes_Lernen_im_Ganztag|forschendes Lernen]] gestaltet werden: Kinderfragen werden aufgegriffen, methodisch begleitet und in Forscherzeiten, Lernwerkstätten oder Projektfenstern vertieft.
+
 ## Kernthemen & Vertiefung
 
 ### Naturwissenschaftliches und Mathematisches Denken

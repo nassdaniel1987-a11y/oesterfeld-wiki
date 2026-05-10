@@ -23,6 +23,8 @@ Pädagogische Fachkräfte haben strukturelle Macht (Gestaltungsmacht, Definition
 ### Partizipation didaktisch begleiten
 Beteiligung muss gelernt werden. Kinder (insbesondere sehr junge Kinder oder Kinder mit sprachlichen Barrieren) benötigen vielfältige, auf sie angepasste methodische Hilfen, um ihre Wünsche äußern zu können (z.B. über Unterstützte Kommunikation, Piktogramme, Mimik).
 
+Im [[Forschendes_Lernen_im_Ganztag|forschenden Lernen]] wird Partizipation methodisch greifbar: Kinder bringen Fragen ein, wählen Wege, prüfen Vermutungen und entscheiden mit, wie Ergebnisse sichtbar werden. Beteiligung zeigt sich damit nicht nur in Abstimmungen, sondern im gemeinsamen Erkenntnisprozess.
+
 > [!warning] Stuttgarter Pflicht-Vorgaben
 > Im Rahmen des Stuttgarter Trägerprofils (Einstein 2.0) ist ein verbindliches **Beschwerdemanagement** verankert. Kinder und Familien müssen die Rückmeldungs- und Beschwerdemöglichkeiten kennen. Beschwerden werden offen aufgenommen und konstruktiv bearbeitet. Zudem sorgen Aushänge und bildliche Darstellungen für Orientierung, Transparenz und Teilhabe im Alltag.
 > 

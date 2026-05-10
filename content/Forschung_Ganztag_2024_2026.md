@@ -15,6 +15,7 @@ tags: [forschung, ganztag, qualitaet, rechtsanspruch, kooperation]
 | Kooperation | Multiprofessionelle Kooperation kann entlasten, braucht aber Rollenklärung, gemeinsame Arbeitsorganisation und verlässliche Austauschzeiten. | [[Kooperation_und_Personal]] |
 | Inklusion | Inklusive Ganztagsschule braucht vernetzte Arbeit unterschiedlicher Professionen, besonders bei Förder- und Unterstützungsbedarfen. | [[Inklusion]], [[Kooperation_und_Personal]] |
 | Bewegung | Bewegungs-, Spiel- und Sportangebote wirken nur dann nachhaltig, wenn Kinderperspektiven, Ziele und Strukturen zusammenpassen. | [[Bewegung_Spiel_und_Sport_im_Ganztag]] |
+| Forschendes Lernen | MINT, Lesen, Kinderfragen und Lernwerkstatt können im Ganztag als zusammenhängendes Bildungsprofil gestaltet werden. | [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]] |
 | Rechtsanspruch | Jugendamt, Kommune, Schulträger und Schule müssen den Anspruch gemeinsam umsetzen. Qualität bleibt mehr als reine Platzzahl. | [[Rechtsanspruch_Ganztagsbetreuung_2026]] |
 | Zugang | DJI-Befunde zeigen, dass Zugang zu Ganztagsangeboten sozial ungleich verteilt sein kann. | [[Zusammenarbeit_mit_Eltern]], [[Quellen_und_Rechtsstand]] |
 | Wirkung | ifo-Befunde deuten positive Effekte auf Deutschnoten, Schulzufriedenheit, Mobbing und Übergangschancen an, aber keine eindeutigen Effekte auf Mathematik oder soziale Ungleichheit. | [[Lernzeiten_und_Kompetenzentwicklung]] |
@@ -39,6 +40,14 @@ Noetzel et al. (2025) beziehen ausdrücklich pädagogisches Personal und Kinderp
 
 Schröder, Kehne, Neuber et al. (2025) schlagen Ansatzpunkte für Qualitätsentwicklung von Bewegungs-, Spiel- und Sportangeboten vor. Entscheidend ist die Passung zwischen Bedürfnissen der Kinder, pädagogischen Zielen und strukturellen Rahmenbedingungen. Daraus entsteht die neue Wiki-Seite [[Bewegung_Spiel_und_Sport_im_Ganztag]].
 
+## Forschendes Lernen, MINT und Kinderperspektive
+
+Die Stiftung Kinder forschen beschreibt forschendes Lernen als kindorientierten Weg von Frage, Vermutung, Untersuchung, Dokumentation und Reflexion. Für den Ganztag ist das besonders anschlussfähig, weil längere Zeitfenster, Lernwerkstätten, Außengelände, Medien und Kooperationspartner genutzt werden können.
+
+Die Stiftung Kinder forschen verweist 2024 zugleich auf strukturelle Potenziale und Bedarfe für MINT-Bildung im Grundschul-Ganztag: Viele außerschulische MINT-Akteure arbeiten bereits mit Grundschulen, aber regelmäßige Kooperation und Bekanntheit der Angebote bleiben Entwicklungsaufgaben. Das passt zu [[Angebotsstruktur]] und [[Kooperation_und_Personal]].
+
+Das Programm „echt jetzt?“ im Ganztag der Stiftung Lesen verbindet Lesen, MINT und forschendes Lernen für Kinder im Grundschulalter. Für Österfeld ist das ein guter Praxisimpuls, weil Sachtexte, Experimente, Sprache und Präsentation zusammengeführt werden können.
+
 ## Rechtsanspruch, Kommune und Zugang
 
 Stöbe-Blossey (2025) ordnet den Rechtsanspruch kommunal ein: Adressaten des Anspruchs sind die örtlichen Jugendämter, während Umsetzung und Verantwortung je nach Land zwischen Jugendhilfe, Schule, Trägern und Kommunen verteilt sind. Für Österfeld bedeutet das: Rechtliche Erfüllung, Raumplanung, Personal und pädagogische Qualität müssen zusammen gedacht werden.
@@ -59,6 +68,9 @@ Das ifo Institut berichtet 2025 auf Basis kausaler Evidenz positive Effekte von 
 - Stöbe-Blossey, S. (2025): [Ganztagsförderung für Kinder im Grundschulalter: Die Rolle der Kommune](https://link.springer.com/article/10.1007/s12054-025-00794-0). DOI: [10.1007/s12054-025-00794-0](https://doi.org/10.1007/s12054-025-00794-0)
 - Noetzel, I., Kaufmann, N., Neuber, N. et al. (2025): [Bewegung, Spiel und Sport im Ganztag an Grundschulen](https://link.springer.com/article/10.1007/s43594-025-00147-5). DOI: [10.1007/s43594-025-00147-5](https://doi.org/10.1007/s43594-025-00147-5)
 - Schröder, S., Kehne, M., Neuber, N. et al. (2025): [Qualitätsentwicklung von Bewegungs-, Spiel- und Sportangeboten im Ganztag](https://link.springer.com/article/10.1007/s43594-025-00151-9). DOI: [10.1007/s43594-025-00151-9](https://doi.org/10.1007/s43594-025-00151-9)
+- Stiftung Kinder forschen: [Forschendes Lernen](https://www.stiftung-kinder-forschen.de/ansatz/unsere-paedagogik/forschendes-lernen/)
+- Stiftung Kinder forschen (2024): [MINT-Bildung im Grundschul-Ganztag](https://www.stiftung-kinder-forschen.de/presse/news/mint-bildung-im-grundschul-ganztag/)
+- Stiftung Lesen: [„echt jetzt?“ im Ganztag](https://www.stiftunglesen.de/schulportal/ganztag/echt-jetzt-ganztag)
 - DJI (2026): [Ausbau des Ganztags kommt voran, Qualität bleibt zentrale Aufgabe](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/1717-rechtsanspruch-auf-ganztag-im-grundschulalter-ausbau-kommt-voran-qualitaet-bleibt-zentrale-aufgabe.html)
 - DJI (2025): [Betreuungsangebote für Grundschulkinder sind nicht für alle Eltern gleich zugänglich](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/betreuungsangebote-fuer-grundschulkinder-sind-nicht-fuer-alle-eltern-gleich-zugaenglich.html)
 - ifo Institut (2025): [Ganztag in Grundschulen erhöht Chancen auf Gymnasium](https://www.ifo.de/pressemitteilung/2025-10-23/ganztag-grundschulen-erhoeht-chancen-auf-gymnasium)

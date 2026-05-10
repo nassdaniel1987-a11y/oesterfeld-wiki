@@ -26,3 +26,5 @@ Die ZPD ist die Differenz zwischen dem, was ein Kind bereits ganz alleine kann (
 
 ## Verknüpfungen im Orientierungsplan
 Scaffolding ist eine zentrale Methode für die [[Wahrnehmen_und_Denken|Kognitive Entwicklung]] und das [[Sprache_und_Kommunikation|Sprachliche Lernen]]. Es ermöglicht ein aktives, ko-konstruktives Lernen auf Augenhöhe (vgl. [[Partizipation]]). Auch in der inklusiven Pädagogik ([[Inklusion]]) ist Scaffolding wichtig, um individuelle Hilfsmittel (Gerüste) für Kinder mit besonderem Förderbedarf bereitzustellen.
+
+Im [[Forschendes_Lernen_im_Ganztag|forschenden Lernen im Ganztag]] bedeutet Scaffolding: Erwachsene sichern Material, Sprache, Sicherheit und Dokumentation, ohne die Kinderfrage oder das Ergebnis vorwegzunehmen. Gute Hilfen sind offene Nachfragen, Vergleichsimpulse, Forscherkarten, Bildsymbole oder ein gemeinsames Forscherheft.

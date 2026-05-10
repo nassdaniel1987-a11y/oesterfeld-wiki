@@ -9,12 +9,20 @@ tags: [praxis, navigation, schnellzugriff, ux]
 ## Wenn du ein neues Angebot planst
 
 1. Kinderinteressen klären: [[Partizipation]] und [[Ko-Konstruktion]]
-2. Methode wählen: [[Methode_Projektarbeit]] oder [[Methode_Forschendes_Lernen]]
+2. Methode wählen: [[Forschendes_Lernen_im_Ganztag]], [[Methode_Projektarbeit]] oder [[Methode_Forschendes_Lernen]]
 3. Rahmen prüfen: [[Angebotsstruktur]], [[Zeit_und_Rhythmisierung]], [[Raumkonzept_und_Lernumgebung]]
 4. Umsetzung festhalten: [[Vorlage_Angebotsplanung]]
 5. Reflexion sichern: [[Raster_Werkstattordner]]
 
 Ausführlicher Praxisweg: [[Praxis_Angebot_planen]]
+
+## Wenn Kinder eigene Fragen erforschen wollen
+
+1. Kinderfrage sammeln und sichtbar machen: [[Forschendes_Lernen_im_Ganztag]]
+2. Methode klären: [[Methode_Forschendes_Lernen]]
+3. Unterstützung dosieren: [[Methode_Scaffolding]]
+4. Raum und Material vorbereiten: [[Raumkonzept_und_Lernumgebung]]
+5. Ergebnisse dokumentieren und teilen: [[Methode_Feedbackkultur]], [[Vorlage_Angebotsplanung]]
 
 ## Wenn die Lernzeit unruhig läuft
 

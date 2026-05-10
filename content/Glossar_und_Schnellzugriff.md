@@ -9,7 +9,7 @@ tags: [glossar, uebersicht, schnellzugriff]
 
 ## Alltagssituationen
 - **Noch unsicher, wo der Einstieg ist:** [[Praxispfade]]
-- **Angebot planen:** [[Praxis_Angebot_planen]], [[Vorlage_Angebotsplanung]], [[Methode_Projektarbeit]], [[Methode_Forschendes_Lernen]]
+- **Angebot planen:** [[Praxis_Angebot_planen]], [[Vorlage_Angebotsplanung]], [[Forschendes_Lernen_im_Ganztag]], [[Methode_Projektarbeit]], [[Methode_Forschendes_Lernen]]
 - **Lernzeit gestalten:** [[Praxis_Lernzeit_gestalten]], [[Lernzeiten_und_Kompetenzentwicklung]], [[Methode_Scaffolding]], [[Methode_Feedbackkultur]]
 - **Bewegung im Ganztag stärken:** [[Bewegung_Spiel_und_Sport_im_Ganztag]], [[Bewegte_Schule]], [[Zeit_und_Rhythmisierung]]
 - **Raum reflektieren:** [[Praxis_Raum_reflektieren]], [[Checkliste_Raumgestaltung]], [[Raumkonzept_und_Lernumgebung]], [[Raum_als_dritter_Erzieher]]
@@ -44,6 +44,7 @@ tags: [glossar, uebersicht, schnellzugriff]
 - [[Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]]
 - [[Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule BW]]
 - [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]]
+- [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]]
 - [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]]
 - [[Quellenbibliothek]]
 - [[Raum_als_dritter_Erzieher|Raum als dritter Erzieher]]
@@ -65,6 +66,7 @@ tags: [glossar, uebersicht, schnellzugriff]
 | Adultismus | Machtungleichgewicht zwischen Erwachsenen und Kindern, das Beteiligung begrenzen kann. | [[Adultismus]] |
 | Angebotsqualität | Qualität entsteht nicht nur durch ein Angebot an sich, sondern durch Passung, Beziehung, Beteiligung, Verlässlichkeit und Reflexion. | [[Angebotsstruktur]] |
 | GaFöG | Ganztagsförderungsgesetz; Grundlage für den stufenweisen Rechtsanspruch auf Ganztagsbetreuung ab 2026. | [[Rechtsanspruch_Ganztagsbetreuung_2026]] |
+| Forschendes Lernen | Kinder gehen eigenen Fragen nach, stellen Vermutungen auf, untersuchen, dokumentieren und präsentieren Ergebnisse. | [[Forschendes_Lernen_im_Ganztag]] |
 | Informelles Lernen | Lernen, das nebenbei im Alltag geschieht: im Spiel, Gespräch, Konflikt, Ausprobieren oder gemeinsamen Tun. | [[Qualitaetsrahmen_Ganztagsschule_BW]] |
 | Kinderperspektive | Pädagogische Planung fragt zuerst, wie Kinder Situationen erleben, was sie interessiert und was sie brauchen. | [[Partizipation]] |
 | Ko-Konstruktion | Kinder und Erwachsene entwickeln Wissen gemeinsam, statt dass Erwachsene nur fertige Antworten vermitteln. | [[Ko-Konstruktion]] |
