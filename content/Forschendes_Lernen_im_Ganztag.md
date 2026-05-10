@@ -64,6 +64,12 @@ Aktuelle Forschung zur demokratischen Teilhabe in der Grundschule und zu soziale
 - Kompetenzen sichtbar machen: [[Lernzeiten_und_Kompetenzentwicklung]], [[Methode_Feedbackkultur]]
 - Haltung klären: [[Ko-Konstruktion]], [[Partizipation]], [[Adultismus]]
 
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Starte mit einer Kinderfrage und nutze die Angebotsplanung, um Zeit, Raum, Material, Beteiligung und Dokumentation festzuhalten.</p>
+  <p><a href="07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Vorlage nutzen</a> <a href="07_Vorlagen_und_Praxis/Praxis_Angebot_planen">Praxisweg öffnen</a> <a href="04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung">Raum prüfen</a></p>
+</div>
+
 ## Quellen
 
 - Stiftung Kinder forschen: [Forschendes Lernen](https://www.stiftung-kinder-forschen.de/ansatz/unsere-paedagogik/forschendes-lernen/)

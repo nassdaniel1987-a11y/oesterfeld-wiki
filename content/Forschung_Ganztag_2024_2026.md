@@ -74,3 +74,9 @@ Das ifo Institut berichtet 2025 auf Basis kausaler Evidenz positive Effekte von 
 - DJI (2026): [Ausbau des Ganztags kommt voran, Qualität bleibt zentrale Aufgabe](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/1717-rechtsanspruch-auf-ganztag-im-grundschulalter-ausbau-kommt-voran-qualitaet-bleibt-zentrale-aufgabe.html)
 - DJI (2025): [Betreuungsangebote für Grundschulkinder sind nicht für alle Eltern gleich zugänglich](https://www.dji.de/veroeffentlichungen/aktuelles/news/article/betreuungsangebote-fuer-grundschulkinder-sind-nicht-fuer-alle-eltern-gleich-zugaenglich.html)
 - ifo Institut (2025): [Ganztag in Grundschulen erhöht Chancen auf Gymnasium](https://www.ifo.de/pressemitteilung/2025-10-23/ganztag-grundschulen-erhoeht-chancen-auf-gymnasium)
+
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Nutze Forschung als Impuls für konkrete Qualitätsentwicklung: Thema auswählen, Quelle prüfen, Praxisweg oder Vorlage verknüpfen.</p>
+  <p><a href="Quellen_und_Rechtsstand">Quellenstand</a> <a href="04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW">Qualitätsrahmen</a> <a href="Praxispfade">Praxispfade</a></p>
+</div>

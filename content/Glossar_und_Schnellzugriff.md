@@ -9,6 +9,7 @@ tags: [glossar, uebersicht, schnellzugriff]
 
 ## Alltagssituationen
 - **Noch unsicher, wo der Einstieg ist:** [[Praxispfade]]
+- **Eigene Kinderfragen aufgreifen:** [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]], [[Vorlage_Angebotsplanung]]
 - **Angebot planen:** [[Praxis_Angebot_planen]], [[Vorlage_Angebotsplanung]], [[Forschendes_Lernen_im_Ganztag]], [[Methode_Projektarbeit]], [[Methode_Forschendes_Lernen]]
 - **Lernzeit gestalten:** [[Praxis_Lernzeit_gestalten]], [[Lernzeiten_und_Kompetenzentwicklung]], [[Methode_Scaffolding]], [[Methode_Feedbackkultur]]
 - **Bewegung im Ganztag stärken:** [[Bewegung_Spiel_und_Sport_im_Ganztag]], [[Bewegte_Schule]], [[Zeit_und_Rhythmisierung]]

@@ -58,6 +58,12 @@ Ganztagsschulen entwickeln sich als "Lernende Organisationen" in drei Stufen:
 ## Verknüpfung im Wiki
 Dieses Modell bildet die übergeordnete Brücke zwischen der Elementarpädagogik ([[Orientierungsplan_BaWue|Orientierungsplan Kita]]) und der Grundschule (vgl. [[Uebergaenge_und_Zusammenarbeit]]). Der Rahmen greift direkt in die [[Qualitaetsentwicklung_und_Werkstattordner]] der Einrichtung ein.
 
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Wähle ein Qualitätsmerkmal aus und übersetze es in eine konkrete Praxisfrage oder einen PDCA-Schritt.</p>
+  <p><a href="../Praxispfade">Praxispfade nutzen</a> <a href="../07_Vorlagen_und_Praxis/Raster_Werkstattordner">Werkstattordner öffnen</a> <a href="../Forschung_Ganztag_2024_2026">Forschung prüfen</a></p>
+</div>
+
 ## Quellen
 - Kultusministerium Baden-Württemberg: Qualitätsrahmen Ganztagsschule BW (`raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf`)
 - KMK: [Qualität im Ganztag: KMK entwickelt Empfehlungen](https://www.kmk.org/aktuelles/pressearchiv/mitteilung/qualitaet-im-ganztag-kmk-entwickelt-empfehlungen.html)

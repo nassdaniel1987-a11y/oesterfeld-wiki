@@ -8,33 +8,53 @@ tags: [quellen, downloads, rohquellen, pdf, bibliothek]
 
 ## Qualitätsrahmen
 
-| Dokument | Einordnung | Download | Wiki-Bezug |
-| --- | --- | --- | --- |
-| Qualitätsrahmen Ganztagsschule Baden-Württemberg | Zentrale Landesquelle für Qualitätsmerkmale, Entwicklungsstufen und Ringmodell der Ganztagsschule. | [PDF](raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf) | [[Qualitaetsrahmen_Ganztagsschule_BW]], [[Zeit_und_Rhythmisierung]], [[Kooperation_und_Personal]] |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Qualitätsrahmen Ganztagsschule Baden-Württemberg</h3>
+    <p>Zentrale Landesquelle für Qualitätsmerkmale, Entwicklungsstufen und Ringmodell.</p>
+    <p><a href="/raw/190708_Qualitätsrahmen-Ganztagsschule_Kultusministerium_BW.pdf">PDF</a> <a href="04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW">Wiki-Seite</a></p>
+  </div>
+</div>
 
 ## Orientierungsplan und Bildungsverständnis
 
-| Dokument | Einordnung | Download | Wiki-Bezug |
-| --- | --- | --- | --- |
-| Orientierungsplan Baden-Württemberg 2025 | Grundlage für Bildungsfelder, Leitprinzipien und pädagogisches Bildungsverständnis. | [PDF](raw/2025-07-14-Orientierungsplan_für_Bildung_und_Erziehung_in_baden-württembergischen_Kin-dertageseinrichtungen_und_Kindertagespflege.pdf) | [[Orientierungsplan_BaWue]], [[Partizipation]], [[Inklusion]], [[Koerper_und_Lebensweise]] |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Orientierungsplan Baden-Württemberg 2025</h3>
+    <p>Grundlage für Bildungsfelder, Leitprinzipien und pädagogisches Bildungsverständnis.</p>
+    <p><a href="/raw/2025-07-14-Orientierungsplan_für_Bildung_und_Erziehung_in_baden-württembergischen_Kin-dertageseinrichtungen_und_Kindertagespflege.pdf">PDF</a> <a href="01_Rahmenkonzepte_und_Steuerung/Orientierungsplan_BaWue">Wiki-Seite</a></p>
+  </div>
+</div>
 
 ## Trägerprofil
 
-| Dokument | Einordnung | Download | Wiki-Bezug |
-| --- | --- | --- | --- |
-| Trägerprofil Einstein 2.0 | Lokale Grundlage für Trägerverständnis, Haltung und pädagogische Schwerpunkte. | [PDF](<raw/2026 Trägerprofil.pdf>) | [[Trägerprofil_Einstein_2_0]] |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Trägerprofil Einstein 2.0</h3>
+    <p>Lokale Grundlage für Trägerverständnis, Haltung und pädagogische Schwerpunkte.</p>
+    <p><a href="/raw/2026%20Tr%C3%A4gerprofil.pdf">PDF</a> <a href="01_Rahmenkonzepte_und_Steuerung/Trägerprofil_Einstein_2_0">Wiki-Seite</a></p>
+  </div>
+</div>
 
 ## Konzeptionsentwicklung
 
-| Dokument | Einordnung | Download | Wiki-Bezug |
-| --- | --- | --- | --- |
-| Leitfaden zur Konzeptionsentwicklung 2026 | Orientierung für Aufbau, Reflexion und Fortschreibung der Einrichtungskonzeption. | [PDF](<raw/Leitfaden zur Konzeptionsentwicklung_2026.docx.pdf>) | [[Leitfaden_Einrichtungskonzeption]], [[Qualitaetsentwicklung_und_Werkstattordner]] |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Leitfaden zur Konzeptionsentwicklung 2026</h3>
+    <p>Orientierung für Aufbau, Reflexion und Fortschreibung der Einrichtungskonzeption.</p>
+    <p><a href="/raw/Leitfaden%20zur%20Konzeptionsentwicklung_2026.docx.pdf">PDF</a> <a href="01_Rahmenkonzepte_und_Steuerung/Leitfaden_Einrichtungskonzeption">Wiki-Seite</a></p>
+  </div>
+</div>
 
 ## Rechts- und Rahmenkonzepte
 
-| Dokument | Einordnung | Download | Wiki-Bezug |
-| --- | --- | --- | --- |
-| Rahmenkonzept Ausbau Grundschulen zu Ganztagsschulen Stuttgart 2013 | Kommunale Grundlage zu Ganztagsstruktur, Rhythmisierung und Stuttgarter Rahmenbedingungen. | [PDF](raw/rahmenkonzept-ausbau-grundschulen-zu-ganztagsschulen-2013-3.pdf) | [[Rahmenkonzept_Ganztag_Stuttgart]], [[Rechtsanspruch_Ganztagsbetreuung_2026]] |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Rahmenkonzept Ganztag Stuttgart 2013</h3>
+    <p>Kommunale Grundlage zu Ganztagsstruktur, Rhythmisierung und Stuttgarter Rahmenbedingungen.</p>
+    <p><a href="/raw/rahmenkonzept-ausbau-grundschulen-zu-ganztagsschulen-2013-3.pdf">PDF</a> <a href="01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart">Wiki-Seite</a></p>
+  </div>
+</div>
 
 ## Online-Quellen
 

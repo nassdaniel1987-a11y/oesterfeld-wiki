@@ -75,3 +75,9 @@ Ausführlicher Praxisweg: [[Praxis_Raum_reflektieren]]
 ## Alle Vorlagen
 
 Alle Word- und PDF-Dateien liegen gebündelt unter [[Vorlagen_und_Downloads|Vorlagen & Downloads]].
+
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Wenn der passende Pfad gefunden ist, wechsle direkt zur Vorlage oder zum Download-Hub.</p>
+  <p><a href="07_Vorlagen_und_Praxis/Vorlagen_und_Downloads">Vorlagen & Downloads</a> <a href="Glossar_und_Schnellzugriff">Glossar</a> <a href="Quellen_und_Rechtsstand">Quellenstand</a></p>
+</div>

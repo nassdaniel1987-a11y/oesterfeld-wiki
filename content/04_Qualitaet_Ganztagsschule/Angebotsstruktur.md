@@ -46,3 +46,9 @@ Ein zweites starkes Profilfeld ist [[Forschendes_Lernen_im_Ganztag|forschendes L
 - Bewegungsangebote: [[Bewegung_Spiel_und_Sport_im_Ganztag]], [[Bewegte_Schule]]
 - Forschungsangebote: [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]]
 - Forschung: [[Forschung_Ganztag_2024_2026]]
+
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Plane ein Angebot ausgehend von Kinderinteressen und prüfe danach Zeit, Raum, Personal und Dokumentation.</p>
+  <p><a href="../07_Vorlagen_und_Praxis/Praxis_Angebot_planen">Praxisweg öffnen</a> <a href="../07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Vorlage nutzen</a> <a href="../Forschendes_Lernen_im_Ganztag">Forschendes Lernen</a></p>
+</div>

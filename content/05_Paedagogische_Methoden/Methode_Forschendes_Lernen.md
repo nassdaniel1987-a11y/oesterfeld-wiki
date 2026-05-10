@@ -68,6 +68,12 @@ Für inklusive Gruppen ist der Ansatz stark, wenn unterschiedliche Zugänge mög
 - **Kompetenzaufbau:** Neben Fachwissen werden Schlüsselqualifikationen wie Teamfähigkeit, Kommunikation, kritisches Denken und Ausdauer gefördert (vgl. [[Lernzeiten_und_Kompetenzentwicklung|Kompetenzentwicklung]]).
 - **Inklusion:** Da Thema und Vorgehensweise individuell gewählt werden, lässt sich der Ansatz sehr gut an unterschiedliche Lernvoraussetzungen anpassen (vgl. [[Inklusion]]).
 
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Wenn aus der Methode ein Ganztagsprofil werden soll, nutze den Themenpfad und plane die erste Forscherzeit konkret.</p>
+  <p><a href="../Forschendes_Lernen_im_Ganztag">Themenpfad öffnen</a> <a href="../07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Angebot planen</a> <a href="../04_Qualitaet_Ganztagsschule/Angebotsstruktur">Angebotsstruktur prüfen</a></p>
+</div>
+
 ## Verknüpfungen
 - Basiert auf der Haltung der: [[Ko-Konstruktion]].
 - Nutzt als Unterstützungsstrategie: [[Methode_Scaffolding|Scaffolding]].

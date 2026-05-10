@@ -55,6 +55,12 @@ Das DJI betont kurz vor Start des Rechtsanspruchs, dass der Ausbau sichtbar vora
 
 Die DJI-Kinderbetreuungsstudie verweist zudem auf Zugangsgerechtigkeit: Familien mit Transferleistungsbezug, Migrationsgeschichte oder niedrigerem Bildungshintergrund können trotz Bedarf häufiger ungedeckt bleiben. Stöbe-Blossey (2025) ergänzt die kommunale Perspektive: Der Anspruch ist im SGB VIII verankert und betrifft damit Jugendamt, Kommune, Schulträger, Trägerangebote und Schule gemeinsam. Überblick: [[Forschung_Ganztag_2024_2026]].
 
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Prüfe den Rechtsanspruch nicht isoliert: Zeit, Raum, Personal, Elternkommunikation und Qualität müssen gemeinsam geplant werden.</p>
+  <p><a href="../04_Qualitaet_Ganztagsschule/Zeit_und_Rhythmisierung">Zeit prüfen</a> <a href="../04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung">Raum prüfen</a> <a href="../04_Qualitaet_Ganztagsschule/Kooperation_und_Personal">Personal prüfen</a></p>
+</div>
+
 ## Quellen
 - Kultusministerium Baden-Württemberg: [Rechtsanspruch auf Ganztagsbetreuung](https://km.baden-wuerttemberg.de/de/schule/ganztagsschule-und-ganztagsbetreuung-in-baden-wuerttemberg/rechtsanspruch-auf-ganztagsbetreuung)
 - BMBFSFJ: [Ganztagsbetreuung von Grundschulkindern](https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/kinderbetreuung/ganztagsbetreuung)

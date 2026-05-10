@@ -136,3 +136,11 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Querverweise in Praxisplanung, Angebotsvorlage, Projektarbeit, Scaffolding, Ko-Konstruktion, Zeit, Raum, Angebotsstruktur, Lernzeiten, Partizipation, Adultismus, BNE, Medienbildung und Wahrnehmen/Denken ergänzt.
   - [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]] und [[Quellen_und_Rechtsstand|Quellen & Rechtsstand]] um MINT, forschendes Lernen und Kinderperspektive erweitert.
   - Startseite, Glossar, Praxispfade und Wiki Index aktualisiert.
+
+## [2026-05-10] UX | Kachel-Dashboard, Themenpfade und Download-Karten
+- **Aktionen:**
+  - Startseite zu einem kachelbasierten Einstieg mit Direktstart und Themenpfaden umgebaut.
+  - [[Vorlagen_und_Downloads|Vorlagen & Downloads]] und [[Quellenbibliothek]] von Tabellen auf Download-Karten umgestellt.
+  - Zentrale Fachseiten mit kurzen `Nächster Schritt`-Boxen ergänzt.
+  - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[Praxispfade]] und [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]] stärker mit Themenpfaden vernetzt.
+  - Explorer-Benennungen und Sidebar-CSS weiter beruhigt; neue Karten- und Praxisboxen in `custom.scss` ergänzt.

@@ -8,24 +8,48 @@ tags: [vorlagen, downloads, praxis, word, pdf]
 
 ## Planung und Angebote
 
-| Material | Wiki-Seite | Word | PDF |
-| --- | --- | --- | --- |
-| Angebotsplanung | [[Vorlage_Angebotsplanung|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf) |
-| Werkstattordner / PDCA-Raster | [[Raster_Werkstattordner|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.pdf) |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Angebotsplanung</h3>
+    <p>Planungsraster für Anlass, Kinderfrage, Ablauf, Beteiligung und Reflexion.</p>
+    <p><a href="Vorlage_Angebotsplanung">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Angebotsplanung.pdf">PDF</a></p>
+  </div>
+  <div class="download-card">
+    <h3>Werkstattordner / PDCA-Raster</h3>
+    <p>Qualitätsentwicklung im Alltag sichtbar planen, prüfen und fortschreiben.</p>
+    <p><a href="Raster_Werkstattordner">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Raster_Werkstattordner.pdf">PDF</a></p>
+  </div>
+</div>
 
 ## Zusammenarbeit mit Eltern und Team
 
-| Material | Wiki-Seite | Word | PDF |
-| --- | --- | --- | --- |
-| Elterngespräch | [[Vorlage_Elterngespraech|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.pdf) |
-| Team-Fallbesprechung | [[Vorlage_Team_Fallbesprechung|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf) |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Elterngespräch</h3>
+    <p>Gespräch strukturiert vorbereiten, Vereinbarungen festhalten und nachhalten.</p>
+    <p><a href="Vorlage_Elterngespraech">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Elterngespraech.pdf">PDF</a></p>
+  </div>
+  <div class="download-card">
+    <h3>Team-Fallbesprechung</h3>
+    <p>Anliegen, Beobachtungen, Hypothesen und nächste Schritte im Team klären.</p>
+    <p><a href="Vorlage_Team_Fallbesprechung">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Team_Fallbesprechung.pdf">PDF</a></p>
+  </div>
+</div>
 
 ## Kinderbeteiligung und Räume
 
-| Material | Wiki-Seite | Word | PDF |
-| --- | --- | --- | --- |
-| Kinderkonferenz | [[Vorlage_Kinderkonferenz|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.pdf) |
-| Raumgestaltung | [[Checkliste_Raumgestaltung|Vorlage ansehen]] | [DOCX](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.docx) | [PDF](07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.pdf) |
+<div class="download-grid">
+  <div class="download-card">
+    <h3>Kinderkonferenz</h3>
+    <p>Beteiligung dokumentieren und sichtbar machen, was mit Kinderideen passiert.</p>
+    <p><a href="Vorlage_Kinderkonferenz">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Vorlage_Kinderkonferenz.pdf">PDF</a></p>
+  </div>
+  <div class="download-card">
+    <h3>Raumgestaltung</h3>
+    <p>Teamcheck für Räume als Lern-, Lebens-, Rückzugs- und Forschungsorte.</p>
+    <p><a href="Checkliste_Raumgestaltung">Wiki-Seite</a> <a href="/07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.docx">Word</a> <a href="/07_Vorlagen_und_Praxis/downloads/Checkliste_Raumgestaltung.pdf">PDF</a></p>
+  </div>
+</div>
 
 ## Welche Vorlage passt wann?
 

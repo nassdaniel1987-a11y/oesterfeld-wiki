@@ -9,14 +9,48 @@ title: Startseite
 
 ## Direkt starten
 
-- **Ich plane ein Angebot:** [[Forschendes_Lernen_im_Ganztag|Forschendes Lernen im Ganztag]], [[05_Paedagogische_Methoden/Methode_Projektarbeit|Projektarbeit]], [[04_Qualitaet_Ganztagsschule/Angebotsstruktur|Angebotsstruktur]]
-- **Ich gestalte Lernzeit:** [[04_Qualitaet_Ganztagsschule/Lernzeiten_und_Kompetenzentwicklung|Lernzeiten & Kompetenzentwicklung]], [[05_Paedagogische_Methoden/Methode_Feedbackkultur|Feedbackkultur & LEG]], [[05_Paedagogische_Methoden/Methode_Scaffolding|Scaffolding]]
-- **Ich reflektiere Räume:** [[04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung|Raumkonzept & Lernumgebung]], [[06_Paedagogische_Fachbegriffe/Raum_als_dritter_Erzieher|Raum als dritter Erzieher]], [[07_Vorlagen_und_Praxis/Checkliste_Raumgestaltung|Checkliste Raumgestaltung]]
-- **Ich beteilige Kinder:** [[02_Leitprinzipien/Partizipation|Partizipation]], [[04_Qualitaet_Ganztagsschule/Demokratie_und_Schulklima|Demokratie & Schulklima]], [[07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz|Vorlage Kinderkonferenz]]
-- **Ich bereite Team- oder Qualitätsarbeit vor:** [[01_Rahmenkonzepte_und_Steuerung/Qualitaetsentwicklung_und_Werkstattordner|Qualitätsentwicklung & Werkstattordner]], [[04_Qualitaet_Ganztagsschule/Kooperation_und_Personal|Kooperation & Personal]], [[07_Vorlagen_und_Praxis/Raster_Werkstattordner|Raster Werkstattordner]]
-- **Ich brauche rechtliche Orientierung:** [[01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026|Rechtsanspruch Ganztagsbetreuung ab 2026]], [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen GTS BW]], [[01_Rahmenkonzepte_und_Steuerung/Rahmenkonzept_Ganztag_Stuttgart|Stuttgarter Rahmenkonzept]]
-- **Ich suche einen Begriff, eine Vorlage oder eine Quelle:** [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[07_Vorlagen_und_Praxis/Vorlagen_und_Downloads|Vorlagen & Downloads]], [[Quellenbibliothek|Quellenbibliothek]]
-- **Ich weiß noch nicht, wo ich anfangen soll:** [[Praxispfade|Praxispfade]]
+<div class="action-grid">
+  <div class="action-card">
+    <h3>Angebot planen</h3>
+    <p>Vom Kinderinteresse zur konkreten Durchführung.</p>
+    <p><a href="07_Vorlagen_und_Praxis/Praxis_Angebot_planen">Praxisweg</a> <a href="07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Vorlage</a> <a href="04_Qualitaet_Ganztagsschule/Angebotsstruktur">Angebotsstruktur</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Forschendes Lernen</h3>
+    <p>Kinderfragen als Forscherzeit, Lernwerkstatt oder Projekt gestalten.</p>
+    <p><a href="Forschendes_Lernen_im_Ganztag">Themenpfad</a> <a href="05_Paedagogische_Methoden/Methode_Forschendes_Lernen">Methode</a> <a href="07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Planung</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Lernzeit gestalten</h3>
+    <p>Lernzeit als begleitete Entwicklungszeit planen.</p>
+    <p><a href="07_Vorlagen_und_Praxis/Praxis_Lernzeit_gestalten">Praxisweg</a> <a href="04_Qualitaet_Ganztagsschule/Lernzeiten_und_Kompetenzentwicklung">Qualität</a> <a href="05_Paedagogische_Methoden/Methode_Scaffolding">Scaffolding</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Kinder beteiligen</h3>
+    <p>Entscheidungsspielräume klären und Beteiligung sichtbar machen.</p>
+    <p><a href="07_Vorlagen_und_Praxis/Praxis_Kinder_beteiligen">Praxisweg</a> <a href="02_Leitprinzipien/Partizipation">Partizipation</a> <a href="07_Vorlagen_und_Praxis/Vorlage_Kinderkonferenz">Kinderkonferenz</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Raum reflektieren</h3>
+    <p>Räume als Lern-, Lebens-, Rückzugs- und Forschungsorte prüfen.</p>
+    <p><a href="07_Vorlagen_und_Praxis/Praxis_Raum_reflektieren">Praxisweg</a> <a href="04_Qualitaet_Ganztagsschule/Raumkonzept_und_Lernumgebung">Raumkonzept</a> <a href="07_Vorlagen_und_Praxis/Checkliste_Raumgestaltung">Checkliste</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Rechtsanspruch & Qualität</h3>
+    <p>Planung, Verlässlichkeit und Qualitätsentwicklung zusammenführen.</p>
+    <p><a href="01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026">Rechtsanspruch</a> <a href="04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW">Qualitätsrahmen</a> <a href="Quellen_und_Rechtsstand">Quellenstand</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Vorlagen & Downloads</h3>
+    <p>Word- und PDF-Materialien für die direkte Praxis.</p>
+    <p><a href="07_Vorlagen_und_Praxis/Vorlagen_und_Downloads">Downloads</a> <a href="Glossar_und_Schnellzugriff">Schnellzugriff</a> <a href="Praxispfade">Praxispfade</a></p>
+  </div>
+  <div class="action-card">
+    <h3>Quellen prüfen</h3>
+    <p>Rohquellen, Forschung und Rechtsstand transparent nachlesen.</p>
+    <p><a href="Quellenbibliothek">Quellenbibliothek</a> <a href="Quellen_und_Rechtsstand">Rechtsstand</a> <a href="Forschung_Ganztag_2024_2026">Forschung</a></p>
+  </div>
+</div>
 
 > [!tip] Schnellsuche
 > Nutze die Suche links oben für Begriffe wie `Lernzeit`, `Feedback`, `Resilienz`, `Rechtsanspruch`, `Raum` oder `Kinderkonferenz`.
@@ -31,6 +65,36 @@ title: Startseite
 
 > [!info] Qualitätsrahmen
 > Der [[04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW|Qualitätsrahmen Ganztagsschule BW]] ist die zentrale Brücke zwischen pädagogischer Haltung, Strukturqualität und konkreter Umsetzung im Ganztag.
+
+## Themenpfade
+
+<div class="path-grid">
+  <div class="path-card">
+    <h3>Forschendes Lernen</h3>
+    <p>Vom Kinderinteresse zur Forscherzeit mit MINT, Sprache, Raum und Dokumentation.</p>
+    <a href="Forschendes_Lernen_im_Ganztag">Themenpfad öffnen</a>
+  </div>
+  <div class="path-card">
+    <h3>Rechtsanspruch 2026</h3>
+    <p>Was der Anspruch für Zeit, Raum, Personal, Elternkommunikation und Qualität bedeutet.</p>
+    <a href="01_Rahmenkonzepte_und_Steuerung/Rechtsanspruch_Ganztagsbetreuung_2026">Rahmen klären</a>
+  </div>
+  <div class="path-card">
+    <h3>Qualität im Ganztag</h3>
+    <p>Qualitätsrahmen, Forschung und Entwicklungsstufen als gemeinsames Reflexionsraster.</p>
+    <a href="04_Qualitaet_Ganztagsschule/Qualitaetsrahmen_Ganztagsschule_BW">Qualitätsrahmen nutzen</a>
+  </div>
+  <div class="path-card">
+    <h3>Praxis & Vorlagen</h3>
+    <p>Vom Alltagsthema direkt zur passenden Vorlage, Reflexion oder Teamstruktur.</p>
+    <a href="Praxispfade">Praxispfade öffnen</a>
+  </div>
+  <div class="path-card">
+    <h3>Quellen & Forschung</h3>
+    <p>Offizielle Quellen, Rohdokumente und aktuelle Fachartikel nachvollziehbar bündeln.</p>
+    <a href="Quellen_und_Rechtsstand">Quellenstand prüfen</a>
+  </div>
+</div>
 
 ## Praxiswege
 
