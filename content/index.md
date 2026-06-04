@@ -7,6 +7,9 @@ title: Startseite
 > [!abstract] Schnell orientieren, sicher handeln
 > Dieses Wiki bündelt Rahmenvorgaben, Qualitätskriterien, Methoden und Praxismaterial für den Ganztag. Starte über eine konkrete Alltagssituation oder nutze die Themenbibliothek weiter unten.
 
+> [!tip] Gute Quelle gefunden?
+> Wenn dir ein Artikel, Leitfaden oder Praxisbeispiel begegnet, das ins Wiki passen könnte, kannst du den Link kurz vorschlagen: [[beitragen|Quelle beitragen]].
+
 ## Direkt starten
 
 <div class="action-grid">
