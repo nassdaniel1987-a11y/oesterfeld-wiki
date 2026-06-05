@@ -1,3 +1,461 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+article {
+  > h1:first-child {
+    margin-bottom: 0.4rem;
+  }
+
+  > h2 {
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.35rem;
+  }
+
+  > h2 + ul,
+  > h3 + ul {
+    margin-top: 0.25rem;
+  }
+
+  > ul li {
+    margin: 0.25rem 0;
+  }
+
+  > ul:has(li > strong:first-child) {
+    padding-left: 1.1rem;
+  }
+
+  > ul:has(li > strong:first-child) li {
+    padding: 0.15rem 0;
+  }
+
+  > ol {
+    padding-left: 1.35rem;
+  }
+
+  > table {
+    font-size: 0.95rem;
+  }
+
+  .callout {
+    border-radius: 8px;
+    border-left-width: 4px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+  }
+
+  .callout[data-callout="abstract"] {
+    background: color-mix(in srgb, var(--highlight) 55%, var(--light));
+  }
+
+  .callout[data-callout="warning"] {
+    background: color-mix(in srgb, var(--tertiary) 13%, var(--light));
+  }
+
+  .callout[data-callout="tip"] a[href$=".docx"],
+  .callout[data-callout="tip"] a[href$=".pdf"],
+  table a[href$=".docx"],
+  table a[href$=".pdf"] {
+    display: inline-block;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    padding: 0.08rem 0.45rem;
+    text-decoration: none;
+    font-weight: 600;
+    background: color-mix(in srgb, var(--secondary) 9%, var(--light));
+  }
+
+  .callout[data-callout="tip"] a[href$=".pdf"],
+  table a[href$=".pdf"] {
+    background: color-mix(in srgb, var(--tertiary) 12%, var(--light));
+  }
+
+  table {
+    border-radius: 8px;
+  }
+
+  .action-grid,
+  .path-grid,
+  .download-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+    gap: 0.85rem;
+    margin: 1rem 0 1.35rem;
+  }
+
+  .action-card,
+  .path-card,
+  .download-card,
+  .next-step-box {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background: color-mix(in srgb, var(--light) 92%, var(--highlight));
+    padding: 0.85rem;
+  }
+
+  .action-card,
+  .path-card,
+  .download-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    min-height: 9rem;
+  }
+
+  .action-card h3,
+  .path-card h3,
+  .download-card h3 {
+    font-size: 1rem;
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  .action-card p,
+  .path-card p,
+  .download-card p,
+  .next-step-box p {
+    margin: 0;
+  }
+
+  .action-card p:first-of-type,
+  .path-card p:first-of-type,
+  .download-card p:first-of-type {
+    color: var(--darkgray);
+    line-height: 1.45;
+  }
+
+  .action-card p:last-child,
+  .download-card p:last-child,
+  .next-step-box p:last-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: auto;
+  }
+
+  .action-card a,
+  .path-card a,
+  .download-card a,
+  .next-step-box a {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid color-mix(in srgb, var(--secondary) 35%, var(--lightgray));
+    border-radius: 6px;
+    padding: 0.14rem 0.48rem;
+    background: color-mix(in srgb, var(--secondary) 10%, var(--light));
+    color: var(--dark);
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .action-card a:hover,
+  .path-card a:hover,
+  .download-card a:hover,
+  .next-step-box a:hover {
+    border-color: var(--secondary);
+    background: color-mix(in srgb, var(--tertiary) 18%, var(--light));
+  }
+
+  .path-card {
+    min-height: 8rem;
+  }
+
+  .download-card {
+    min-height: 7.5rem;
+  }
+
+  .next-step-box {
+    margin: 1.2rem 0;
+    border-left: 4px solid var(--secondary);
+    background: color-mix(in srgb, var(--highlight) 34%, var(--light));
+  }
+
+  .next-step-box strong {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: var(--secondary);
+    font-family: var(--headerFont);
+  }
+}
+
+.contribution-page {
+  --contribution-ink: var(--dark);
+  --contribution-muted: var(--darkgray);
+  --contribution-line: color-mix(in srgb, var(--secondary) 18%, var(--lightgray));
+  --contribution-surface: color-mix(in srgb, var(--light) 96%, #fff);
+  --contribution-wash: color-mix(in srgb, var(--tertiary) 4%, var(--light));
+
+  display: grid;
+  gap: 1.15rem;
+  margin: 0.35rem 0 1.6rem;
+
+  h1,
+  h2,
+  p {
+    margin: 0;
+  }
+}
+
+.contribution-hero {
+  border-bottom: 1px solid var(--contribution-line);
+  padding: clamp(0.7rem, 2vw, 1.35rem) 0 clamp(1.1rem, 3vw, 1.7rem);
+}
+
+.contribution-hero__copy {
+  display: grid;
+  align-content: center;
+  gap: 0.8rem;
+}
+
+.contribution-kicker {
+  width: fit-content;
+  border: 1px solid var(--contribution-line);
+  border-radius: 6px;
+  padding: 0.16rem 0.58rem;
+  color: var(--secondary);
+  background: var(--contribution-surface);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.contribution-page h1 {
+  max-width: 15ch;
+  color: var(--contribution-ink);
+  font-size: clamp(2rem, 3.4vw, 3.45rem);
+  line-height: 1.02;
+}
+
+.contribution-lede {
+  max-width: 38rem;
+  color: var(--contribution-muted);
+  font-size: 1rem;
+  line-height: 1.58;
+}
+
+.contribution-proof {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.25rem;
+}
+
+.contribution-proof span {
+  border: 1px solid var(--contribution-line);
+  border-radius: 6px;
+  padding: 0.14rem 0.5rem;
+  background: var(--contribution-surface);
+  color: var(--contribution-muted);
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+
+.contribution-process {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 0.3rem 0 0.45rem;
+}
+
+.contribution-process div {
+  border-top: 1px solid var(--contribution-line);
+  padding-top: 0.72rem;
+}
+
+.contribution-process p:first-child {
+  color: var(--secondary);
+  font-family: var(--headerFont);
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.contribution-process strong {
+  display: block;
+  margin: 0.15rem 0 0.2rem;
+  color: var(--contribution-ink);
+  font-family: var(--headerFont);
+}
+
+.contribution-process p:last-child {
+  color: var(--contribution-muted);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.contribution-form-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 0.68fr) minmax(18rem, 1fr);
+  gap: 1.3rem;
+  border: 1px solid var(--contribution-line);
+  border-radius: 8px;
+  padding: clamp(1rem, 2.5vw, 1.55rem);
+  background: var(--contribution-surface);
+  box-shadow: 0 16px 38px rgba(0, 0, 0, 0.055);
+}
+
+.contribution-form-intro {
+  display: grid;
+  align-content: start;
+  gap: 0.65rem;
+}
+
+.contribution-form-intro h2 {
+  border: 0;
+  padding: 0;
+  color: var(--contribution-ink);
+  font-size: 1.55rem;
+  line-height: 1.12;
+}
+
+.contribution-form-intro p:last-child {
+  color: var(--contribution-muted);
+  line-height: 1.55;
+}
+
+.contribution-form {
+  display: grid;
+  gap: 0.82rem;
+}
+
+.contribution-hidden {
+  display: none;
+}
+
+.contribution-form label {
+  display: grid;
+  gap: 0.34rem;
+  color: var(--contribution-ink);
+  font-weight: 700;
+}
+
+.contribution-form label span {
+  font-size: 0.92rem;
+}
+
+.contribution-form input,
+.contribution-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--contribution-line);
+  border-radius: 6px;
+  padding: 0.72rem 0.78rem;
+  background: color-mix(in srgb, var(--light) 98%, #fff);
+  color: var(--contribution-ink);
+  font: inherit;
+  line-height: 1.35;
+}
+
+.contribution-form textarea {
+  resize: vertical;
+  min-height: 8rem;
+}
+
+.contribution-field-hint {
+  color: var(--contribution-muted);
+  font-size: 0.82rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.contribution-form input:focus,
+.contribution-form textarea:focus {
+  outline: 2px solid color-mix(in srgb, var(--secondary) 45%, transparent);
+  outline-offset: 2px;
+  border-color: var(--secondary);
+}
+
+.contribution-form__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.contribution-form button,
+.contribution-return a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid color-mix(in srgb, var(--secondary) 35%, var(--dark));
+  border-radius: 6px;
+  padding: 0.68rem 0.95rem;
+  background: var(--secondary);
+  color: var(--light);
+  font: inherit;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contribution-form button:hover,
+.contribution-return a:hover {
+  background: color-mix(in srgb, var(--secondary) 82%, var(--dark));
+}
+
+.contribution-form button:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
+.contribution-status {
+  min-height: 1.35rem;
+  color: var(--contribution-ink);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.45;
+  margin: -0.2rem 0 0;
+}
+
+.contribution-note {
+  color: var(--contribution-muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.contribution-hero--thanks {
+  grid-template-columns: 1fr;
+}
+
+.contribution-return {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.contribution-return a:last-child {
+  background: color-mix(in srgb, var(--light) 93%, var(--tertiary));
+  color: var(--contribution-ink);
+}
+
+@media all and (max-width: 600px) {
+  article {
+    .action-grid,
+    .path-grid,
+    .download-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .action-card,
+    .path-card,
+    .download-card {
+      min-height: auto;
+    }
+  }
+
+  .contribution-hero,
+  .contribution-process,
+  .contribution-form-shell,
+  .contribution-form__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contribution-page h1 {
+    max-width: 100%;
+    font-size: 2.25rem;
+    line-height: 1.04;
+  }
+
+  .contribution-lede {
+    font-size: 1rem;
+  }
+}

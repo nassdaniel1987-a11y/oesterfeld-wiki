@@ -1,0 +1,54 @@
+---
+tags: [qualität, ganztag, angebote, profil]
+---
+# Ganztagsschule: Angebotsstruktur
+
+> [!abstract] Kurzfassung
+> Diese Seite zeigt, wie Ganztagsangebote Interessen der Kinder, Schulprofil, Sozialraum und pädagogische Ziele zu einem stimmigen Programm verbinden.
+
+**Quelle:** Qualitätsrahmen Ganztagsschule BW (Qualitätsmerkmal 7.5)
+**Kategorie:** Struktur und Rahmenbedingungen
+
+## Kerngedanke
+Ganztagsangebote erweitern den schulischen Fokus auf die Persönlichkeitsentwicklung und Begabungsförderung. Sie beziehen den sozialen Nahraum aktiv ein und ermöglichen fächerübergreifendes, projektorientiertes und außerschulisches Lernen.
+
+Aktuelle Forschung zu Bewegungs-, Spiel- und Sportangeboten im Ganztag macht deutlich: Angebote entfalten ihre Qualität besonders dann, wenn sie zu den Interessen der Kinder, zu pädagogischen Zielen und zu den vorhandenen Räumen, Zeiten und Personalressourcen passen. Bewegung ist damit ein wichtiges Profilfeld, aber kein isolierter Programmpunkt (vgl. [[Bewegung_Spiel_und_Sport_im_Ganztag]]).
+
+Ein zweites starkes Profilfeld ist [[Forschendes_Lernen_im_Ganztag|forschendes Lernen]]: Kinderfragen werden zu MINT-, BNE-, Medien- oder Projektangeboten, die über Unterricht und Nachmittag hinweg anschlussfähig sind.
+
+## Standards
+- Das Ganztagskonzept berücksichtigt die schulspezifischen Rahmenbedingungen, den Bedarf der Kinder und die Möglichkeiten des sozialen Nahraums.
+- Lern- und Bildungsangebote werden regelmäßig auf ihre Passung überprüft.
+- Eine Kultur der Leistungsdarstellung in den Ganztagsprofilen stärkt die Schüler:innen.
+
+## Entwicklungsstufen (Rubrik)
+
+### Stufe 1: Initiieren
+- Das Konzept basiert auf einer fundierten Bedarfsanalyse.
+- Es gibt vertiefte Angebote aus Profilen wie: Bewegung, Kunst, Musik, Technik, Sprachen, Natur, Gesunde Lebensführung, Medienbildung.
+- Angebote sind mit dem Kollegium und Partnern abgestimmt.
+
+### Stufe 2: Implementieren
+- **Erprobung und Anpassung:** Angebote werden pilotiert und in Kooperation mit dem Entwicklungsbeirat weiterentwickelt.
+- **Lese- und Sprachförderung:** Findet als Querschnittsthema besondere Berücksichtigung (vgl. [[Sprache_und_Kommunikation]]).
+- **Transparenz:** Es gibt Prozessbeschreibungen zur Dokumentation und Koordination der Angebote.
+- **Leistungsdarstellung:** Erprobung von Formaten wie Portfolios, Lapbooks oder Themenheften zur formativen Rückmeldung an die Kinder.
+
+### Stufe 3: Institutionalisieren (Exzellenz)
+- **Vertieftes Angebot:** Die Schule verfügt über eine der Schulgröße angemessene Anzahl an voll ausgebauten Ganztagsprofilen.
+- **Systematische Abstimmung:** Unterricht und Ganztagsangebote bilden didaktisch ein sinnvolles Ganzes.
+- **Lesemotivation:** Zugang zu altersgerechter Literatur (z.B. über Büchereien) ist fester Bestandteil der Ganztagskultur.
+- **Zertifizierung:** Leistungen in den Ganztagsprofilen werden systematisch formativ rückgemeldet, dokumentiert und zertifiziert (z.B. als Anlage zum Zeugnis).
+
+## Verknüpfungen
+- Übergreifendes Konzept: [[Qualitaetsrahmen_Ganztagsschule_BW]]
+- Kompetenzbereiche: [[Aesthetische_Bildung]], [[Medienbildung]], [[Wahrnehmen_und_Denken]]
+- Bewegungsangebote: [[Bewegung_Spiel_und_Sport_im_Ganztag]], [[Bewegte_Schule]]
+- Forschungsangebote: [[Forschendes_Lernen_im_Ganztag]], [[Methode_Forschendes_Lernen]]
+- Forschung: [[Forschung_Ganztag_2024_2026]]
+
+<div class="next-step-box">
+  <strong>Nächster Schritt</strong>
+  <p>Plane ein Angebot ausgehend von Kinderinteressen und prüfe danach Zeit, Raum, Personal und Dokumentation.</p>
+  <p><a href="../07_Vorlagen_und_Praxis/Praxis_Angebot_planen">Praxisweg öffnen</a> <a href="../07_Vorlagen_und_Praxis/Vorlage_Angebotsplanung">Vorlage nutzen</a> <a href="../Forschendes_Lernen_im_Ganztag">Forschendes Lernen</a></p>
+</div>
