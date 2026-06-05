@@ -49,15 +49,17 @@ title: Beitragen
       </p>
     </div>
 
-<form class="contribution-form" name="content-suggestion" method="POST" action="/danke" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" onsubmit="sessionStorage.setItem('contentSuggestionSent', '1')">
+<form class="contribution-form" name="content-suggestion" method="POST" action="/danke" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" data-drive-upload-form>
 <input type="hidden" name="form-name" value="content-suggestion" />
 <input type="hidden" name="subject" value="Neuer Vorschlag fürs GTS Wiki" />
+<input type="hidden" name="drive_file_url" />
+<input type="hidden" name="drive_file_name" />
 <p class="contribution-hidden">
 <label>Nicht ausfüllen: <input name="bot-field" /></label>
 </p>
 <label>
 <span>Link zum Artikel oder Dokument</span>
-<input type="url" name="article_url" placeholder="https://..." autocomplete="url" required />
+<input type="url" name="article_url" placeholder="https://..." autocomplete="url" />
 </label>
 <label>
 <span>Kurze Notiz</span>
@@ -79,9 +81,12 @@ title: Beitragen
 </label>
 </div>
 <button type="submit">Vorschlag senden</button>
+<p class="contribution-status" data-contribution-status aria-live="polite"></p>
 <p class="contribution-note">
 Dein Hinweis wird nicht automatisch veröffentlicht. Er dient nur als Vorschlag für die redaktionelle Prüfung.
 </p>
 </form>
   </section>
 </div>
+
+<script src="/static/contribution-upload.js" defer></script>

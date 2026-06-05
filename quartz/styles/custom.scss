@@ -392,6 +392,20 @@ article {
   background: color-mix(in srgb, var(--secondary) 82%, var(--dark));
 }
 
+.contribution-form button:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
+.contribution-status {
+  min-height: 1.35rem;
+  color: var(--contribution-ink);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.45;
+  margin: -0.2rem 0 0;
+}
+
 .contribution-note {
   color: var(--contribution-muted);
   font-size: 0.9rem;
