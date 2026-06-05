@@ -1,0 +1,7 @@
+[build]
+  command = "npx quartz plugin install --from-config && npx quartz build"
+  publish = "public"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "22"
