@@ -19,6 +19,10 @@ type UploadResponse = {
   webContentLink?: string
 }
 
+type TokenResponse = {
+  access_token?: string
+}
+
 const json = (body: unknown, status = 200) =>
   new Response(JSON.stringify(body), {
     status,
@@ -59,7 +63,7 @@ const createJwt = (clientEmail: string, privateKey: string) => {
   return `${unsignedToken}.${base64Url(signature)}`
 }
 
-const getAccessToken = async (clientEmail: string, privateKey: string) => {
+const getServiceAccountAccessToken = async (clientEmail: string, privateKey: string) => {
   const response = await fetch(TOKEN_URL, {
     method: "POST",
     headers: {
@@ -76,12 +80,58 @@ const getAccessToken = async (clientEmail: string, privateKey: string) => {
     throw new Error(`Google token request failed: ${response.status} ${details}`)
   }
 
-  const token = (await response.json()) as { access_token?: string }
+  const token = (await response.json()) as TokenResponse
   if (!token.access_token) {
     throw new Error("Google token response did not include an access token")
   }
 
   return token.access_token
+}
+
+const getOAuthAccessToken = async (clientId: string, clientSecret: string, refreshToken: string) => {
+  const response = await fetch(TOKEN_URL, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
+    body: new URLSearchParams({
+      client_id: clientId,
+      client_secret: clientSecret,
+      refresh_token: refreshToken,
+      grant_type: "refresh_token",
+    }),
+  })
+
+  if (!response.ok) {
+    const details = await response.text()
+    throw new Error(`Google OAuth refresh failed: ${response.status} ${details}`)
+  }
+
+  const token = (await response.json()) as TokenResponse
+  if (!token.access_token) {
+    throw new Error("Google OAuth response did not include an access token")
+  }
+
+  return token.access_token
+}
+
+const getAccessToken = async () => {
+  const oauthClientId = getEnv("GOOGLE_OAUTH_CLIENT_ID")
+  const oauthClientSecret = getEnv("GOOGLE_OAUTH_CLIENT_SECRET")
+  const oauthRefreshToken = getEnv("GOOGLE_OAUTH_REFRESH_TOKEN")
+
+  if (oauthClientId && oauthClientSecret && oauthRefreshToken) {
+    return getOAuthAccessToken(oauthClientId, oauthClientSecret, oauthRefreshToken)
+  }
+
+  const clientEmail = getEnv("GOOGLE_SERVICE_ACCOUNT_EMAIL")
+  const privateKey = getPrivateKey()
+
+  if (clientEmail && privateKey) {
+    return getServiceAccountAccessToken(clientEmail, privateKey)
+  }
+
+  throw new Error("Drive upload is not configured")
 }
 
 const hasAllowedExtension = (name: string) => {
@@ -133,11 +183,9 @@ export default async (req: Request) => {
     return json({ error: "Method not allowed" }, 405)
   }
 
-  const clientEmail = getEnv("GOOGLE_SERVICE_ACCOUNT_EMAIL")
-  const privateKey = getPrivateKey()
   const folderId = getEnv("GOOGLE_DRIVE_FOLDER_ID")
 
-  if (!clientEmail || !privateKey || !folderId) {
+  if (!folderId) {
     return json({ error: "Drive upload is not configured" }, 500)
   }
 
@@ -157,7 +205,7 @@ export default async (req: Request) => {
   }
 
   try {
-    const accessToken = await getAccessToken(clientEmail, privateKey)
+    const accessToken = await getAccessToken()
     const uploadedFile = await uploadToDrive(attachment, accessToken, folderId)
 
     return json({

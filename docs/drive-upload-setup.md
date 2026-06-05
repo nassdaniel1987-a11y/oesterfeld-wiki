@@ -1,7 +1,11 @@
 # Google Drive Upload Setup
 
-Diese Schritte verbinden das Beitragsformular mit einem Google-Drive-Ordner. Die Webseite speichert
-keine Google-Secrets im Repository. Die sensiblen Werte gehoeren nur in Netlify Environment Variables.
+Diese Schritte verbinden das Beitragsformular mit einem Google-Drive-Ordner. Fuer normale kostenlose
+Google-Konten nutzt die Function OAuth mit deinem Google-Konto. Dadurch zaehlen Uploads gegen deinen
+Google-Drive-Speicher und nicht gegen einen Service Account ohne Speicherplatz.
+
+Die Webseite speichert keine Google-Secrets im Repository. Die sensiblen Werte gehoeren nur in
+Netlify Environment Variables.
 
 ## 1. Google-Drive-Ordner vorbereiten
 
@@ -24,55 +28,72 @@ ABC123xyz
 
 Diese ID wird spaeter `GOOGLE_DRIVE_FOLDER_ID`.
 
-## 2. Google Cloud Projekt und Drive API
+## 2. Google Drive API aktivieren
 
 1. Oeffne https://console.cloud.google.com/
-2. Erstelle ein neues Projekt oder waehle ein bestehendes Projekt.
+2. Waehle dein Projekt.
 3. Suche oben nach `Google Drive API`.
 4. Oeffne die Google Drive API.
 5. Klicke auf `Enable` bzw. `Aktivieren`.
 
-## 3. Service Account erstellen
+## 3. OAuth-Zustimmungsbildschirm
 
-1. In Google Cloud: `IAM & Admin` -> `Service Accounts`.
-2. Klicke auf `Create service account`.
-3. Name: zum Beispiel `gts-wiki-drive-upload`.
-4. Klicke weiter und fertigstellen. Eine Projektrolle ist fuer diesen Fall nicht noetig, weil der
-   Service Account nur Zugriff auf den Drive-Ordner bekommt, den du gleich explizit teilst.
-5. Oeffne den Service Account.
-6. Kopiere die Service-Account-E-Mail.
+1. In Google Cloud: `APIs und Dienste` -> `OAuth-Zustimmungsbildschirm`.
+2. User Type: `External`, falls gefragt.
+3. App-Name: zum Beispiel `GTS Wiki Upload`.
+4. User support email: deine E-Mail.
+5. Developer contact information: deine E-Mail.
+6. Speichern.
+7. Unter `Test users` deine eigene Google-E-Mail hinzufuegen.
 
-Diese E-Mail wird spaeter:
+Die App muss nicht veroeffentlicht werden, solange nur dein Konto den Refresh Token erzeugt.
 
-```text
-GOOGLE_SERVICE_ACCOUNT_EMAIL
-```
+## 4. OAuth Client erstellen
 
-## 4. Drive-Ordner mit Service Account teilen
-
-1. Zurueck zu Google Drive.
-2. Rechtsklick auf den Ordner `GTS Wiki Vorschlaege`.
-3. `Share` bzw. `Freigeben`.
-4. Fuege die Service-Account-E-Mail hinzu.
-5. Rolle: `Editor`.
-6. Freigeben.
-
-## 5. JSON-Key erstellen
-
-1. In Google Cloud wieder den Service Account oeffnen.
-2. Tab `Keys`.
-3. `Add key` -> `Create new key`.
-4. `JSON` auswaehlen.
-5. Datei herunterladen.
-
-Aus dieser JSON-Datei brauchst du:
+1. In Google Cloud: `APIs und Dienste` -> `Anmeldedaten`.
+2. `+ Anmeldedaten erstellen` -> `OAuth-Client-ID`.
+3. Anwendungstyp: `Webanwendung`.
+4. Name: zum Beispiel `Netlify Drive Upload`.
+5. Autorisierte Weiterleitungs-URI hinzufuegen:
 
 ```text
-client_email
-private_key
+https://developers.google.com/oauthplayground
 ```
 
-Wichtig: Diese JSON-Datei nicht ins Repository legen und nicht oeffentlich teilen.
+6. Erstellen.
+7. `Client-ID` und `Clientschluessel` kopieren.
+
+Diese Werte werden spaeter:
+
+```text
+GOOGLE_OAUTH_CLIENT_ID
+GOOGLE_OAUTH_CLIENT_SECRET
+```
+
+## 5. Refresh Token erzeugen
+
+1. Oeffne https://developers.google.com/oauthplayground
+2. Rechts oben auf das Zahnrad klicken.
+3. `Use your own OAuth credentials` aktivieren.
+4. OAuth Client ID und OAuth Client Secret eintragen.
+5. Links in der Scope-Liste `Drive API v3` oeffnen.
+6. Diesen Scope auswaehlen:
+
+```text
+https://www.googleapis.com/auth/drive.file
+```
+
+7. `Authorize APIs` klicken.
+8. Mit deinem Google-Konto anmelden.
+9. Warnhinweis akzeptieren, falls die App noch im Testmodus ist.
+10. `Exchange authorization code for tokens` klicken.
+11. Den `Refresh token` kopieren.
+
+Dieser Wert wird spaeter:
+
+```text
+GOOGLE_OAUTH_REFRESH_TOKEN
+```
 
 ## 6. Netlify Environment Variables setzen
 
@@ -83,22 +104,29 @@ In Netlify:
 3. `Environment variables`.
 4. `Add environment variable`.
 
-Lege diese drei Variablen an:
+Lege diese vier Variablen an:
+
+```text
+GOOGLE_OAUTH_CLIENT_ID
+GOOGLE_OAUTH_CLIENT_SECRET
+GOOGLE_OAUTH_REFRESH_TOKEN
+GOOGLE_DRIVE_FOLDER_ID
+```
+
+Empfehlung:
+
+- `GOOGLE_OAUTH_CLIENT_SECRET` als Secret markieren.
+- `GOOGLE_OAUTH_REFRESH_TOKEN` als Secret markieren.
+- Scopes: mindestens `Functions`, gern `All scopes`.
+
+Die alten Service-Account-Variablen werden fuer den OAuth-Weg nicht mehr gebraucht:
 
 ```text
 GOOGLE_SERVICE_ACCOUNT_EMAIL
 GOOGLE_PRIVATE_KEY
-GOOGLE_DRIVE_FOLDER_ID
 ```
 
-Werte:
-
-- `GOOGLE_SERVICE_ACCOUNT_EMAIL`: Wert aus `client_email`.
-- `GOOGLE_PRIVATE_KEY`: kompletter Wert aus `private_key`, inklusive `-----BEGIN PRIVATE KEY-----`.
-- `GOOGLE_DRIVE_FOLDER_ID`: die Ordner-ID aus Google Drive.
-
-Bei `GOOGLE_PRIVATE_KEY` kann der Wert mit echten Zeilenumbruechen oder mit `\n` gespeichert werden.
-Die Function kann beides lesen.
+Sie koennen entfernt werden, sobald OAuth funktioniert.
 
 ## 7. Redeploy und Test
 
