@@ -8,7 +8,7 @@ const WikiExplorer = () =>
     useSavedState: true,
     order: ["filter", "map", "sort"],
     filterFn: (node) => {
-      const hidden = new Set(["tags", "meta", "Clippings", "raw", "Claude", "refactor"])
+      const hidden = new Set(["tags", "meta", "Clippings", "raw", "Claude", "refactor", "danke"])
       return !hidden.has(node.slugSegment)
     },
     mapFn: (node) => {

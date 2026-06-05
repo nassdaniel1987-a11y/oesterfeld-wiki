@@ -13,7 +13,7 @@ title: Beitragen
         dann Wiki-Inhalt, wenn er fachlich geprüft und bewusst eingepflegt wurde.
       </p>
       <div class="contribution-proof">
-        <span>kurz</span>
+        <span>Link oder Datei</span>
         <span>geprüft</span>
         <span>nicht automatisch veröffentlicht</span>
       </div>
@@ -23,8 +23,8 @@ title: Beitragen
   <section class="contribution-process" aria-label="Beitragsprozess">
     <div>
       <p>01</p>
-      <strong>Link senden</strong>
-      <p>Du teilst eine Quelle mit kurzer Einordnung.</p>
+      <strong>Quelle senden</strong>
+      <p>Du teilst einen Link oder ein Dokument mit kurzer Einordnung.</p>
     </div>
     <div>
       <p>02</p>
@@ -43,12 +43,13 @@ title: Beitragen
       <p class="contribution-kicker">Vorschlag einreichen</p>
       <h2>Ein guter Link reicht für den Anfang.</h2>
       <p>
-        Eine kurze Notiz hilft beim Einordnen: Warum ist die Quelle nützlich? Für welches Thema im
-        Ganztag könnte sie relevant sein?
+        Du kannst zusätzlich ein PDF oder Word-Dokument anhängen. Eine kurze Notiz hilft beim
+        Einordnen: Warum ist die Quelle nützlich? Für welches Thema im Ganztag könnte sie relevant
+        sein?
       </p>
     </div>
 
-<form class="contribution-form" name="content-suggestion" method="POST" action="/danke" data-netlify="true" netlify-honeypot="bot-field">
+<form class="contribution-form" name="content-suggestion" method="POST" action="/danke" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field" onsubmit="sessionStorage.setItem('contentSuggestionSent', '1')">
 <input type="hidden" name="form-name" value="content-suggestion" />
 <input type="hidden" name="subject" value="Neuer Vorschlag fürs GTS Wiki" />
 <p class="contribution-hidden">
@@ -61,6 +62,11 @@ title: Beitragen
 <label>
 <span>Kurze Notiz</span>
 <textarea name="note" rows="5" placeholder="Warum ist die Quelle interessant? Wo könnte sie im Wiki helfen?"></textarea>
+</label>
+<label>
+<span>Dokument anhängen</span>
+<input type="file" name="attachment" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+<small class="contribution-field-hint">Optional: PDF, DOC oder DOCX. Sehr große Dateien lieber als Cloud-Link senden.</small>
 </label>
 <div class="contribution-form__grid">
 <label>
