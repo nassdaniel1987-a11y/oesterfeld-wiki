@@ -33,7 +33,11 @@
 
 body {
   background:
-    linear-gradient(180deg, color-mix(in srgb, var(--gts-bg) 96%, var(--gts-surface-raised)) 0%, var(--gts-bg) 34rem),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--gts-bg) 96%, var(--gts-surface-raised)) 0%,
+      var(--gts-bg) 34rem
+    ),
     var(--gts-bg);
 }
 
@@ -260,7 +264,11 @@ a.internal {
   border-radius: var(--gts-radius);
   padding: clamp(1.2rem, 3vw, 2.25rem);
   background:
-    linear-gradient(135deg, color-mix(in srgb, var(--gts-surface) 94%, var(--gts-amber-wash)), var(--gts-surface)),
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--gts-surface) 94%, var(--gts-amber-wash)),
+      var(--gts-surface)
+    ),
     var(--gts-surface);
   box-shadow: var(--gts-shadow);
 }
@@ -1344,7 +1352,9 @@ body:not([data-slug="index"]) .article-title {
     place-items: center;
     cursor: pointer;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22);
-    transition: transform 0.15s ease, background 0.15s ease;
+    transition:
+      transform 0.15s ease,
+      background 0.15s ease;
 
     &:hover {
       transform: translateY(-2px);
@@ -1369,6 +1379,10 @@ body:not([data-slug="index"]) .article-title {
     border-radius: 16px;
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
     overflow: hidden;
+
+    &[hidden] {
+      display: none;
+    }
   }
 
   &__head {

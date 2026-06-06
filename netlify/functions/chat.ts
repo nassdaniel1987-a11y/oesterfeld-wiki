@@ -5,7 +5,7 @@
 // AUSSCHLIESSLICH auf deren Basis antworten. Die LLM-Anbindung ist hier
 // gekapselt – ein späterer Wechsel des Anbieters betrifft nur diese Datei.
 
-const GENERATION_MODEL = "gemini-2.0-flash"
+const GENERATION_MODEL = "gemini-2.5-flash"
 const EMBEDDING_MODEL = "gemini-embedding-001"
 const EMBED_DIM = 768
 const GEN_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GENERATION_MODEL}:generateContent`
@@ -243,7 +243,9 @@ export default async (req: Request) => {
     return json({ answer, sources: isMiss ? [] : dedupeSources(contextChunks) })
   } catch (error) {
     console.error(error)
-    return json({ error: "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." }, 500)
+    // Vorübergehend echten Fehlertext zurückgeben, um Probleme zu diagnostizieren.
+    const detail = error instanceof Error ? error.message : String(error)
+    return json({ error: `Serverfehler: ${detail}` }, 500)
   }
 }
 

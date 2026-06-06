@@ -5,7 +5,7 @@
   if (window.__wikiChatMounted) return
   window.__wikiChatMounted = true
 
-  const STORAGE_KEY = "wikiChatHistory"
+  const STORAGE_KEY = "wikiChatHistory_v2"
   const STARTERS = [
     "Wie plane ich ein Angebot?",
     "Was ist forschendes Lernen?",
@@ -103,29 +103,33 @@
       : ""
 
   const renderMessages = () => {
-    if (history.length === 0) {
-      messagesEl.innerHTML = `
-        <div class="wiki-chat__intro">
-          <p>Hallo! Ich beantworte Fragen auf Basis der Wiki-Inhalte – mit Quellenangabe.</p>
-          <div class="wiki-chat__starters">
-            ${STARTERS.map((q) => `<button type="button" class="wiki-chat__starter">${escapeHtml(q)}</button>`).join("")}
-          </div>
-        </div>`
-      messagesEl.querySelectorAll(".wiki-chat__starter").forEach((b) =>
-        b.addEventListener("click", () => {
-          input.value = b.textContent
-          send()
-        }),
-      )
-      return
-    }
-    messagesEl.innerHTML = history
+    const intro = `
+      <div class="wiki-chat__intro">
+        <p>Hallo! Ich beantworte Fragen <strong>nur auf Basis der Wiki-Inhalte</strong> – immer mit Quellenangabe. Frag nach einem Thema, oder schreib auf einer Seite „fasse das zusammen".</p>
+        ${
+          history.length === 0
+            ? `<div class="wiki-chat__starters">${STARTERS.map(
+                (q) => `<button type="button" class="wiki-chat__starter">${escapeHtml(q)}</button>`,
+              ).join("")}</div>`
+            : ""
+        }
+      </div>`
+
+    const msgs = history
       .map((m) =>
         m.role === "user"
           ? `<div class="wiki-chat__msg wiki-chat__msg--user">${escapeHtml(m.content)}</div>`
           : `<div class="wiki-chat__msg wiki-chat__msg--bot">${renderMarkdown(m.content)}${sourcesHtml(m.sources)}</div>`,
       )
       .join("")
+
+    messagesEl.innerHTML = intro + msgs
+    messagesEl.querySelectorAll(".wiki-chat__starter").forEach((b) =>
+      b.addEventListener("click", () => {
+        input.value = b.textContent
+        send()
+      }),
+    )
     messagesEl.scrollTop = messagesEl.scrollHeight
   }
 
@@ -172,7 +176,8 @@
       setLoading(false)
       history.push({
         role: "assistant",
-        content: "Das hat leider nicht geklappt. Bitte versuche es gleich noch einmal.",
+        content:
+          "⚠️ " + (err.message || "Das hat leider nicht geklappt. Bitte versuche es erneut."),
       })
     } finally {
       busy = false
