@@ -86,6 +86,13 @@
     </section>`
   document.body.appendChild(root)
 
+  // Quartz nutzt SPA-Navigation (micromorph) und entfernt dabei dieses dynamisch
+  // angehängte Overlay. Nach jeder Navigation wieder einhängen.
+  const ensureMounted = () => {
+    if (!document.body.contains(root)) document.body.appendChild(root)
+  }
+  document.addEventListener("nav", ensureMounted)
+
   const toggle = root.querySelector(".wiki-chat__toggle")
   const panel = root.querySelector(".wiki-chat__panel")
   const closeBtn = root.querySelector(".wiki-chat__close")
