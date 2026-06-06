@@ -16,7 +16,8 @@ const ROOT = join(__dirname, "..")
 const CONTENT_INDEX = join(ROOT, "public", "static", "contentIndex.json")
 const OUTPUT = join(ROOT, "public", "static", "wiki-chat-index.json")
 
-const EMBEDDING_MODEL = "text-embedding-004"
+const EMBEDDING_MODEL = "gemini-embedding-001"
+const EMBED_DIM = 768
 const EMBEDDING_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:batchEmbedContents`
 
 // Chunk-Parameter (contentIndex.content ist reiner Text mit Zeilenumbrüchen)
@@ -110,6 +111,7 @@ const embedBatch = async (texts) => {
       model: `models/${EMBEDDING_MODEL}`,
       content: { parts: [{ text }] },
       taskType: "RETRIEVAL_DOCUMENT",
+      outputDimensionality: EMBED_DIM,
     })),
   }
   const res = await fetch(`${EMBEDDING_ENDPOINT}?key=${API_KEY}`, {

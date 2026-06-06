@@ -6,7 +6,8 @@
 // gekapselt – ein späterer Wechsel des Anbieters betrifft nur diese Datei.
 
 const GENERATION_MODEL = "gemini-2.0-flash"
-const EMBEDDING_MODEL = "text-embedding-004"
+const EMBEDDING_MODEL = "gemini-embedding-001"
+const EMBED_DIM = 768
 const GEN_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GENERATION_MODEL}:generateContent`
 const EMBED_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:embedContent`
 
@@ -90,6 +91,7 @@ const embedQuestion = async (apiKey: string, question: string): Promise<number[]
       model: `models/${EMBEDDING_MODEL}`,
       content: { parts: [{ text: question }] },
       taskType: "RETRIEVAL_QUERY",
+      outputDimensionality: EMBED_DIM,
     }),
   })
   if (!res.ok) {
