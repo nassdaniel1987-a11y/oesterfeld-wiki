@@ -106,6 +106,7 @@ export default (() => {
             return resource
           }
         })}
+        <script src={joinSegments(baseDir, "static/chatbot.js")} defer />
       </head>
     )
   }

@@ -1,5 +1,5 @@
 [build]
-  command = "rm -f quartz.lock.json && npx quartz plugin install --from-config && npx quartz build"
+  command = "rm -f quartz.lock.json && npx quartz plugin install --from-config && npx quartz build && node scripts/build-chat-index.mjs"
   publish = "public"
   functions = "netlify/functions"
 
