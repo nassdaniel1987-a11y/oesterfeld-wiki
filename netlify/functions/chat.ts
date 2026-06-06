@@ -122,7 +122,7 @@ const buildSystemPrompt = (chunks: IndexChunk[], currentPageTitle?: string) => {
     .map((c, i) => `[Quelle ${i + 1}: ${c.title} (${c.url})]\n${c.text}`)
     .join("\n\n---\n\n")
   const pageHint = currentPageTitle
-    ? `\n- Der Nutzer liest gerade die Seite "${currentPageTitle}". Bei Formulierungen wie "diese Seite", "das hier" oder "fasse zusammen" beziehe dich auf diese Seite.`
+    ? `\n- Der Nutzer liest gerade die Seite "${currentPageTitle}". Formulierungen wie "diese Seite", "das hier" oder "fasse zusammen" beziehen sich auf den Inhalt dieser Seite (die obigen Auszüge) – NICHT auf vorherige Nachrichten.`
     : ""
   return `Du bist der Assistent des "GTS Wiki Österfeld", einer pädagogischen Wissensdatenbank zur Ganztagsschule.
 
@@ -237,7 +237,11 @@ export default async (req: Request) => {
     }
 
     const systemPrompt = buildSystemPrompt(contextChunks, usePage ? pageChunks[0].title : undefined)
-    const answer = await generateAnswer(accountId, token, systemPrompt, messages)
+    // Bei Seiten-Zusammenfassungen den Gesprächsverlauf weglassen, damit sich
+    // "das"/"zusammenfassen" eindeutig auf die aktuelle Seite bezieht und nicht
+    // auf vorherige Nachrichten.
+    const promptMessages = usePage ? [{ role: "user" as const, content: question }] : messages
+    const answer = await generateAnswer(accountId, token, systemPrompt, promptMessages)
 
     const isMiss = answer.startsWith("Dazu finde ich im Wiki nichts")
     return json({ answer, sources: isMiss ? [] : dedupeSources(contextChunks) })
