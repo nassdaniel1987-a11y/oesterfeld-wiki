@@ -24,7 +24,11 @@ const EMBEDDING_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/mod
 const MAX_CHUNK_CHARS = 1400
 const CHUNK_OVERLAP_CHARS = 200
 const MIN_PAGE_CHARS = 120
-const BATCH_SIZE = 50 // Gemini batchEmbedContents erlaubt bis zu 100 pro Request
+// Im Gratis-Tier zählt jeder Inhalt einzeln gegen das Limit von 100 Embedding-
+// Anfragen/Minute. Kleine Batches + Drosselung halten uns darunter.
+const BATCH_SIZE = 40
+const REQUESTS_PER_MINUTE = 90
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 const API_KEY = process.env.GEMINI_API_KEY
 if (!API_KEY) {
@@ -105,7 +109,7 @@ const buildChunks = (contentIndex) => {
   return chunks
 }
 
-const embedBatch = async (texts) => {
+const embedBatch = async (texts, attempt = 0) => {
   const body = {
     requests: texts.map((text) => ({
       model: `models/${EMBEDDING_MODEL}`,
@@ -119,6 +123,15 @@ const embedBatch = async (texts) => {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(body),
   })
+
+  if (res.status === 429 && attempt < 8) {
+    const detail = await res.text()
+    const match = detail.match(/retry in ([\d.]+)s/i) || detail.match(/"retryDelay":\s*"(\d+)s"/i)
+    const waitSec = Math.ceil(parseFloat(match?.[1] ?? "60")) + 2
+    console.log(`[chat-index] Rate-Limit (429) – warte ${waitSec}s und versuche erneut …`)
+    await sleep(waitSec * 1000)
+    return embedBatch(texts, attempt + 1)
+  }
   if (!res.ok) {
     throw new Error(`Embedding-Request fehlgeschlagen: ${res.status} ${await res.text()}`)
   }
@@ -134,9 +147,24 @@ const main = async () => {
   )
 
   const records = []
+  let windowStart = Date.now()
+  let sentInWindow = 0
   for (let i = 0; i < chunks.length; i += BATCH_SIZE) {
     const batch = chunks.slice(i, i + BATCH_SIZE)
+
+    // Pro-Minute-Limit proaktiv einhalten (jeder Chunk = eine Anfrage).
+    if (sentInWindow + batch.length > REQUESTS_PER_MINUTE) {
+      const wait = Math.max(0, 60000 - (Date.now() - windowStart))
+      if (wait > 0) {
+        console.log(`[chat-index] Drossel: warte ${Math.ceil(wait / 1000)}s (Pro-Minute-Limit) …`)
+        await sleep(wait)
+      }
+      windowStart = Date.now()
+      sentInWindow = 0
+    }
+
     const embeddings = await embedBatch(batch.map((c) => c.embedText))
+    sentInWindow += batch.length
     batch.forEach((c, j) => {
       records.push({
         text: c.text,
