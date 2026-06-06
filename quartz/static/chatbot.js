@@ -72,10 +72,15 @@
       <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path fill="currentColor" d="M12 3C6.5 3 2 6.6 2 11c0 2.4 1.3 4.6 3.5 6.1-.1 1-.5 2.3-1.4 3.4-.2.2 0 .6.3.5 1.9-.4 3.4-1.2 4.4-1.9 1 .2 2.1.4 3.2.4 5.5 0 10-3.6 10-8s-4.5-8-10-8Z"/></svg>
     </button>
     <section class="wiki-chat__panel" hidden aria-label="Wiki-Assistent">
-      <header class="wiki-chat__head">
+      <header class="wiki-chat__head" title="Ziehen zum Verschieben · Doppelklick: zurücksetzen">
         <div><strong>Frag das Wiki</strong><span>Antworten nur aus dem Wiki</span></div>
         <button class="wiki-chat__close" aria-label="Schließen">&times;</button>
       </header>
+      <span class="wiki-chat__resize wiki-chat__resize--n" aria-hidden="true"></span>
+      <span class="wiki-chat__resize wiki-chat__resize--w" aria-hidden="true"></span>
+      <span class="wiki-chat__resize wiki-chat__resize--nw" aria-hidden="true"></span>
+      <span class="wiki-chat__resize wiki-chat__resize--ne" aria-hidden="true"></span>
+      <span class="wiki-chat__resize wiki-chat__resize--sw" aria-hidden="true"></span>
       <div class="wiki-chat__messages" role="log" aria-live="polite"></div>
       <form class="wiki-chat__form">
         <textarea class="wiki-chat__input" rows="1" placeholder="Frage stellen…" aria-label="Frage"></textarea>
@@ -225,5 +230,138 @@
   })
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && !panel.hidden) closePanel()
+  })
+
+  // --- Verschieben & Größe ändern ----------------------------------------
+  // Position & Größe sind absolut über right/bottom/width/height. Werte in
+  // sessionStorage, damit sie SPA-Navigation überleben.
+  const GEOM_KEY = "wikiChatGeometry_v1"
+  const MIN_W = 320
+  const MIN_H = 360
+  const isMobile = () => window.matchMedia("(max-width: 480px)").matches
+
+  const applyGeometry = (g) => {
+    if (!g || isMobile()) return
+    if (typeof g.right === "number") panel.style.right = g.right + "px"
+    if (typeof g.bottom === "number") panel.style.bottom = g.bottom + "px"
+    if (typeof g.width === "number") panel.style.width = g.width + "px"
+    if (typeof g.height === "number") panel.style.height = g.height + "px"
+  }
+  const resetGeometry = () => {
+    panel.style.right = ""
+    panel.style.bottom = ""
+    panel.style.width = ""
+    panel.style.height = ""
+    try {
+      sessionStorage.removeItem(GEOM_KEY)
+    } catch {}
+  }
+  const saveGeometry = () => {
+    if (isMobile()) return
+    try {
+      const r = panel.getBoundingClientRect()
+      sessionStorage.setItem(
+        GEOM_KEY,
+        JSON.stringify({
+          right: window.innerWidth - r.right,
+          bottom: window.innerHeight - r.bottom,
+          width: r.width,
+          height: r.height,
+        }),
+      )
+    } catch {}
+  }
+  try {
+    applyGeometry(JSON.parse(sessionStorage.getItem(GEOM_KEY) || "null"))
+  } catch {}
+
+  // Drag am Header (außer auf dem Schließen-Button)
+  const head = root.querySelector(".wiki-chat__head")
+  head.addEventListener("pointerdown", (e) => {
+    if (isMobile()) return
+    if (e.target.closest("button")) return
+    const r = panel.getBoundingClientRect()
+    const startX = e.clientX
+    const startY = e.clientY
+    const startRight = window.innerWidth - r.right
+    const startBottom = window.innerHeight - r.bottom
+    head.setPointerCapture(e.pointerId)
+    head.classList.add("wiki-chat__head--dragging")
+
+    const onMove = (ev) => {
+      const dx = ev.clientX - startX
+      const dy = ev.clientY - startY
+      const maxRight = window.innerWidth - r.width - 4
+      const maxBottom = window.innerHeight - r.height - 4
+      panel.style.right = Math.min(maxRight, Math.max(4, startRight - dx)) + "px"
+      panel.style.bottom = Math.min(maxBottom, Math.max(4, startBottom - dy)) + "px"
+    }
+    const onUp = () => {
+      head.classList.remove("wiki-chat__head--dragging")
+      head.removeEventListener("pointermove", onMove)
+      head.removeEventListener("pointerup", onUp)
+      saveGeometry()
+    }
+    head.addEventListener("pointermove", onMove)
+    head.addEventListener("pointerup", onUp)
+  })
+  head.addEventListener("dblclick", (e) => {
+    if (e.target.closest("button")) return
+    resetGeometry()
+  })
+
+  // Resize-Anfasser an N / W / NW / NE / SW
+  const resizeDirs = {
+    n: { top: true },
+    w: { left: true },
+    nw: { top: true, left: true },
+    ne: { top: true, right: true },
+    sw: { bottom: true, left: true },
+  }
+  root.querySelectorAll(".wiki-chat__resize").forEach((handle) => {
+    const dir = [...handle.classList]
+      .find((c) => c.startsWith("wiki-chat__resize--"))
+      .split("--")[1]
+    const sides = resizeDirs[dir]
+    handle.addEventListener("pointerdown", (e) => {
+      if (isMobile()) return
+      e.preventDefault()
+      const r = panel.getBoundingClientRect()
+      const startX = e.clientX
+      const startY = e.clientY
+      const startW = r.width
+      const startH = r.height
+      const startRight = window.innerWidth - r.right
+      const startBottom = window.innerHeight - r.bottom
+      handle.setPointerCapture(e.pointerId)
+
+      const onMove = (ev) => {
+        const dx = ev.clientX - startX
+        const dy = ev.clientY - startY
+        if (sides.left) {
+          const w = Math.max(MIN_W, Math.min(window.innerWidth - 8, startW - dx))
+          panel.style.width = w + "px"
+        }
+        if (sides.right) {
+          const w = Math.max(MIN_W, Math.min(window.innerWidth - startRight - 4, startW + dx))
+          panel.style.width = w + "px"
+        }
+        if (sides.top) {
+          const h = Math.max(MIN_H, Math.min(window.innerHeight - 8, startH - dy))
+          panel.style.height = h + "px"
+        }
+        if (sides.bottom) {
+          const h = Math.max(MIN_H, Math.min(window.innerHeight - startBottom - 4, startH + dy))
+          panel.style.height = h + "px"
+        }
+      }
+      const onUp = () => {
+        handle.removeEventListener("pointermove", onMove)
+        handle.removeEventListener("pointerup", onUp)
+        saveGeometry()
+      }
+      handle.addEventListener("pointermove", onMove)
+      handle.addEventListener("pointerup", onUp)
+    })
   })
 })()

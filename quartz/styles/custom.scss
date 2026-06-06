@@ -1367,11 +1367,11 @@ body:not([data-slug="index"]) .article-title {
   }
 
   &__panel {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: min(380px, calc(100vw - 2rem));
-    height: min(560px, calc(100vh - 2.5rem));
+    position: fixed;
+    right: 1.25rem;
+    bottom: 5.5rem;
+    width: min(440px, calc(100vw - 2rem));
+    height: min(640px, calc(100vh - 6.5rem));
     display: flex;
     flex-direction: column;
     background: var(--light);
@@ -1385,6 +1385,52 @@ body:not([data-slug="index"]) .article-title {
     }
   }
 
+  &__head--dragging {
+    cursor: grabbing !important;
+  }
+
+  &__resize {
+    position: absolute;
+    background: transparent;
+    z-index: 2;
+    touch-action: none;
+  }
+  &__resize--n {
+    top: 0;
+    left: 12px;
+    right: 12px;
+    height: 6px;
+    cursor: ns-resize;
+  }
+  &__resize--w {
+    left: 0;
+    top: 12px;
+    bottom: 12px;
+    width: 6px;
+    cursor: ew-resize;
+  }
+  &__resize--nw {
+    top: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    cursor: nwse-resize;
+  }
+  &__resize--ne {
+    top: 0;
+    right: 0;
+    width: 14px;
+    height: 14px;
+    cursor: nesw-resize;
+  }
+  &__resize--sw {
+    bottom: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    cursor: nesw-resize;
+  }
+
   &__head {
     display: flex;
     align-items: center;
@@ -1393,6 +1439,10 @@ body:not([data-slug="index"]) .article-title {
     padding: 0.9rem 1rem;
     background: var(--secondary);
     color: var(--light);
+    cursor: grab;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
 
     strong {
       font-family: var(--headerFont);
@@ -1596,10 +1646,16 @@ body:not([data-slug="index"]) .article-title {
 
 @media (max-width: 480px) {
   .wiki-chat__panel {
-    width: 100vw;
-    height: 100vh;
-    right: -1.25rem;
-    bottom: -1.25rem;
+    width: 100vw !important;
+    height: 100vh !important;
+    right: 0 !important;
+    bottom: 0 !important;
     border-radius: 0;
+  }
+  .wiki-chat__head {
+    cursor: default;
+  }
+  .wiki-chat__resize {
+    display: none;
   }
 }
