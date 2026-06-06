@@ -3,38 +3,41 @@
 // Liest die von Quartz erzeugte public/static/contentIndex.json (bereits
 // HTML-bereinigt und um Drafts/Private gefiltert), zerlegt jede Seite in
 // Chunks, holt für jeden Chunk ein Gemini-Embedding und schreibt das Ergebnis
-// nach public/static/wiki-chat-index.json.
+// nach quartz/static/wiki-chat-index.json.
 //
-// Wird im Netlify-Build NACH `quartz build` ausgeführt. Benötigt GEMINI_API_KEY.
+// WICHTIG: Der erzeugte Index wird ins Repo committet. Existiert er bereits,
+// überspringt dieser Schritt das (kontingentierte) Einbetten komplett – Deploys
+// rufen dann nie die Embedding-API auf. Neu erzeugen: Datei löschen oder mit
+// FORCE_CHAT_INDEX=1 starten. Lokal aufrufbar via `npm run build-chat-index`.
 
 import { readFile, writeFile } from "node:fs/promises"
+import { existsSync } from "node:fs"
 import { fileURLToPath } from "node:url"
 import { dirname, join } from "node:path"
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, "..")
 const CONTENT_INDEX = join(ROOT, "public", "static", "contentIndex.json")
-const OUTPUT = join(ROOT, "public", "static", "wiki-chat-index.json")
+// In quartz/static, damit die Datei ins Repo committet und vom Static-Emitter
+// nach public/static/ ausgeliefert wird.
+const OUTPUT = join(ROOT, "quartz", "static", "wiki-chat-index.json")
 
 const EMBEDDING_MODEL = "gemini-embedding-001"
 const EMBED_DIM = 768
 const EMBEDDING_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:batchEmbedContents`
 
-// Chunk-Parameter (contentIndex.content ist reiner Text mit Zeilenumbrüchen)
-const MAX_CHUNK_CHARS = 1400
-const CHUNK_OVERLAP_CHARS = 200
+// Größere Chunks (~seitenweise) halten die Gesamtzahl der Embeddings klein,
+// damit eine einmalige Generierung unter den Gratis-Limits bleibt.
+const MAX_CHUNK_CHARS = 5000
+const CHUNK_OVERLAP_CHARS = 300
 const MIN_PAGE_CHARS = 120
-// Im Gratis-Tier zählt jeder Inhalt einzeln gegen das Limit von 100 Embedding-
-// Anfragen/Minute. Kleine Batches + Drosselung halten uns darunter.
+// Jeder Inhalt zählt einzeln gegen das Pro-Minute-Limit (100). Kleine Batches +
+// Drosselung halten uns darunter.
 const BATCH_SIZE = 40
 const REQUESTS_PER_MINUTE = 90
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 const API_KEY = process.env.GEMINI_API_KEY
-if (!API_KEY) {
-  console.error("[chat-index] GEMINI_API_KEY ist nicht gesetzt – Index wird nicht erzeugt.")
-  process.exit(1)
-}
 
 const isExcludedSlug = (slug) =>
   slug.startsWith("tags/") || slug === "index" || slug.endsWith("/index")
@@ -140,6 +143,16 @@ const embedBatch = async (texts, attempt = 0) => {
 }
 
 const main = async () => {
+  if (existsSync(OUTPUT) && !process.env.FORCE_CHAT_INDEX) {
+    console.log(`[chat-index] Index bereits vorhanden (${OUTPUT}) – überspringe Embedding.`)
+    return
+  }
+  if (!API_KEY) {
+    console.warn(
+      "[chat-index] WARN: GEMINI_API_KEY fehlt – Index wird nicht erzeugt, Build läuft weiter.",
+    )
+    return
+  }
   const contentIndex = JSON.parse(await readFile(CONTENT_INDEX, "utf8"))
   const chunks = buildChunks(contentIndex)
   console.log(
@@ -189,6 +202,10 @@ const main = async () => {
 }
 
 main().catch((err) => {
-  console.error("[chat-index] Fehler:", err)
-  process.exit(1)
+  // Den Deploy nicht abbrechen – ohne Index funktioniert nur der Chat (noch) nicht.
+  console.warn(
+    "[chat-index] WARN: Index konnte nicht erzeugt werden, Build läuft weiter:",
+    err?.message ?? err,
+  )
+  process.exit(0)
 })
