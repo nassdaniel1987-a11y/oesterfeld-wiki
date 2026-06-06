@@ -22,25 +22,25 @@ configuration:
       code: Fira Code
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#1a1a1a"
-        secondary: "#b38200"
-        tertiary: "#FFD500"
-        highlight: rgba(255, 213, 0, 0.15)
-        textHighlight: "#FFD50088"
+        light: "#f7f4ec"
+        lightgray: "#ddd5c5"
+        gray: "#9d927f"
+        darkgray: "#4d4639"
+        dark: "#25231f"
+        secondary: "#a97612"
+        tertiary: "#2f6f73"
+        highlight: rgba(241, 212, 106, 0.2)
+        textHighlight: "#f1d46a88"
       darkMode:
-        light: "#121212"
-        lightgray: "#2d2d2d"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ffffff"
-        secondary: "#FFD500"
-        tertiary: "#d4a900"
-        highlight: rgba(255, 213, 0, 0.2)
-        textHighlight: "#FFD50088"
+        light: "#111412"
+        lightgray: "#33362f"
+        gray: "#817b6f"
+        darkgray: "#d8d2c4"
+        dark: "#eeeae1"
+        secondary: "#d4a840"
+        tertiary: "#6ebcb8"
+        highlight: rgba(212, 168, 64, 0.14)
+        textHighlight: "#d4a84055"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -74,6 +74,7 @@ plugins:
     layout:
       position: right
       priority: 30
+      condition: not-index
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -138,6 +139,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      condition: not-index
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -151,6 +153,7 @@ plugins:
     layout:
       position: right
       priority: 50
+      condition: not-index
   - source: github:quartz-community/article-title
     enabled: true
     layout:
