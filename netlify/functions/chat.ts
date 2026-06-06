@@ -1,15 +1,12 @@
-// RAG-Chat-Endpoint für das GTS Wiki.
+// RAG-Chat-Endpoint für das GTS Wiki – mit Cloudflare Workers AI.
 //
 // Lädt den beim Build erzeugten Embedding-Index, sucht zur Nutzerfrage die
-// relevantesten Wiki-Auszüge (Cosine-Similarity) und lässt Gemini Flash
-// AUSSCHLIESSLICH auf deren Basis antworten. Die LLM-Anbindung ist hier
-// gekapselt – ein späterer Wechsel des Anbieters betrifft nur diese Datei.
+// relevantesten Wiki-Auszüge (Cosine-Similarity) und lässt ein Llama-Modell
+// AUSSCHLIESSLICH auf deren Basis antworten. Die KI-Anbindung ist hier
+// gekapselt – ein Anbieterwechsel betrifft nur diese Datei.
 
-const GENERATION_MODEL = "gemini-2.5-flash"
-const EMBEDDING_MODEL = "gemini-embedding-001"
-const EMBED_DIM = 768
-const GEN_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GENERATION_MODEL}:generateContent`
-const EMBED_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:embedContent`
+const EMBEDDING_MODEL = "@cf/baai/bge-m3"
+const GENERATION_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
 
 const TOP_K = 6
 const MAX_CONTEXT_CHUNKS = 10
@@ -59,6 +56,21 @@ const getEnv = (name: string) => {
   return netlifyEnv?.env?.get?.(name) ?? process.env[name]
 }
 
+const cfRun = async (accountId: string, token: string, model: string, input: unknown) => {
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${model}`,
+    {
+      method: "POST",
+      headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+      body: JSON.stringify(input),
+    },
+  )
+  if (!res.ok) {
+    throw new Error(`Cloudflare AI (${model}) fehlgeschlagen: ${res.status} ${await res.text()}`)
+  }
+  return res.json()
+}
+
 // Index einmal pro Cold Start laden und im Modul-Scope cachen.
 let indexCache: WikiIndex | null = null
 const loadIndex = async (origin: string): Promise<WikiIndex> => {
@@ -83,22 +95,17 @@ const cosine = (a: number[], b: number[]) => {
   return dot / (Math.sqrt(na) * Math.sqrt(nb) || 1)
 }
 
-const embedQuestion = async (apiKey: string, question: string): Promise<number[]> => {
-  const res = await fetch(`${EMBED_ENDPOINT}?key=${apiKey}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      model: `models/${EMBEDDING_MODEL}`,
-      content: { parts: [{ text: question }] },
-      taskType: "RETRIEVAL_QUERY",
-      outputDimensionality: EMBED_DIM,
-    }),
-  })
-  if (!res.ok) {
-    throw new Error(`Embedding fehlgeschlagen: ${res.status} ${await res.text()}`)
+const embedQuestion = async (
+  accountId: string,
+  token: string,
+  question: string,
+): Promise<number[]> => {
+  const data = await cfRun(accountId, token, EMBEDDING_MODEL, { text: [question] })
+  const vector = data?.result?.data?.[0]
+  if (!Array.isArray(vector)) {
+    throw new Error("Embedding-Antwort enthielt keinen Vektor")
   }
-  const data = await res.json()
-  return data.embedding.values as number[]
+  return vector as number[]
 }
 
 const retrieve = (index: WikiIndex, queryEmbedding: number[]) => {
@@ -146,29 +153,22 @@ const wantsCurrentPage = (question: string) => {
   return PAGE_INTENT_PATTERNS.some((p) => lower.includes(p))
 }
 
-const callGemini = async (apiKey: string, systemPrompt: string, history: ChatMessage[]) => {
-  const contents = history.slice(-MAX_HISTORY_FOR_PROMPT).map((m) => ({
-    role: m.role === "assistant" ? "model" : "user",
-    parts: [{ text: m.content }],
-  }))
-
-  const res = await fetch(`${GEN_ENDPOINT}?key=${apiKey}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      systemInstruction: { parts: [{ text: systemPrompt }] },
-      contents,
-      generationConfig: { temperature: 0.2, maxOutputTokens: 1024 },
-    }),
+const generateAnswer = async (
+  accountId: string,
+  token: string,
+  systemPrompt: string,
+  history: ChatMessage[],
+) => {
+  const messages = [
+    { role: "system", content: systemPrompt },
+    ...history.slice(-MAX_HISTORY_FOR_PROMPT).map((m) => ({ role: m.role, content: m.content })),
+  ]
+  const data = await cfRun(accountId, token, GENERATION_MODEL, {
+    messages,
+    temperature: 0.2,
+    max_tokens: 1024,
   })
-  if (!res.ok) {
-    throw new Error(`Gemini-Antwort fehlgeschlagen: ${res.status} ${await res.text()}`)
-  }
-  const data = await res.json()
-  const text = data.candidates?.[0]?.content?.parts
-    ?.map((p: { text?: string }) => p.text ?? "")
-    .join("")
-  return (text ?? "").trim()
+  return (data?.result?.response ?? "").trim()
 }
 
 const dedupeSources = (chunks: IndexChunk[]): Source[] => {
@@ -187,8 +187,9 @@ export default async (req: Request) => {
     return json({ error: "Method not allowed" }, 405)
   }
 
-  const apiKey = getEnv("GEMINI_API_KEY")
-  if (!apiKey) {
+  const accountId = getEnv("CF_ACCOUNT_ID")
+  const token = getEnv("CF_API_TOKEN")
+  if (!accountId || !token) {
     return json({ error: "Chatbot ist nicht konfiguriert." }, 500)
   }
 
@@ -216,12 +217,11 @@ export default async (req: Request) => {
   try {
     const origin = new URL(req.url).origin
     const index = await loadIndex(origin)
-    const queryEmbedding = await embedQuestion(apiKey, question)
+    const queryEmbedding = await embedQuestion(accountId, token, question)
     const simChunks = retrieve(index, queryEmbedding)
 
     // Bezieht sich die Frage auf die gerade geöffnete Seite? Dann deren Chunks
-    // priorisieren und mit der Ähnlichkeitssuche auffüllen (robust gegen
-    // Fehlinterpretation, falls doch ein Thema genannt wurde).
+    // priorisieren und mit der Ähnlichkeitssuche auffüllen.
     const pageSlug = normalizeSlug(payload.pageUrl)
     const pageChunks = pageSlug ? index.chunks.filter((c) => c.slug === pageSlug) : []
     const usePage = pageChunks.length > 0 && wantsCurrentPage(question)
@@ -237,13 +237,12 @@ export default async (req: Request) => {
     }
 
     const systemPrompt = buildSystemPrompt(contextChunks, usePage ? pageChunks[0].title : undefined)
-    const answer = await callGemini(apiKey, systemPrompt, messages)
+    const answer = await generateAnswer(accountId, token, systemPrompt, messages)
 
     const isMiss = answer.startsWith("Dazu finde ich im Wiki nichts")
     return json({ answer, sources: isMiss ? [] : dedupeSources(contextChunks) })
   } catch (error) {
     console.error(error)
-    // Vorübergehend echten Fehlertext zurückgeben, um Probleme zu diagnostizieren.
     const detail = error instanceof Error ? error.message : String(error)
     return json({ error: `Serverfehler: ${detail}` }, 500)
   }

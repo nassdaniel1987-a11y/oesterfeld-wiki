@@ -1,48 +1,36 @@
-// Erzeugt den Embedding-Index für den Wiki-Chatbot.
+// Erzeugt den Embedding-Index für den Wiki-Chatbot mit Cloudflare Workers AI.
 //
 // Liest die von Quartz erzeugte public/static/contentIndex.json (bereits
-// HTML-bereinigt und um Drafts/Private gefiltert), zerlegt jede Seite in
-// Chunks, holt für jeden Chunk ein Gemini-Embedding und schreibt das Ergebnis
-// nach quartz/static/wiki-chat-index.json.
+// HTML-bereinigt und um Drafts/Private gefiltert), zerlegt jede Seite in Chunks,
+// holt Embeddings (@cf/baai/bge-m3) und schreibt public/static/wiki-chat-index.json.
 //
-// WICHTIG: Der erzeugte Index wird ins Repo committet. Existiert er bereits,
-// überspringt dieser Schritt das (kontingentierte) Einbetten komplett – Deploys
-// rufen dann nie die Embedding-API auf. Neu erzeugen: Datei löschen oder mit
-// FORCE_CHAT_INDEX=1 starten. Lokal aufrufbar via `npm run build-chat-index`.
+// Läuft im Netlify-Build NACH `quartz build`. Benötigt CF_ACCOUNT_ID und
+// CF_API_TOKEN. Cloudflares Gratis-Kontingent ist großzügig genug, um bei jedem
+// Deploy neu einzubetten – kein Vorbauen/Committen nötig. Fehler brechen den
+// Deploy nicht ab (dann antwortet nur der Chat nicht).
 
 import { readFile, writeFile } from "node:fs/promises"
-import { existsSync } from "node:fs"
 import { fileURLToPath } from "node:url"
 import { dirname, join } from "node:path"
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, "..")
 const CONTENT_INDEX = join(ROOT, "public", "static", "contentIndex.json")
-// In quartz/static, damit die Datei ins Repo committet und vom Static-Emitter
-// nach public/static/ ausgeliefert wird.
-const OUTPUT = join(ROOT, "quartz", "static", "wiki-chat-index.json")
+const OUTPUT = join(ROOT, "public", "static", "wiki-chat-index.json")
 
-const EMBEDDING_MODEL = "gemini-embedding-001"
-const EMBED_DIM = 768
-const EMBEDDING_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:batchEmbedContents`
+const EMBEDDING_MODEL = "@cf/baai/bge-m3"
+const ACCOUNT_ID = process.env.CF_ACCOUNT_ID
+const API_TOKEN = process.env.CF_API_TOKEN
 
-// Größere Chunks (~seitenweise) halten die Gesamtzahl der Embeddings klein,
-// damit eine einmalige Generierung unter den Gratis-Limits bleibt.
-const MAX_CHUNK_CHARS = 5000
-const CHUNK_OVERLAP_CHARS = 300
+const MAX_CHUNK_CHARS = 1800
+const CHUNK_OVERLAP_CHARS = 200
 const MIN_PAGE_CHARS = 120
-// Jeder Inhalt zählt einzeln gegen das Pro-Minute-Limit (100). Kleine Batches +
-// Drosselung halten uns darunter.
-const BATCH_SIZE = 40
-const REQUESTS_PER_MINUTE = 90
+const BATCH_SIZE = 50
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
-
-const API_KEY = process.env.GEMINI_API_KEY
 
 const isExcludedSlug = (slug) =>
   slug.startsWith("tags/") || slug === "index" || slug.endsWith("/index")
 
-// Normalisiert Whitespace; behält Absatzgrenzen als doppelte Zeilenumbrüche.
 const cleanText = (text) =>
   text
     .replace(/\r/g, "")
@@ -51,7 +39,6 @@ const cleanText = (text) =>
     .replace(/[ \t]*\n[ \t]*/g, "\n")
     .trim()
 
-// Erster sinnvoller Absatz als Anzeige-Titel (H1 der Seite), Fallback: Dateiname.
 const deriveTitle = (content, fallback) => {
   const firstLine = content
     .split("\n")
@@ -61,8 +48,6 @@ const deriveTitle = (content, fallback) => {
   return fallback.replace(/_/g, " ")
 }
 
-// Zerlegt Text in überlappende Chunks an Absatzgrenzen, ohne MAX_CHUNK_CHARS
-// stark zu überschreiten.
 const chunkText = (text) => {
   const paragraphs = text
     .split("\n\n")
@@ -79,7 +64,6 @@ const chunkText = (text) => {
 
   for (const para of paragraphs) {
     if (para.length > MAX_CHUNK_CHARS) {
-      // Sehr langer Absatz: hart in Stücke schneiden.
       flush()
       for (let i = 0; i < para.length; i += MAX_CHUNK_CHARS - CHUNK_OVERLAP_CHARS) {
         chunks.push(para.slice(i, i + MAX_CHUNK_CHARS))
@@ -105,7 +89,6 @@ const buildChunks = (contentIndex) => {
     const title = deriveTitle(content, entry.title ?? slug)
     const url = `/${slug}`
     for (const text of chunkText(content)) {
-      // Titel als Kontext voranstellen, damit das Embedding die Seite "kennt".
       chunks.push({ text, embedText: `${title}\n\n${text}`, title, url, slug })
     }
   }
@@ -113,46 +96,43 @@ const buildChunks = (contentIndex) => {
 }
 
 const embedBatch = async (texts, attempt = 0) => {
-  const body = {
-    requests: texts.map((text) => ({
-      model: `models/${EMBEDDING_MODEL}`,
-      content: { parts: [{ text }] },
-      taskType: "RETRIEVAL_DOCUMENT",
-      outputDimensionality: EMBED_DIM,
-    })),
-  }
-  const res = await fetch(`${EMBEDDING_ENDPOINT}?key=${API_KEY}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  })
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/ai/run/${EMBEDDING_MODEL}`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${API_TOKEN}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ text: texts }),
+    },
+  )
 
-  if (res.status === 429 && attempt < 8) {
-    const detail = await res.text()
-    const match = detail.match(/retry in ([\d.]+)s/i) || detail.match(/"retryDelay":\s*"(\d+)s"/i)
-    const waitSec = Math.ceil(parseFloat(match?.[1] ?? "60")) + 2
-    console.log(`[chat-index] Rate-Limit (429) – warte ${waitSec}s und versuche erneut …`)
-    await sleep(waitSec * 1000)
-    return embedBatch(texts, attempt + 1)
-  }
   if (!res.ok) {
+    if (res.status === 429 && attempt < 5) {
+      console.log("[chat-index] Cloudflare 429 – warte 15s und versuche erneut …")
+      await sleep(15000)
+      return embedBatch(texts, attempt + 1)
+    }
     throw new Error(`Embedding-Request fehlgeschlagen: ${res.status} ${await res.text()}`)
   }
-  const data = await res.json()
-  return data.embeddings.map((e) => e.values)
+
+  const json = await res.json()
+  const vectors = json?.result?.data
+  if (!Array.isArray(vectors)) {
+    throw new Error(`Unerwartete Embedding-Antwort: ${JSON.stringify(json).slice(0, 300)}`)
+  }
+  return vectors
 }
 
 const main = async () => {
-  if (existsSync(OUTPUT) && !process.env.FORCE_CHAT_INDEX) {
-    console.log(`[chat-index] Index bereits vorhanden (${OUTPUT}) – überspringe Embedding.`)
-    return
-  }
-  if (!API_KEY) {
+  if (!ACCOUNT_ID || !API_TOKEN) {
     console.warn(
-      "[chat-index] WARN: GEMINI_API_KEY fehlt – Index wird nicht erzeugt, Build läuft weiter.",
+      "[chat-index] WARN: CF_ACCOUNT_ID/CF_API_TOKEN fehlen – Index wird nicht erzeugt, Build läuft weiter.",
     )
     return
   }
+
   const contentIndex = JSON.parse(await readFile(CONTENT_INDEX, "utf8"))
   const chunks = buildChunks(contentIndex)
   console.log(
@@ -160,24 +140,9 @@ const main = async () => {
   )
 
   const records = []
-  let windowStart = Date.now()
-  let sentInWindow = 0
   for (let i = 0; i < chunks.length; i += BATCH_SIZE) {
     const batch = chunks.slice(i, i + BATCH_SIZE)
-
-    // Pro-Minute-Limit proaktiv einhalten (jeder Chunk = eine Anfrage).
-    if (sentInWindow + batch.length > REQUESTS_PER_MINUTE) {
-      const wait = Math.max(0, 60000 - (Date.now() - windowStart))
-      if (wait > 0) {
-        console.log(`[chat-index] Drossel: warte ${Math.ceil(wait / 1000)}s (Pro-Minute-Limit) …`)
-        await sleep(wait)
-      }
-      windowStart = Date.now()
-      sentInWindow = 0
-    }
-
     const embeddings = await embedBatch(batch.map((c) => c.embedText))
-    sentInWindow += batch.length
     batch.forEach((c, j) => {
       records.push({
         text: c.text,
@@ -202,7 +167,6 @@ const main = async () => {
 }
 
 main().catch((err) => {
-  // Den Deploy nicht abbrechen – ohne Index funktioniert nur der Chat (noch) nicht.
   console.warn(
     "[chat-index] WARN: Index konnte nicht erzeugt werden, Build läuft weiter:",
     err?.message ?? err,
