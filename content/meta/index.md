@@ -65,6 +65,20 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[Zusammenarbeit_mit_Eltern|GTS: Elternarbeit]]: Erziehungspartnerschaft und regelmäßiger Dialog.
 - [[Steuerung_und_Schulleitung|GTS: Steuerung & Schulleitung]]: Personalentwicklung und Kommunikationsmanagement.
 
+## Hauskonzeption (Textblöcke)
+- [[08_Hauskonzeption/index|Hauskonzeption – Übersicht]]: Sammlung der verbindlichen Textblöcke für die Einrichtungskonzeption, mit Kontext-Kästen ins Wiki.
+- [[Textblock_Sprachliche_Bildung|Textblock: Sprachliche Bildung]]: Alltagsintegrierte Sprachbildung als Querschnittsaufgabe.
+- [[Textblock_Gut_ankommen|Textblock: Gut ankommen (Schulkind)]]: Eingewöhnung und Ankommen im Zusammenhang mit der Einschulung.
+- [[Textblock_Ausfluege_und_Aktivitaeten|Textblock: Ausflüge & Aktivitäten]]: Spaziergänge im Nahraum und Regelung größerer Ausflüge.
+- [[Textblock_Kinderschutz|Textblock: Kinderschutz]]: Gesetzlicher Rahmen, Schutzkonzept und Prävention.
+- [[Textblock_Beschwerdeverfahren|Textblock: Beschwerdeverfahren]]: Partizipatives Beschwerdemanagement für Kinder und Familien.
+- [[Textblock_Qualitaetssicherung|Textblock: Qualität & Qualitätssicherung]]: Gesetzlicher Auftrag, Instrumente und Konzeption als Arbeitsinstrument.
+- [[Textblock_Datenschutz_und_Aktenfuehrung|Textblock: Datenschutz & Aktenführung]]: DSGVO, Buch- und Aktenführung über den Träger.
+- [[Textblock_Zusammenarbeit_mit_Familien|Textblock: Zusammenarbeit mit Familien]]: Erziehungspartnerschaft auf Augenhöhe.
+- [[Textblock_Zusammenarbeit_mit_Schule|Textblock: Zusammenarbeit mit Schule]]: Kooperation von Ganztag/Hort und Schule.
+- [[Textblock_Zusammenarbeit_mit_dem_Traeger|Textblock: Zusammenarbeit mit dem Träger]]: Rolle von Jugendamt und Bereichsleitung.
+- [[Textblock_Zusammenarbeit_im_Team|Textblock: Zusammenarbeit im Team (optional)]]: Multiprofessionelle, reflektierte Teamarbeit.
+
 ## Vorlagen & Praxismaterial
 - [[Vorlagen_und_Downloads|Vorlagen & Downloads]]: Zentraler Hub für Wiki-Vorlagen sowie Word- und PDF-Dateien.
 - [[Vorlage_Angebotsplanung|Vorlage: Angebotsplanung]]: Planungsraster für Ganztagsangebote mit Beteiligung und Reflexion.

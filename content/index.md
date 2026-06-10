@@ -100,6 +100,11 @@ title: Startseite
 <p>Forschendes Lernen, Scaffolding, Projektarbeit, Feedback und Begriffe.</p>
 <a href="Glossar_und_Schnellzugriff">Schnellzugriff öffnen</a>
 </div>
+<div class="path-card">
+<h3>Hauskonzeption</h3>
+<p>Verbindliche Textblöcke für die Einrichtungskonzeption – 1:1 nutzbar.</p>
+<a href="08_Hauskonzeption/">Textblöcke öffnen</a>
+</div>
 </div>
 </section>
 

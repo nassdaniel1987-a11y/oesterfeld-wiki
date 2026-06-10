@@ -144,3 +144,13 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
   - Zentrale Fachseiten mit kurzen `Nächster Schritt`-Boxen ergänzt.
   - [[Glossar_und_Schnellzugriff|Glossar & Schnellzugriff]], [[Praxispfade]] und [[Forschung_Ganztag_2024_2026|Forschung zum Ganztag 2024-2026]] stärker mit Themenpfaden vernetzt.
   - Explorer-Benennungen und Sidebar-CSS weiter beruhigt; neue Karten- und Praxisboxen in `custom.scss` ergänzt.
+
+## [2026-06-10] Ingest | Hauskonzeption – Textblöcke
+- **Quelle:** 11 finale Textblock-Vorlagen in `content/raw/Textblock_*_final.pdf`.
+- **Aktionen:**
+  - Neue Sektion `08_Hauskonzeption` mit Übersichtsseite [[08_Hauskonzeption/index|Hauskonzeption]] angelegt.
+  - 11 Textblock-Seiten erstellt, Text jeweils 1:1 aus den Roh-PDFs übernommen (Sprachliche Bildung, Gut ankommen, Ausflüge, Kinderschutz, Beschwerdeverfahren, Qualität & Qualitätssicherung, Datenschutz & Aktenführung, Zusammenarbeit mit Familien / Schule / Träger / Team).
+  - Jede Seite mit Quelle-Hinweis und einem `Kontext im Wiki`-Kasten (Querverweise auf bestehende Themen) versehen.
+  - Ordner als Navigationspunkt „Hauskonzeption" in `quartz.ts` registriert, Anzeigenamen der Textblock-Seiten ergänzt.
+  - Startseite (neue Themenraum-Kachel) und Wiki Index um die Sektion erweitert.
+  - Hinweis: In `raw/` lagen zwei Dubletten (`Beschwerdemanagement_final (1)`, `Qualität sichern_final (1)`) – nur je ein Block erstellt.
