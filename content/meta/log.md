@@ -149,7 +149,7 @@ Dies ist das chronologische, reine Append-Only-Protokoll aller Aktionen, Ingest-
 - **Quelle:** 11 finale Textblock-Vorlagen in `content/raw/Textblock_*_final.pdf`.
 - **Aktionen:**
   - Neue Sektion `08_Hauskonzeption` mit Übersichtsseite [[08_Hauskonzeption/index|Hauskonzeption]] angelegt.
-  - 11 Textblock-Seiten erstellt, Text jeweils 1:1 aus den Roh-PDFs übernommen (Sprachliche Bildung, Gut ankommen, Ausflüge, Kinderschutz, Beschwerdeverfahren, Qualität & Qualitätssicherung, Datenschutz & Aktenführung, Zusammenarbeit mit Familien / Schule / Träger / Team).
+  - 12 Textblock-Seiten erstellt, Text jeweils 1:1 aus den Roh-PDFs übernommen (Sprachliche Bildung, Gut ankommen, Tagesstruktur, Ausflüge, Kinderschutz, Beschwerdeverfahren, Qualität & Qualitätssicherung, Datenschutz & Aktenführung, Zusammenarbeit mit Familien / Schule / Träger / Team).
   - Jede Seite mit Quelle-Hinweis und einem `Kontext im Wiki`-Kasten (Querverweise auf bestehende Themen) versehen.
   - Ordner als Navigationspunkt „Hauskonzeption" in `quartz.ts` registriert, Anzeigenamen der Textblock-Seiten ergänzt.
   - Startseite (neue Themenraum-Kachel) und Wiki Index um die Sektion erweitert.

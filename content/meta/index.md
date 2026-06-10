@@ -69,6 +69,7 @@ Hier ist ein Katalog aller existierenden Seiten im Wiki. Jede Seite ist hier mit
 - [[08_Hauskonzeption/index|Hauskonzeption – Übersicht]]: Sammlung der verbindlichen Textblöcke für die Einrichtungskonzeption, mit Kontext-Kästen ins Wiki.
 - [[Textblock_Sprachliche_Bildung|Textblock: Sprachliche Bildung]]: Alltagsintegrierte Sprachbildung als Querschnittsaufgabe.
 - [[Textblock_Gut_ankommen|Textblock: Gut ankommen (Schulkind)]]: Eingewöhnung und Ankommen im Zusammenhang mit der Einschulung.
+- [[Textblock_Tagesstruktur|Textblock: Tagesstruktur (Schulkind)]]: Rhythmisierter Tagesablauf zwischen Anspannung und Entspannung (optional, zu ergänzen).
 - [[Textblock_Ausfluege_und_Aktivitaeten|Textblock: Ausflüge & Aktivitäten]]: Spaziergänge im Nahraum und Regelung größerer Ausflüge.
 - [[Textblock_Kinderschutz|Textblock: Kinderschutz]]: Gesetzlicher Rahmen, Schutzkonzept und Prävention.
 - [[Textblock_Beschwerdeverfahren|Textblock: Beschwerdeverfahren]]: Partizipatives Beschwerdemanagement für Kinder und Familien.

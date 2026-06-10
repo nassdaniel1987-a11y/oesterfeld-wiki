@@ -71,6 +71,7 @@ ExternalPlugin.Explorer({
       textblock_kinderschutz: "Kinderschutz",
       textblock_qualitaetssicherung: "Qualität & Qualitätssicherung",
       textblock_sprachliche_bildung: "Sprachliche Bildung",
+      textblock_tagesstruktur: "Tagesstruktur (Schulkind)",
       textblock_zusammenarbeit_im_team: "Zusammenarbeit im Team",
       textblock_zusammenarbeit_mit_dem_traeger: "Zusammenarbeit mit dem Träger",
       textblock_zusammenarbeit_mit_familien: "Zusammenarbeit mit Familien",

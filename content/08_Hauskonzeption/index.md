@@ -15,6 +15,7 @@ tags: [hauskonzeption, textblock, einrichtungskonzeption]
 
 ### Tagesstruktur & Ankommen
 - [[Textblock_Gut_ankommen|Gut ankommen in der Einrichtung (Schulkind)]]
+- [[Textblock_Tagesstruktur|Tagesstruktur (Schulkind, optional)]]
 - [[Textblock_Ausfluege_und_Aktivitaeten|Ausflüge und Aktivitäten]]
 
 ### Pädagogische Schwerpunkte
