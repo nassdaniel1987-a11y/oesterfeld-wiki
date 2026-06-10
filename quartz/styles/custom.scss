@@ -1659,3 +1659,16 @@ body:not([data-slug="index"]) .article-title {
     display: none;
   }
 }
+
+/* Interner Footer-Hinweis (Disclaimer + Quellen) */
+footer {
+  &::after {
+    content: "Internes, unverbindliches Arbeitsdokument der GTS Österfeld – kein offizielles Angebot der Landeshauptstadt Stuttgart. Inhalte u. a. nach Orientierungsplan BW und Trägerprofil Einstein 2.0.";
+    display: block;
+    margin-top: 0.75rem;
+    max-width: 70ch;
+    font-size: 0.72rem;
+    line-height: 1.55;
+    color: var(--gts-muted);
+  }
+}

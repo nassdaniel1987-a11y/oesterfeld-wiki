@@ -203,7 +203,8 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links: {}
+      links:
+        "Hinweise & Quellen": "/Hinweise"
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
