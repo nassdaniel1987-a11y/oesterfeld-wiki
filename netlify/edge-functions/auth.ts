@@ -12,7 +12,7 @@
 import type { Context } from "https://edge.netlify.com"
 
 const COOKIE = "gts_auth"
-const MAX_AGE = 60 * 60 * 24 * 30 // 30 Tage
+const MAX_AGE = 60 * 60 * 24 * 180 // 180 Tage
 
 async function token(password: string): Promise<string> {
   const data = new TextEncoder().encode(`${password}::gts-oesterfeld`)
@@ -70,6 +70,7 @@ function gate(error = false): Response {
   .error { margin: 0 0 1.1rem; padding: 0.6rem 0.8rem; border-radius: 8px; font-size: 0.88rem;
     color: var(--error); background: color-mix(in srgb, var(--error) 12%, transparent);
     border: 1px solid color-mix(in srgb, var(--error) 35%, transparent); }
+  .hint { margin: 0.9rem 0 0; font-size: 0.82rem; color: var(--muted); text-align: center; }
   .foot { margin: 1.5rem 0 0; font-size: 0.78rem; color: var(--muted); line-height: 1.5; }
 </style>
 </head>
@@ -84,6 +85,7 @@ function gate(error = false): Response {
       <input id="password" name="password" type="password" autofocus required />
       <button type="submit">Anmelden</button>
     </form>
+    <p class="hint">Passwort vergessen? Einfach beim Team oder bei der Leitung erfragen.</p>
     <p class="foot">Internes, unverbindliches Arbeitsdokument – kein offizielles Angebot der Landeshauptstadt Stuttgart.</p>
   </main>
 </body>
