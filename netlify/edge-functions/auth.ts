@@ -108,7 +108,8 @@ export default async (request: Request, context: Context) => {
   if (request.method === "POST") {
     const form = await request.formData()
     const submitted = String(form.get("password") ?? "")
-    if (submitted === password) {
+    // Groß-/Kleinschreibung wird ignoriert (z. B. "gts..." == "GTS...").
+    if (submitted.toLowerCase() === password.toLowerCase()) {
       const url = new URL(request.url)
       return new Response(null, {
         status: 303,
