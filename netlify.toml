@@ -5,3 +5,9 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Passwortschutz für das gesamte interne Wiki.
+# Passwort wird über die Umgebungsvariable SITE_PASSWORD im Netlify-Dashboard gesetzt.
+[[edge_functions]]
+  path = "/*"
+  function = "auth"
