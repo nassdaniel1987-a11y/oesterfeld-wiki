@@ -105,6 +105,15 @@ export default async (request: Request, context: Context) => {
   const authed = cookies.split(";").some((c) => c.trim() === `${COOKIE}=${expected}`)
   if (authed) return context.next()
 
+  // API-Aufrufe (Chatbot) erwarten JSON – nicht die Login-Seite als HTML,
+  // sonst scheitert das Frontend am Parsen statt den Hinweis zu zeigen.
+  if (new URL(request.url).pathname.startsWith("/api/")) {
+    return new Response(JSON.stringify({ error: "Sitzung abgelaufen. Bitte Seite neu laden." }), {
+      status: 401,
+      headers: { "content-type": "application/json", "cache-control": "no-store" },
+    })
+  }
+
   if (request.method === "POST") {
     const form = await request.formData()
     const submitted = String(form.get("password") ?? "")

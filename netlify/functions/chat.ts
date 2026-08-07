@@ -5,6 +5,10 @@
 // AUSSCHLIESSLICH auf deren Basis antworten. Die KI-Anbindung ist hier
 // gekapselt – ein Anbieterwechsel betrifft nur diese Datei.
 
+import { readFile } from "node:fs/promises"
+import path from "node:path"
+import { fileURLToPath } from "node:url"
+
 const EMBEDDING_MODEL = "@cf/baai/bge-m3"
 const GENERATION_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
 
@@ -72,15 +76,44 @@ const cfRun = async (accountId: string, token: string, model: string, input: unk
 }
 
 // Index einmal pro Cold Start laden und im Modul-Scope cachen.
+//
+// Bewusst vom Dateisystem statt per HTTP: ein Request an die eigene Domain
+// trägt kein Auth-Cookie und würde vom Passwortschutz (netlify/edge-functions/auth.ts)
+// mit der Login-Seite beantwortet. Die Datei wird über `included_files`
+// in netlify.toml mit der Function ausgeliefert.
+const INDEX_PATH = "public/static/wiki-chat-index.json"
+
 let indexCache: WikiIndex | null = null
-const loadIndex = async (origin: string): Promise<WikiIndex> => {
+const loadIndex = async (): Promise<WikiIndex> => {
   if (indexCache) return indexCache
-  const res = await fetch(`${origin}/static/wiki-chat-index.json`)
-  if (!res.ok) {
-    throw new Error(`Index konnte nicht geladen werden: ${res.status}`)
+
+  // Je nach Bundling liegt die Datei relativ zum Arbeitsverzeichnis oder zum
+  // Modul – beide Startpunkte nach oben durchsuchen.
+  const roots = [process.cwd(), fileURLToPath(new URL(".", import.meta.url))]
+  const candidates = new Set<string>()
+  for (const root of roots) {
+    let dir = root
+    for (let up = 0; up < 5; up++) {
+      candidates.add(path.join(dir, INDEX_PATH))
+      const parent = path.dirname(dir)
+      if (parent === dir) break
+      dir = parent
+    }
   }
-  indexCache = (await res.json()) as WikiIndex
-  return indexCache
+
+  for (const candidate of candidates) {
+    try {
+      indexCache = JSON.parse(await readFile(candidate, "utf8")) as WikiIndex
+      return indexCache
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code === "ENOENT") continue
+      throw error
+    }
+  }
+
+  throw new Error(
+    `Index (${INDEX_PATH}) nicht gefunden – läuft der Build-Schritt "node scripts/build-chat-index.mjs"?`,
+  )
 }
 
 const cosine = (a: number[], b: number[]) => {
@@ -215,8 +248,7 @@ export default async (req: Request) => {
   }
 
   try {
-    const origin = new URL(req.url).origin
-    const index = await loadIndex(origin)
+    const index = await loadIndex()
     const queryEmbedding = await embedQuestion(accountId, token, question)
     const simChunks = retrieve(index, queryEmbedding)
 

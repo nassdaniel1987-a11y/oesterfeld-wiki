@@ -6,6 +6,12 @@
 [build.environment]
   NODE_VERSION = "22"
 
+# Der Chat-Index wird mit der Function ausgeliefert und von dort direkt gelesen.
+# Per HTTP ginge es nicht: ein Request an die eigene Domain hat kein Auth-Cookie
+# und liefe in den Passwortschutz der Edge Function.
+[functions]
+  included_files = ["public/static/wiki-chat-index.json"]
+
 # Passwortschutz für das gesamte interne Wiki.
 # Passwort wird über die Umgebungsvariable SITE_PASSWORD im Netlify-Dashboard gesetzt.
 [[edge_functions]]
