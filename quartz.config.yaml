@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: de-DE
-  baseUrl: oesterfeld-gts-wiki.netlify.app
+  baseUrl: oesterwiki.netlify.app
   ignorePatterns:
     - private
     - templates
