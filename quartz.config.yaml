@@ -106,6 +106,16 @@ plugins:
     enabled: false
   - source: github:quartz-community/alias-redirects
     enabled: true
+    options:
+      # MUSS false bleiben. Ist die Option aktiv, legt das Plugin auf
+      # case-sensitiven Build-Systemen (Linux, also Netlify) zusaetzlich zu
+      # jeder Seite eine Weiterleitungsdatei mit Original-Schreibweise an
+      # (Forschendes_Lernen_im_Ganztag.html neben forschendes_lernen_im_ganztag.html).
+      # Netlifys CDN loest URLs aber case-INsensitiv auf: beide Dateien fallen
+      # auf dieselbe URL, der Stub gewinnt und leitet auf sich selbst weiter
+      # -> Endlosschleife auf jeder Seite. Lokal unsichtbar, weil Windows/macOS
+      # case-insensitiv sind und das Plugin dort vorzeitig abbricht.
+      enableCaseRedirects: false
   - source: github:quartz-community/content-index
     enabled: true
     options:

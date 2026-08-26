@@ -1,10 +1,17 @@
-# WICHTIG: quartz.lock.json darf hier NICHT geloescht werden.
-# Ohne Lockfile zieht `plugin install` bei jedem Deploy den neuesten Stand
-# aller Community-Plugins. Genau das hat den Endlos-Reload verursacht: eine
-# neuere Version von `alias-redirects` legte fuer jede Seite eine Weiterleitung
-# auf sich selbst an und ueberschrieb damit die echte Seite.
+# `rm -f quartz.lock.json` ist hier notwendig und darf nicht entfernt werden.
+# Netlify cached .quartz/plugins zwischen Builds. Liegt zusaetzlich die Lockfile
+# vor, meldet `plugin install --from-config` "All configured plugins are already
+# installed", ueberspringt alles - und regeneriert dabei auch .quartz/plugins/index.ts
+# nicht. Der Build bricht dann mit "Could not resolve ./.quartz/plugins" ab.
+#
+# Die Kehrseite: Plugins kommen dadurch immer vom neuesten Stand, nicht von den
+# in quartz.lock.json gepinnten Commits. Ein Pinning ueber `plugin install --clean`
+# funktioniert derzeit nicht - der Befehl klont mit `--depth 1` und scheitert
+# anschliessend am `git checkout <alter-commit>` (43 von 43 Plugins schlagen fehl).
+# Verhalten, das sich dadurch aendert, muss deshalb ueber Plugin-Optionen in
+# quartz.config.yaml abgesichert werden - siehe dort `enableCaseRedirects`.
 [build]
-  command = "npx quartz plugin install --from-config && npx quartz build && node scripts/build-chat-index.mjs"
+  command = "rm -f quartz.lock.json && npx quartz plugin install --from-config && npx quartz build && node scripts/build-chat-index.mjs"
   publish = "public"
   functions = "netlify/functions"
 
